@@ -1,41 +1,39 @@
 # -*- coding: utf-8 -*-
-"""Publica os artigos como posts no blog do Shopify (headspabrasil.com/blogs/blog).
+"""Publica os artigos no blog do Shopify (headspabrasil.com/blogs/blog).
 
-O token NUNCA fica neste arquivo. Ele e lido de:
-    /Users/neygrande/Claude/.shopify_token
+Fluxo novo (2026): apps do Dev Dashboard nao exibem mais token na interface.
+Usamos "client credentials grant": trocamos Client ID + Chave secreta por um
+token de curta duracao, na hora. O token nunca fica gravado em disco.
+
+A CHAVE SECRETA nunca aparece neste arquivo. Ela e lida de:
+    ~/Claude/.shopify_secret
 
 Uso:
-    python3 shopify_publish.py            # lista os blogs da loja (nao publica nada)
+    python3 shopify_publish.py             # testa conexao e lista os blogs
     python3 shopify_publish.py --publicar  # cria/atualiza os posts
 """
 import glob, json, os, re, sys, zipfile, urllib.request, urllib.error
 
 LOJA = "head-spa-brasil"
-VERSAO_API = "2025-01"
+CLIENT_ID = "37281659f580462f940ef95ff76d44fa"   # publico, visivel no Dev Dashboard
+VERSAO_API = "2025-07"
 DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "shopify")
 AUTOR = "Head Spa Brasil"
 
-# Onde procurar o token. Aceita .txt, .rtf, .docx e qualquer arquivo solto na pasta.
-CANDIDATOS = [
-    "~/Claude/.shopify_token",
+CANDIDATOS_SEGREDO = [
+    "~/Claude/.shopify_secret",
     "~/Desktop/api/*",
-    "~/Desktop/api.*",
-    "~/Documents/api/*",
-    "~/Claude/shopify_token.txt",
-    "~/Downloads/api.*",
+    "~/Desktop/segredo.*",
+    "~/Claude/.shopify_token",
 ]
-
 IGNORAR = {".DS_Store", "Thumbs.db"}
 
 
 def _texto_de(caminho):
-    """Devolve o texto de um arquivo, lidando com .docx (zip) e texto/RTF."""
     if caminho.lower().endswith((".docx", ".dotx")):
         try:
             with zipfile.ZipFile(caminho) as z:
                 xml = z.read("word/document.xml").decode("utf-8", errors="replace")
-            # junta os <w:t> e remove as tags; assim um token quebrado
-            # em varios "runs" pelo Word volta a ficar inteiro
             partes = re.findall(r"<w:t[^>]*>(.*?)</w:t>", xml, re.S)
             return "".join(partes) if partes else re.sub(r"<[^>]+>", "", xml)
         except (zipfile.BadZipFile, KeyError, OSError):
@@ -46,149 +44,174 @@ def _texto_de(caminho):
         return ""
 
 
-def _limpar(texto):
-    """Remove marcacao RTF e espacos que possam ter sido inseridos no meio do token."""
-    t = re.sub(r"\\'[0-9a-fA-F]{2}", "", texto)   # escapes RTF
-    t = re.sub(r"\\[a-zA-Z]+-?\d* ?", "", t)      # control words RTF
+def _limpar(t):
+    t = re.sub(r"\\'[0-9a-fA-F]{2}", "", t)
+    t = re.sub(r"\\[a-zA-Z]+-?\d* ?", "", t)
     return t
 
 
-def ler_token():
-    """Le o token sem nunca imprimi-lo. Suporta texto puro, RTF e Word (.docx)."""
+def ler_segredo():
+    """Le a chave secreta do app sem nunca imprimi-la."""
     inspecionados = []
-    for padrao in CANDIDATOS:
+    for padrao in CANDIDATOS_SEGREDO:
         for caminho in sorted(glob.glob(os.path.expanduser(padrao))):
             if not os.path.isfile(caminho) or os.path.basename(caminho) in IGNORAR:
                 continue
             bruto = _texto_de(caminho)
             if not bruto:
-                inspecionados.append((caminho, "nao consegui ler", None))
                 continue
-            for candidato in (bruto, _limpar(bruto), re.sub(r"\s+", "", bruto)):
-                # aceita qualquer token do Shopify: shpat_ (Admin), shpca_, shppa_...
-                # tolera maiuscula inicial que o Word insere por autocorrecao
-                m = re.search(r"[Ss]hp[a-zA-Z]{2}[_\-][A-Za-z0-9_\-]{20,}", candidato)
+            for variante in (bruto, _limpar(bruto), re.sub(r"\s+", "", bruto)):
+                # chave secreta de app do Dev Dashboard: prefixo shpss_ ou hex de 32+
+                m = re.search(r"shpss_[A-Za-z0-9]{20,}", variante)
                 if m:
-                    tok = m.group(0)
-                    prefixo = tok[:6].lower()
-                    if not tok.startswith("shp"):          # desfaz autocorrecao do Word
-                        tok = tok[0].lower() + tok[1:]
-                    print("Token localizado em: %s" % caminho)
-                    print("   prefixo: %s   comprimento: %d" % (prefixo, len(tok)))
-                    if not prefixo.startswith("shpat"):
-                        print("   AVISO: o prefixo esperado para a Admin API e 'shpat_'.")
-                        print("   Se der erro 401/403, o valor salvo e de outro tipo de token.")
-                    return tok
-            # nao achou: guarda um diagnostico que NAO revela o conteudo
-            longas = sorted(set(re.findall(r"[A-Za-z0-9_\-]{16,}", re.sub(r"\s+", "", bruto))),
-                            key=len, reverse=True)[:3]
-            diag = []
-            for r in longas:
-                if r.lower().startswith("shp"):
-                    tipo = "prefixo %s, formato inesperado" % r[:6].lower()
-                elif re.fullmatch(r"[0-9a-f]+", r):
-                    tipo = "hex puro -> parece a Chave da API, nao o token"
-                else:
-                    tipo = "outro (primeiros 3 chars: %s)" % r[:3]
-                diag.append("len=%d (%s)" % (len(r), tipo))
-            inspecionados.append((caminho, "sem padrao de token", diag))
+                    print("Chave secreta lida de: %s" % caminho)
+                    return m.group(0)
+                m = re.search(r"\b[0-9a-f]{32,}\b", variante)
+                if m:
+                    print("Chave secreta lida de: %s" % caminho)
+                    return m.group(0)
+            inspecionados.append(caminho)
 
-    print("ERRO: nao encontrei um token de acesso valido (padrao shpat_...).\n")
+    print("ERRO: nao encontrei a chave secreta do app.\n")
     if inspecionados:
-        print("Arquivos inspecionados:")
-        for caminho, motivo, diag in inspecionados:
-            print("   - %s  [%s]" % (caminho, motivo))
-            for d in (diag or []):
-                print("       sequencia longa: %s" % d)
-    else:
-        print("Nenhum dos caminhos esperados existe.")
+        print("Arquivos inspecionados sem sucesso:")
+        for c in inspecionados:
+            print("   -", c)
     print("""
-O valor certo e o "Token de acesso da Admin API", que comeca com shpat_.
-Ele so aparece DEPOIS de clicar em "Instalar app" no Shopify.
-Nao confundir com "Chave da API" nem "Chave secreta da API" (ambas hex).
+Pegue a chave secreta em:
+  dev.shopify.com -> Apps -> Blog Automatico -> Configuracoes -> Credenciais
+  campo "Chave secreta" (clique no olho para revelar, ou no botao de copiar)
 
-Salve apenas esse valor, em texto puro, em:
-   ~/Claude/.shopify_token
+Salve com este comando (nao aparece na tela enquanto voce cola):
 
-No Terminal da para criar assim, colando o token quando pedir:
-   mkdir -p ~/Claude && read -s -p "cole o token: " T && printf '%s' "$T" > ~/Claude/.shopify_token && echo OK
+  mkdir -p ~/Claude
+  printf 'cole a chave secreta e de Enter: '
+  IFS= read -rs S
+  printf '%s' "$S" > ~/Claude/.shopify_secret
+  echo; echo "salvo"
 """)
     sys.exit(1)
 
 
-TOKEN = ler_token()
-BASE = "https://%s.myshopify.com/admin/api/%s" % (LOJA, VERSAO_API)
-HDRS = {"X-Shopify-Access-Token": TOKEN,
-        "Content-Type": "application/json",
-        "Accept": "application/json"}
-
-
-def api(caminho, data=None, method="GET"):
-    req = urllib.request.Request(BASE + caminho, headers=HDRS,
-                                 data=json.dumps(data).encode() if data else None,
-                                 method=method)
+def obter_token():
+    """Troca client_id + chave secreta por um access token de curta duracao."""
+    segredo = ler_segredo()
+    url = "https://%s.myshopify.com/admin/oauth/access_token" % LOJA
+    corpo = json.dumps({
+        "client_id": CLIENT_ID,
+        "client_secret": segredo,
+        "grant_type": "client_credentials",
+    }).encode()
+    req = urllib.request.Request(url, data=corpo, method="POST",
+                                 headers={"Content-Type": "application/json"})
     try:
         with urllib.request.urlopen(req) as r:
-            return json.loads(r.read() or b"{}")
+            dados = json.loads(r.read())
     except urllib.error.HTTPError as e:
-        corpo = e.read().decode(errors="replace")[:500]
-        sys.exit("ERRO HTTP %s em %s %s\n%s" % (e.code, method, caminho, corpo))
+        detalhe = e.read().decode(errors="replace")[:400]
+        print("\nERRO %s ao trocar credenciais por token." % e.code)
+        print(detalhe)
+        if e.code in (400, 401):
+            print("\nCausas mais comuns:")
+            print("  - a chave secreta esta errada ou incompleta;")
+            print("  - o app 'Blog Automatico' NAO esta instalado na loja.")
+            print("    Instale em: dev.shopify.com -> Blog Automatico -> Instalar app")
+        sys.exit(1)
+    tok = dados.get("access_token")
+    if not tok:
+        sys.exit("ERRO: resposta sem access_token: %s" % list(dados))
+    print("Token obtido (valido por %s segundos)." % dados.get("expires_in", "?"))
+    return tok
 
 
-def escolher_blog():
-    blogs = api("/blogs.json").get("blogs", [])
-    if not blogs:
-        sys.exit("ERRO: a loja nao tem nenhum blog criado.")
-    print("Blogs encontrados na loja:")
-    for b in blogs:
-        print("  id=%-12s handle=%-14s titulo=%s" % (b["id"], b.get("handle"), b.get("title")))
-    # prefere o handle 'blog', que e o que esta no menu do site
-    for b in blogs:
-        if b.get("handle") == "blog":
-            return b
-    return blogs[0]
+TOKEN = obter_token()
+GQL = "https://%s.myshopify.com/admin/api/%s/graphql.json" % (LOJA, VERSAO_API)
+HDRS = {"X-Shopify-Access-Token": TOKEN, "Content-Type": "application/json"}
+
+
+def gql(query, variables=None):
+    corpo = json.dumps({"query": query, "variables": variables or {}}).encode()
+    req = urllib.request.Request(GQL, data=corpo, headers=HDRS, method="POST")
+    try:
+        with urllib.request.urlopen(req) as r:
+            resp = json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        sys.exit("ERRO HTTP %s\n%s" % (e.code, e.read().decode(errors="replace")[:400]))
+    if resp.get("errors"):
+        sys.exit("ERRO GraphQL: %s" % json.dumps(resp["errors"], ensure_ascii=False)[:600])
+    return resp["data"]
+
+
+Q_BLOGS = "{ blogs(first: 20) { nodes { id handle title } } }"
+
+Q_ARTIGOS = """
+query($id: ID!) {
+  blog(id: $id) { articles(first: 100) { nodes { id handle } } }
+}"""
+
+M_CRIAR = """
+mutation($article: ArticleCreateInput!) {
+  articleCreate(article: $article) {
+    article { id handle }
+    userErrors { field message }
+  }
+}"""
+
+M_ATUALIZAR = """
+mutation($id: ID!, $article: ArticleUpdateInput!) {
+  articleUpdate(id: $id, article: $article) {
+    article { id handle }
+    userErrors { field message }
+  }
+}"""
 
 
 def main():
-    blog = escolher_blog()
-    print("\nUsando blog: %s (id=%s)" % (blog.get("title"), blog["id"]))
+    blogs = gql(Q_BLOGS)["blogs"]["nodes"]
+    if not blogs:
+        sys.exit("ERRO: a loja nao tem nenhum blog.")
+    print("\nBlogs na loja:")
+    for b in blogs:
+        print("   %-16s %s" % (b["handle"], b["title"]))
+    blog = next((b for b in blogs if b["handle"] == "blog"), blogs[0])
+    print("\nUsando: %s (%s)" % (blog["title"], blog["handle"]))
 
     if "--publicar" not in sys.argv:
-        print("\nModo leitura. Nada foi publicado.")
-        print("Para publicar de verdade, rode: python3 shopify_publish.py --publicar")
+        print("\nModo leitura, nada foi publicado.")
+        print("Para publicar: python3 shopify_publish.py --publicar")
         return
 
     posts = json.load(open(os.path.join(DIR, "_posts.json"), encoding="utf-8"))
-    existentes = {a.get("handle"): a["id"]
-                  for a in api("/blogs/%s/articles.json?limit=250" % blog["id"]).get("articles", [])}
+    existentes = {a["handle"]: a["id"]
+                  for a in gql(Q_ARTIGOS, {"id": blog["id"]})["blog"]["articles"]["nodes"]}
 
     criados = atualizados = 0
-    # publica na ordem inversa para o mais relevante ficar no topo da listagem
     for p in reversed(posts):
         corpo = open(os.path.join(DIR, p["arquivo"]), encoding="utf-8").read()
-        payload = {"article": {
+        campos = {
             "title": p["titulo"],
-            "author": AUTOR,
-            "body_html": corpo,
-            "summary_html": "<p>%s</p>" % p["resumo"],
-            "tags": p["tags"],
             "handle": p["slug"],
-            "published": True,
-        }}
+            "body": corpo,
+            "summary": p["resumo"],
+            "tags": [t.strip() for t in p["tags"].split(",")],
+            "author": {"name": AUTOR},
+            "isPublished": True,
+        }
         if p["slug"] in existentes:
-            aid = existentes[p["slug"]]
-            payload["article"]["id"] = aid
-            api("/blogs/%s/articles/%s.json" % (blog["id"], aid), payload, "PUT")
-            print("  atualizado: %s" % p["slug"])
-            atualizados += 1
+            d = gql(M_ATUALIZAR, {"id": existentes[p["slug"]], "article": campos})["articleUpdate"]
+            acao, atualizados = "atualizado", atualizados + 1
         else:
-            r = api("/blogs/%s/articles.json" % blog["id"], payload, "POST")
-            print("  criado:     %s  ->  /blogs/%s/%s"
-                  % (p["slug"], blog.get("handle"), r["article"].get("handle")))
-            criados += 1
+            campos["blogId"] = blog["id"]
+            d = gql(M_CRIAR, {"article": campos})["articleCreate"]
+            acao, criados = "criado   ", criados + 1
+        erros = d.get("userErrors") or []
+        if erros:
+            print("  FALHA em %s: %s" % (p["slug"], erros))
+        else:
+            print("  %s: %s" % (acao, p["slug"]))
 
     print("\nResumo: %d criados, %d atualizados." % (criados, atualizados))
-    print("Confira em: https://headspabrasil.com/blogs/%s" % blog.get("handle"))
+    print("Confira: https://headspabrasil.com/blogs/%s" % blog["handle"])
 
 
 if __name__ == "__main__":
