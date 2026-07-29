@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://valdineigilcimar-design.github.io/head-spa-blog/sitemap.xml
