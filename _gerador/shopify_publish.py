@@ -8,51 +8,101 @@ Uso:
     python3 shopify_publish.py            # lista os blogs da loja (nao publica nada)
     python3 shopify_publish.py --publicar  # cria/atualiza os posts
 """
-import glob, json, os, re, sys, urllib.request, urllib.error
+import glob, json, os, re, sys, zipfile, urllib.request, urllib.error
 
 LOJA = "head-spa-brasil"
 VERSAO_API = "2025-01"
 DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "shopify")
 AUTOR = "Head Spa Brasil"
 
-# Onde procurar o token, em ordem. Aceita .txt e .rtf (extrai o shpat_ de dentro).
+# Onde procurar o token. Aceita .txt, .rtf, .docx e qualquer arquivo solto na pasta.
 CANDIDATOS = [
     "~/Claude/.shopify_token",
-    "~/Desktop/api/api.rtf",
-    "~/Desktop/api/api.txt",
     "~/Desktop/api/*",
-    "~/Desktop/api.rtf",
-    "~/Desktop/api.txt",
+    "~/Desktop/api.*",
+    "~/Documents/api/*",
     "~/Claude/shopify_token.txt",
+    "~/Downloads/api.*",
 ]
+
+IGNORAR = {".DS_Store", "Thumbs.db"}
+
+
+def _texto_de(caminho):
+    """Devolve o texto de um arquivo, lidando com .docx (zip) e texto/RTF."""
+    if caminho.lower().endswith((".docx", ".dotx")):
+        try:
+            with zipfile.ZipFile(caminho) as z:
+                xml = z.read("word/document.xml").decode("utf-8", errors="replace")
+            # junta os <w:t> e remove as tags; assim um token quebrado
+            # em varios "runs" pelo Word volta a ficar inteiro
+            partes = re.findall(r"<w:t[^>]*>(.*?)</w:t>", xml, re.S)
+            return "".join(partes) if partes else re.sub(r"<[^>]+>", "", xml)
+        except (zipfile.BadZipFile, KeyError, OSError):
+            return ""
+    try:
+        return open(caminho, encoding="utf-8", errors="replace").read()
+    except OSError:
+        return ""
+
+
+def _limpar(texto):
+    """Remove marcacao RTF e espacos que possam ter sido inseridos no meio do token."""
+    t = re.sub(r"\\'[0-9a-fA-F]{2}", "", texto)   # escapes RTF
+    t = re.sub(r"\\[a-zA-Z]+-?\d* ?", "", t)      # control words RTF
+    return t
 
 
 def ler_token():
-    """Le o token sem imprimi-lo. Extrai o padrao shpat_... de texto puro ou RTF."""
-    vistos = []
+    """Le o token sem nunca imprimi-lo. Suporta texto puro, RTF e Word (.docx)."""
+    inspecionados = []
     for padrao in CANDIDATOS:
         for caminho in sorted(glob.glob(os.path.expanduser(padrao))):
-            if not os.path.isfile(caminho):
+            if not os.path.isfile(caminho) or os.path.basename(caminho) in IGNORAR:
                 continue
-            vistos.append(caminho)
-            try:
-                bruto = open(caminho, encoding="utf-8", errors="replace").read()
-            except OSError:
+            bruto = _texto_de(caminho)
+            if not bruto:
+                inspecionados.append((caminho, "nao consegui ler", None))
                 continue
-            m = re.search(r"shpat_[A-Za-z0-9_]{20,}", bruto)
-            if m:
-                print("Token localizado em: %s" % caminho)
-                return m.group(0)
+            for candidato in (bruto, _limpar(bruto), re.sub(r"\s+", "", bruto)):
+                m = re.search(r"shpat_[A-Za-z0-9]{20,}", candidato)
+                if m:
+                    print("Token localizado em: %s" % caminho)
+                    return m.group(0)
+            # nao achou: guarda um diagnostico que NAO revela o conteudo
+            longas = sorted(set(re.findall(r"[A-Za-z0-9_]{16,}", re.sub(r"\s+", "", bruto))),
+                            key=len, reverse=True)[:3]
+            diag = []
+            for r in longas:
+                if r.startswith("shp"):
+                    tipo = "comeca com shp mas formato inesperado"
+                elif re.fullmatch(r"[0-9a-f]+", r):
+                    tipo = "hex puro -> parece a Chave da API, nao o token"
+                else:
+                    tipo = "outro"
+                diag.append("len=%d (%s)" % (len(r), tipo))
+            inspecionados.append((caminho, "sem padrao shpat_", diag))
 
-    print("ERRO: nao encontrei um token valido (padrao shpat_...).")
-    if vistos:
-        print("Arquivos que eu inspecionei:")
-        for v in vistos:
-            print("   -", v)
+    print("ERRO: nao encontrei um token de acesso valido (padrao shpat_...).\n")
+    if inspecionados:
+        print("Arquivos inspecionados:")
+        for caminho, motivo, diag in inspecionados:
+            print("   - %s  [%s]" % (caminho, motivo))
+            for d in (diag or []):
+                print("       sequencia longa: %s" % d)
     else:
         print("Nenhum dos caminhos esperados existe.")
-    print("\nSalve o token da Admin API do Shopify em ~/Claude/.shopify_token")
-    print("(texto puro, apenas o valor que comeca com shpat_)")
+    print("""
+O valor certo e o "Token de acesso da Admin API", que comeca com shpat_.
+Ele so aparece DEPOIS de clicar em "Instalar app" no Shopify.
+Nao confundir com "Chave da API" nem "Chave secreta da API" (ambas hex).
+
+Salve apenas esse valor, em texto puro, em:
+   ~/Claude/.shopify_token
+
+No Terminal da para criar assim, colando o token quando pedir:
+   mkdir -p ~/Claude && read -s -p "cole o token: " T && printf '%s' "$T" > ~/Claude/.shopify_token && echo OK
+""")
     sys.exit(1)
 
 
