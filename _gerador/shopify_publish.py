@@ -65,23 +65,33 @@ def ler_token():
                 inspecionados.append((caminho, "nao consegui ler", None))
                 continue
             for candidato in (bruto, _limpar(bruto), re.sub(r"\s+", "", bruto)):
-                m = re.search(r"shpat_[A-Za-z0-9]{20,}", candidato)
+                # aceita qualquer token do Shopify: shpat_ (Admin), shpca_, shppa_...
+                # tolera maiuscula inicial que o Word insere por autocorrecao
+                m = re.search(r"[Ss]hp[a-zA-Z]{2}[_\-][A-Za-z0-9_\-]{20,}", candidato)
                 if m:
+                    tok = m.group(0)
+                    prefixo = tok[:6].lower()
+                    if not tok.startswith("shp"):          # desfaz autocorrecao do Word
+                        tok = tok[0].lower() + tok[1:]
                     print("Token localizado em: %s" % caminho)
-                    return m.group(0)
+                    print("   prefixo: %s   comprimento: %d" % (prefixo, len(tok)))
+                    if not prefixo.startswith("shpat"):
+                        print("   AVISO: o prefixo esperado para a Admin API e 'shpat_'.")
+                        print("   Se der erro 401/403, o valor salvo e de outro tipo de token.")
+                    return tok
             # nao achou: guarda um diagnostico que NAO revela o conteudo
-            longas = sorted(set(re.findall(r"[A-Za-z0-9_]{16,}", re.sub(r"\s+", "", bruto))),
+            longas = sorted(set(re.findall(r"[A-Za-z0-9_\-]{16,}", re.sub(r"\s+", "", bruto))),
                             key=len, reverse=True)[:3]
             diag = []
             for r in longas:
-                if r.startswith("shp"):
-                    tipo = "comeca com shp mas formato inesperado"
+                if r.lower().startswith("shp"):
+                    tipo = "prefixo %s, formato inesperado" % r[:6].lower()
                 elif re.fullmatch(r"[0-9a-f]+", r):
                     tipo = "hex puro -> parece a Chave da API, nao o token"
                 else:
-                    tipo = "outro"
+                    tipo = "outro (primeiros 3 chars: %s)" % r[:3]
                 diag.append("len=%d (%s)" % (len(r), tipo))
-            inspecionados.append((caminho, "sem padrao shpat_", diag))
+            inspecionados.append((caminho, "sem padrao de token", diag))
 
     print("ERRO: nao encontrei um token de acesso valido (padrao shpat_...).\n")
     if inspecionados:
