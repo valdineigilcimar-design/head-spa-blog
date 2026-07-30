@@ -5,6 +5,204 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "caspa-dermatite-seborreica-limites-head-spa",
+ "cat": "beneficios",
+ "title": "Caspa e dermatite seborreica: o que o Head Spa resolve e o que exige dermatologista",
+ "excerpt": "Nem toda descamação é caspa comum. Entenda a diferença, o que o tratamento estético alcança e qual é o momento de procurar um médico.",
+ "date": "29 de julho de 2026",
+ "sources": [("Manuais MSD - Dermatite seborreica", "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dermatol%C3%B3gicos/dermatite/dermatite-seborreica"), ("MD.Saude - Caspa", "https://www.mdsaude.com/dermatologia/caspa/")],
+ "body": """
+<p>Descamação no couro cabeludo é uma das queixas mais comuns em qualquer salão, e tambem uma das mais mal compreendidas. Boa parte das pessoas trata tudo como "caspa" e parte para o shampoo anticaspa mais forte da prateleira. Às vezes funciona. Outras vezes o problema é outro, e insistir atrasa o tratamento certo.</p>
+
+<h2>Caspa comum e dermatite seborreica não são a mesma coisa</h2>
+<p>A distinção importa e é razoavelmente simples de observar.</p>
+<p><strong>Caspa comum</strong> costuma se limitar ao couro cabeludo, com escamas finas e esbranquiçadas, soltas, sem vermelhidão significativa da pele por baixo. Incomoda pela aparência e por alguma coceira, mas a pele em si parece normal.</p>
+<p><strong>Dermatite seborreica</strong> apresenta descamação mais espessa, muitas vezes amarelada e de aspecto oleoso, sobre placas avermelhadas de contorno definido. E raramente fica só no couro cabeludo: aparece também nas sobrancelhas, nas laterais do nariz, atrás das orelhas. É uma inflamação crônica, com períodos de melhora e piora.</p>
+
+<h2>O que está por trás</h2>
+<p>Nos dois casos há um personagem em comum: o fungo <em>Malassezia</em>, que vive naturalmente na pele de praticamente todo mundo e se alimenta do sebo. Ele não é um invasor — faz parte do ecossistema normal do couro cabeludo.</p>
+<p>O problema surge do metabolismo dele. A <em>Malassezia</em> processa o sebo e gera subprodutos que irritam as células da epiderme em pessoas suscetíveis. Isso acelera a renovação celular, e o resultado visível são as escamas. Por isso a mesma quantidade de fungo causa sintoma em uma pessoa e nenhum em outra: a diferença está na reatividade individual, não na presença do micro-organismo.</p>
+
+<h2>O que o Head Spa pode fazer</h2>
+<p>Dentro do campo estético, o tratamento tem contribuições reais.</p>
+<p><strong>Remover o acúmulo.</strong> Sebo oxidado, células mortas e resíduo de produto formam uma camada que alimenta o ciclo. A limpeza profunda e a esfoliação removem isso melhor do que a lavagem doméstica comum.</p>
+<p><strong>Equilibrar a oleosidade.</strong> Muita gente com couro cabeludo oleoso o agride com lavagens agressivas demais, provocando produção compensatória de sebo. Um protocolo que limpa sem destruir a barreira lipídica tende a normalizar isso ao longo de algumas sessões.</p>
+<p><strong>Melhorar a absorção de ativos.</strong> Com o couro cabeludo limpo, o tônico ou tratamento aplicado em seguida penetra melhor.</p>
+<p><strong>Reduzir o coçar.</strong> Parte do dano em quadros de descamação vem do trauma mecânico de coçar. Aliviar a coceira interrompe esse ciclo.</p>
+
+<h2>O que o Head Spa não faz</h2>
+<p>Aqui é preciso ser direto, porque há muita promessa exagerada circulando.</p>
+<p>Head Spa <strong>não trata dermatite seborreica</strong>. É uma condição inflamatória crônica, e o manejo baseado em evidência envolve medicação tópica: antifúngicos como cetoconazol ou ciclopirox, ceratolíticos como ácido salicílico, e em alguns casos corticoides de baixa potência — sempre com orientação médica. Protocolos indicam que os xampus antifúngicos precisam ser usados com regularidade, no mínimo duas vezes por semana, porque lavagens espaçadas não contêm a proliferação do fungo.</p>
+<p>Um Head Spa mensal não substitui isso. Pode complementar, tornando o couro cabeludo mais receptivo ao tratamento — mas o tratamento é medicamentoso.</p>
+
+<h2>Quando procurar um dermatologista</h2>
+<p>Procure avaliação médica se houver:</p>
+<ul>
+<li>descamação que não melhora após quatro semanas de xampu específico;</li>
+<li>vermelhidão intensa, placas bem delimitadas ou pele espessada;</li>
+<li>feridas, crostas, sangramento ou sinais de infecção;</li>
+<li>queda de cabelo associada à descamação;</li>
+<li>coceira que atrapalha o sono;</li>
+<li>lesões parecidas no rosto, orelhas ou peito.</li>
+</ul>
+<p>Vale dizer que descamação persistente pode ter outras causas além da dermatite seborreica — psoríase do couro cabeludo, dermatite de contato a algum produto, e infecções fúngicas de outro tipo, entre outras. Diferenciar exige exame clínico, e às vezes exame complementar. Não é algo que se resolva por foto ou por descrição.</p>
+
+<h2>A leitura honesta</h2>
+<p>Para quem tem caspa leve e ocasional, o Head Spa somado a uma rotina adequada resolve bem. Para quem tem dermatite seborreica, ele é um complemento agradável e útil a um tratamento que precisa ser conduzido por médico. Confundir os dois cenários é o que faz a pessoa gastar tempo e dinheiro em algo que, sozinho, não vai resolver o problema dela.</p>
+"""
+},
+{
+ "slug": "microbioma-couro-cabeludo",
+ "cat": "beneficios",
+ "title": "Microbioma do couro cabeludo: o ecossistema que decide a saúde do seu cabelo",
+ "excerpt": "Bactérias e fungos vivem na sua cabeça e o equilíbrio entre eles importa mais do que a quantidade. O que a pesquisa recente mostra.",
+ "date": "29 de julho de 2026",
+ "sources": [("Frontiers in Microbiology - Disbiose no couro cabeludo oleoso", "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1595030/full"), ("Comparison of Healthy and Dandruff Scalp Microbiome", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6180232/")],
+ "body": """
+<p>Por muito tempo o cuidado capilar tratou micro-organismos como inimigos: fungo é ruim, bactéria é ruim, quanto mais limpo melhor. A pesquisa dos últimos anos mostrou que essa leitura é simplista — e que atacar o ecossistema do couro cabeludo indiscriminadamente pode piorar exatamente o que se queria resolver.</p>
+
+<h2>O que vive na sua cabeça</h2>
+<p>O couro cabeludo é um nicho ecológico peculiar: cobertura densa de fios, muitas glândulas sebáceas e sudoríparas, umidade relativamente alta e ambiente rico em lipídios. Nesse cenário se estabelecem três grupos principais.</p>
+<p><strong>Cutibacterium</strong>, bactéria associada a couro cabeludo saudável. <strong>Staphylococcus</strong>, também bactéria, presente normalmente mas cuja proliferação excessiva acompanha quadros de desequilíbrio. E <strong>Malassezia</strong>, um fungo que se alimenta do sebo e participa da fisiologia normal da pele.</p>
+<p>Nenhum deles é vilão por natureza. Todos estão presentes em pessoas sem queixa nenhuma.</p>
+
+<h2>O que muda quando aparece caspa</h2>
+<p>É aqui que a pesquisa fica interessante. Comparando couros cabeludos saudáveis com couros cabeludos com caspa, o que se observa não é a presença de um micro-organismo ausente no outro grupo — é uma mudança de proporção.</p>
+<p>Couros cabeludos saudáveis tendem a apresentar maior proporção de <em>Cutibacterium</em>. Em quadros de caspa, observa-se queda de <em>Cutibacterium</em> e aumento de <em>Staphylococcus</em>. Do lado fúngico, há alteração no perfil das espécies de <em>Malassezia</em>, com destaque para <em>M. restricta</em> e <em>M. globosa</em>.</p>
+<p>Esse fenômeno tem nome: <strong>disbiose</strong>. Não é infecção, é desarranjo de proporções dentro de uma comunidade que sempre esteve ali.</p>
+
+<h2>O papel do sebo</h2>
+<p>A <em>Malassezia</em> não causa irritação diretamente. Ela metaboliza o sebo, e nesse processo gera subprodutos da oxidação de lipídios que agem sobre as células da epiderme. Em pessoas suscetíveis, esses metabólitos disparam a resposta inflamatória que acelera a descamação.</p>
+<p>Isso explica algo que confunde muita gente: por que duas pessoas com quantidade parecida de <em>Malassezia</em> têm experiências opostas. A variável determinante não é quanto fungo existe, e sim como aquela pele reage aos subprodutos que ele gera.</p>
+
+<h2>Por que "limpar mais" costuma piorar</h2>
+<p>Se o desequilíbrio é de proporções, faz sentido que a solução não seja esterilizar. Lavagens muito frequentes com tensoativos agressivos removem a barreira lipídica, o que provoca produção compensatória de sebo e altera o ambiente em que a comunidade vive. O resultado prático é oleosidade de rebote e, com frequência, mais descamação.</p>
+<p>A lógica que a pesquisa sugere é outra: limpar o suficiente para remover acúmulo, sem arrasar o terreno.</p>
+
+<h2>O que isso significa para o Head Spa</h2>
+<p>É um argumento a favor do protocolo bem conduzido, com uma ressalva importante sobre o que ainda não se sabe.</p>
+<p>A favor: remover sebo oxidado e resíduo acumulado reduz o substrato do ciclo inflamatório. E o protocolo japonês trabalha com limpeza eficaz sem remoção total da barreira lipídica — mais alinhado com a lógica de equilíbrio do que com a de esterilização.</p>
+<p>A ressalva: <strong>não existe, até onde a literatura mostra, demonstração direta de que uma sessão de Head Spa reequilibre o microbioma de forma mensurável e duradoura</strong>. O raciocínio é plausível e coerente com o que se sabe, mas plausibilidade não é evidência. Quem afirma que o tratamento "restaura o microbioma" está indo além do que os dados sustentam hoje.</p>
+
+<h2>Para onde a pesquisa aponta</h2>
+<p>Há linhas de investigação promissoras: probióticos e prebióticos tópicos para couro cabeludo, formulações que preservam a comunidade em vez de eliminá-la, e diagnóstico do perfil microbiano como ferramenta clínica. Estudos recentes também exploram associações entre padrões de microbioma e alopecia androgenética, embora ainda em estágio inicial.</p>
+<p>Nada disso está pronto para virar promessa de balcão. Mas indica que o cuidado capilar está migrando de uma lógica de combate para uma de manejo — o que, para quem cuida do couro cabeludo profissionalmente, é uma mudança de mentalidade que vale acompanhar.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Descamação persistente, vermelhidão intensa ou queda de cabelo pedem consulta com dermatologista.</em></p>
+"""
+},
+{
+ "slug": "como-escolher-espaco-head-spa",
+ "cat": "dicas",
+ "title": "Como escolher um espaço de Head Spa: 8 sinais de qualidade",
+ "excerpt": "Com a procura crescendo, muita coisa é vendida como Head Spa sem ser. O que observar antes de marcar e o que deve acender alerta.",
+ "date": "29 de julho de 2026",
+ "sources": [("Japan Head Spa - O tratamento em saloes", "https://japan-headspa.com/en/blogs/infos/head-spa-cheveux")],
+ "body": """
+<p>Quando um serviço vira tendência, o nome dele passa a ser usado para coisas bem diferentes entre si. Já se vê "Head Spa" descrevendo desde protocolos completos de 90 minutos até uma lavagem com dez minutos de massagem. Os dois custam caro; só um entrega a experiência.</p>
+<p>Abaixo, o que observar antes de marcar.</p>
+
+<h2>1. Existe diagnóstico antes do tratamento</h2>
+<p>Um bom atendimento começa com alguém olhando seu couro cabeludo e perguntando sobre sua rotina, seus produtos, sua frequência de lavagem e suas queixas. Espaços mais equipados usam microcâmera com ampliação e mostram a imagem na tela.</p>
+<p>Se o protocolo é idêntico para todo mundo, não é tratamento — é procedimento padronizado.</p>
+
+<h2>2. A duração é compatível</h2>
+<p>O protocolo japonês completo leva de 60 a 90 minutos. Existem versões curtas legítimas, de 30 a 40 minutos, desde que vendidas como o que são. Desconfie de "Head Spa completo" em 20 minutos: não cabe diagnóstico, limpeza profunda, vapor, massagem e tratamento nesse tempo.</p>
+
+<h2>3. A posição é confortável de verdade</h2>
+<p>Esse é o detalhe que mais separa um espaço bom de um improvisado. O padrão de referência permite ficar deitado, com apoio cervical adequado, e não sentado com o pescoço dobrado para trás na cadeira de lavagem comum.</p>
+<p>Pescoço mal apoiado por uma hora anula o relaxamento que você foi buscar.</p>
+
+<h2>4. A temperatura da água é controlada</h2>
+<p>Pergunte se há controle termostático. O protocolo alterna temperaturas, e variação descontrolada além de desconfortável agride o couro cabeludo. Água muito quente estimula produção de sebo — o oposto do objetivo.</p>
+
+<h2>5. O ambiente foi pensado</h2>
+<p>Iluminação regulável e indireta, isolamento acústico razoável, temperatura ambiente confortável. Quem está deitado com a cabeça na água sente frio rápido.</p>
+<p>Um espaço tecnicamente bem equipado mas barulhento, com luz fria e movimento de gente ao redor, entrega uma experiência muito abaixo do que o equipamento permitiria.</p>
+
+<h2>6. O profissional tem formação específica</h2>
+<p>Pergunte sem constrangimento onde a pessoa se formou e há quanto tempo trabalha com isso. Head Spa exige técnica de massagem, conhecimento de anatomia do couro cabeludo e leitura de condições dermatológicas básicas — para saber, inclusive, quando não atender.</p>
+<p>Um bom profissional sabe reconhecer o que foge da alçada dele.</p>
+
+<h2>7. Sabem dizer o que não fazem</h2>
+<p>Este é, na minha leitura, o sinal mais confiável de todos.</p>
+<p>Um espaço sério diz com clareza que Head Spa não trata alopecia, não cura dermatite seborreica, não reverte calvície e não substitui dermatologista. Quem promete crescimento capilar, cura de caspa ou solução para queda está vendendo além do que o serviço entrega.</p>
+<p>Desconfie especialmente de "antes e depois" mostrando cabelo mais denso após uma sessão. Não existe mecanismo biológico para isso.</p>
+
+<h2>8. O preço é coerente e transparente</h2>
+<p>Head Spa bem feito não é barato: envolve tempo longo de profissional, estrutura e formação. Preço muito abaixo do mercado geralmente significa protocolo encurtado.</p>
+<p>Por outro lado, preço alto não garante qualidade. Peça a descrição do que está incluído, etapa por etapa, e compare com os itens acima.</p>
+
+<h2>Perguntas para fazer ao marcar</h2>
+<ul>
+<li>Quanto tempo dura o atendimento completo?</li>
+<li>Tem avaliação do couro cabeludo antes?</li>
+<li>Fico deitado ou sentado?</li>
+<li>Quais etapas estão incluídas?</li>
+<li>Qual a formação do profissional que vai me atender?</li>
+<li>Com que frequência vocês recomendam repetir?</li>
+</ul>
+<p>Respostas vagas a perguntas objetivas dizem bastante.</p>
+
+<h2>Antes de ir</h2>
+<p>Se você tem alguma condição no couro cabeludo — descamação intensa, feridas, psoríase, dermatite diagnosticada — avise ao marcar e, idealmente, converse antes com seu dermatologista. Em algumas situações o tratamento deve ser adiado ou adaptado, e um profissional responsável vai preferir saber disso antes de você chegar.</p>
+"""
+},
+{
+ "slug": "head-spa-cabelos-cacheados-crespos",
+ "cat": "dicas",
+ "title": "Head Spa em cabelos cacheados e crespos: o que muda no protocolo",
+ "excerpt": "Curvatura alta, couro cabeludo mais seco e manipulação diferente. Por que o protocolo padrão precisa de ajustes e quais são eles.",
+ "date": "29 de julho de 2026",
+ "sources": [("Vichy - Massagem capilar", "https://www.vichy.pt/conselhos-de-especialista/couro-cabeludo/massagem-capilar")],
+ "body": """
+<p>O protocolo de Head Spa foi desenvolvido no Japão, num contexto em que o cabelo predominante é liso e de fio fino. Aplicado sem adaptação em cabelos cacheados e crespos, ele funciona de forma parcial e pode até atrapalhar. As diferenças não são cosméticas — são estruturais.</p>
+
+<h2>Por que o cabelo com curvatura muda o cálculo</h2>
+<p>Duas características importam aqui.</p>
+<p><strong>O sebo tem dificuldade para descer pelo fio.</strong> Em cabelo liso, o sebo produzido na raiz percorre o comprimento e lubrifica naturalmente. Quanto maior a curvatura, mais difícil essa distribuição. O resultado é uma combinação frequente: raiz que pode ser oleosa e comprimento ressecado ao mesmo tempo.</p>
+<p><strong>A cutícula fica mais exposta nas curvas.</strong> Nos pontos de dobra do fio, as escamas da cutícula se abrem mais, o que torna o cabelo mais permeável e mais vulnerável ao atrito.</p>
+<p>Some a isso o fato de que muita gente com cabelo cacheado ou crespo espaça as lavagens e usa produtos com maior carga de manteigas, óleos e silicones — o que significa mais resíduo acumulado no couro cabeludo.</p>
+
+<h2>O que precisa mudar</h2>
+
+<h2>Desembaraço antes de tudo</h2>
+<p>No protocolo padrão, a escovação a seco inicial é rápida. Aqui ela é etapa crítica e leva mais tempo. Cabelo com curvatura desembaraçado a seco de forma inadequada quebra.</p>
+<p>O correto é fazer com o cabelo levemente umedecido ou com um creme de desembaraço, sempre das pontas para a raiz, em seções, com pente de dentes largos ou com os dedos. Nunca escova de cerdas finas em cabelo crespo seco.</p>
+
+<h2>Limpeza profunda com mais frequência, mas seletiva</h2>
+<p>O acúmulo de resíduo é maior, então a esfoliação e o shampoo de limpeza profunda são mais necessários — porém restritos ao couro cabeludo. O comprimento não precisa e não deve receber a mesma agressividade.</p>
+<p>Na prática: produto de limpeza profunda só na raiz, massageado com as pontas dos dedos; no enxágue, deixe a espuma escorrer pelo comprimento, o que já é suficiente.</p>
+
+<h2>Massagem sem embaraçar</h2>
+<p>Aqui está o ajuste técnico mais importante. A massagem circular clássica, feita com o cabelo solto, embaraça o cacho e cria nós que só saem com quebra.</p>
+<p>A adaptação é trabalhar em seções, com o cabelo dividido, e usar movimentos que deslocam a pele sem girar o fio: pressão estática mantida por alguns segundos, pinçamento suave da pele, e deslizamento curto no sentido do couro cabeludo. O benefício circulatório se mantém; o dano mecânico não acontece.</p>
+
+<h2>Hidratação e vapor ganham peso</h2>
+<p>Como o comprimento tende a ser mais seco, a etapa de hidratação merece mais tempo e produto. O vapor ajuda bastante nesse tipo de cabelo, favorecendo a penetração dos ativos.</p>
+
+<h2>Finalização faz parte do serviço</h2>
+<p>Num protocolo padrão, secar é detalhe. Em cabelo cacheado ou crespo, finalizar errado desmancha o resultado de uma hora de trabalho. Vale combinar antes: definição com leave-in e creme, difusor em temperatura média, ou secagem natural — mas isso precisa estar previsto no atendimento, não improvisado no fim.</p>
+
+<h2>Erros comuns em espaços não preparados</h2>
+<ul>
+<li>Escovar o cabelo seco com escova de cerdas finas.</li>
+<li>Fazer massagem circular com o cabelo solto.</li>
+<li>Aplicar limpeza profunda em todo o comprimento.</li>
+<li>Enrolar a toalha e esfregar em vez de pressionar.</li>
+<li>Entregar o cabelo molhado sem finalização combinada.</li>
+</ul>
+
+<h2>O que perguntar ao marcar</h2>
+<p>Pergunte diretamente se o espaço atende cabelo com curvatura e como adaptam o protocolo. Uma resposta boa menciona trabalho em seções, cuidado no desembaraço e finalização. Uma resposta genérica do tipo "atendemos todos os tipos" sem detalhar geralmente significa que não há adaptação nenhuma.</p>
+
+<h2>Uma observação sobre expectativa</h2>
+<p>Head Spa cuida do couro cabeludo e proporciona relaxamento. Ele não altera a curvatura, não define cacho de forma duradoura e não recupera fio danificado por química ou calor — dano na fibra capilar não se reverte, se maneja até crescer. Quem tem couro cabeludo saudável e quer mantê-lo assim, além de relaxar, encontra valor real. Só não é tratamento reconstrutor.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Queda acentuada, descamação persistente ou feridas no couro cabeludo pedem consulta com dermatologista.</em></p>
+"""
+},
+{
  "slug": "head-spa-conquista-o-mundo-2026",
  "cat": "noticias",
  "title": "Head Spa conquista o mundo em 2026: por que todos falam do ritual japonês",
