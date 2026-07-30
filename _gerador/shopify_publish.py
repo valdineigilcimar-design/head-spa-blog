@@ -185,9 +185,18 @@ def main():
     existentes = {a["handle"]: a["id"]
                   for a in gql(Q_ARTIGOS, {"id": blog["id"]})["blog"]["articles"]["nodes"]}
 
+    # data de publicacao 10 min no passado: evita que o post fique agendado
+    # para o futuro e some da listagem do tema
+    import datetime
+    quando = (datetime.datetime.now(datetime.timezone.utc)
+              - datetime.timedelta(minutes=10)).strftime("%Y-%m-%dT%H:%M:%SZ")
+
     criados = atualizados = 0
     for p in reversed(posts):
         corpo = open(os.path.join(DIR, p["arquivo"]), encoding="utf-8").read()
+        if "<script" in corpo or "<style" in corpo:
+            sys.exit("ERRO: %s contem <script> ou <style>. O Shopify trunca o post.\n"
+                     "Rode shopify_build.py atualizado antes de publicar." % p["arquivo"])
         campos = {
             "title": p["titulo"],
             "handle": p["slug"],
@@ -196,6 +205,7 @@ def main():
             "tags": [t.strip() for t in p["tags"].split(",")],
             "author": {"name": AUTOR},
             "isPublished": True,
+            "publishDate": quando,
         }
         if p["slug"] in existentes:
             d = gql(M_ATUALIZAR, {"id": existentes[p["slug"]], "article": campos})["articleUpdate"]
