@@ -5,6 +5,91 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "envelhecimento-foliculo-pesquisa-2026",
+ "cat": "noticias",
+ "title": "Envelhecimento do folículo: o que a pesquisa de 2026 mudou no entendimento da queda",
+ "excerpt": "Dois trabalhos publicados este ano deslocam o foco das células-tronco para o terreno onde elas vivem. Nenhum deles vira produto amanhã — e vale entender por quê.",
+ "date": "30 de julho de 2026",
+ "sources": [("Frontiers in Cell and Developmental Biology - Redes de colágeno e miniaturização folicular (2026)", "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2026.1824126/full"), ("Frontiers in Cell and Developmental Biology - Exossomos de células-tronco mesenquimais e COL17A1 (2026)", "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2026.1807877/full")],
+ "body": """
+<p>A explicação padrão para a queda de cabelo com o tempo é conhecida: os folículos encolhem, produzem fios cada vez mais finos e, em algum ponto, param. O nome técnico disso é <strong>miniaturização folicular</strong>, e é um achado que aparece em várias formas de alopecia, não só na calvície de padrão masculino.</p>
+<p>O que mudou em 2026 não é o fenômeno — é a hipótese sobre a causa. Dois artigos publicados na <em>Frontiers in Cell and Developmental Biology</em> apontam para uma direção que vale acompanhar, com a ressalva importante de que nenhum dos dois muda o que existe na farmácia hoje.</p>
+
+<h2>A leitura que dominou o campo</h2>
+<p>Por muito tempo, a explicação corrente foi centrada nas células-tronco do folículo piloso. A ideia: elas se esgotam ou perdem função, e sem elas o folículo não se regenera.</p>
+<p>Uma peça central desse modelo é uma proteína chamada <strong>colágeno tipo XVII</strong>, ou COL17A1. Ela funciona como uma âncora: mantém as células-tronco fixadas à membrana basal, a estrutura que delimita o compartimento onde elas vivem. Quando o COL17A1 é degradado, as células perdem esse ponto de fixação, saem do folículo e acabam eliminadas pela superfície da pele. O folículo encolhe porque ficou sem quem o reconstrua.</p>
+
+<h2>A virada: do estoque para o terreno</h2>
+<p>Uma revisão publicada em maio deste ano propõe que essa leitura está incompleta. O argumento parte de uma observação incômoda: na alopecia androgenética humana, as populações de células-tronco muitas vezes <em>continuam detectáveis</em> pelos marcadores usuais — o que cai é a produção de células filhas capazes de se multiplicar e formar o fio.</p>
+<p>Ou seja: pode não ser um problema de estoque, mas de conversão. As células estão lá e não conseguem entrar em atividade.</p>
+<p>Os autores propõem então o conceito de <strong>identidade do nicho</strong>: tratar o ambiente ao redor do folículo como um conjunto de restrições estruturais e mecânicas mensuráveis, e não como cenário passivo. A rede de colágeno seria o eixo integrador desse ambiente. Cinco variáveis são listadas — integridade da membrana basal, aparatos de adesão e ancoragem, organização das fibrilas, ajustes mecânicos locais e as janelas de remodelamento ao longo do ciclo capilar.</p>
+<p>Três processos empurrariam essas variáveis na mesma direção ruim: remodelamento fibrótico influenciado por androgênios, inflamação crônica de baixo grau com degradação da matriz, e o endurecimento progressivo associado ao envelhecimento e à glicação. O resultado seria um folículo <em>travado</em> em estado de baixa produção — não morto, mas preso.</p>
+<p>Aqui cabe a ressalva mais importante deste texto: <strong>esse artigo é uma revisão, não um experimento</strong>. Os próprios autores escrevem no condicional — propõem, sugerem, postulam. É um arcabouço para orientar pesquisa futura e escolha de desfechos. Não é achado demonstrado.</p>
+
+<h2>O experimento com exossomos</h2>
+<p>O segundo trabalho, de abril, é pesquisa original e testou uma intervenção: exossomos derivados de células-tronco mesenquimais de cordão umbilical humano.</p>
+<p>Os números chamam atenção. Em células envelhecidas artificialmente, a proporção de células senescentes caiu de 67,5% para 21,4%. A expressão de COL17A1 subiu 2,67 vezes. Em folículos humanos cultivados fora do corpo, o alongamento aumentou 47,4%. E em camundongos, a cobertura de pelos chegou a 92,4%, contra 45,6% nos controles — acima do minoxidil, que ficou em 78,3%.</p>
+<p>O mecanismo proposto envolve um microRNA, o miR-21-5p, que bloqueia um antagonista da via Wnt e, por essa cadeia, aumenta o COL17A1.</p>
+<p>É empolgante e é <strong>cedo</strong>. Os testes foram feitos em cultura de células, em folículos humanos em cultura de órgão e em camundongos. <strong>Não houve ensaio clínico em pessoas.</strong> O dado de "superou o minoxidil" vale para camundongos, não para seres humanos — e a história da pesquisa capilar está cheia de resultados excelentes em roedores que não se sustentaram depois. Os próprios autores descrevem o achado como estratégia promissora, não como tratamento.</p>
+
+<h2>O que isso significa na prática, hoje</h2>
+<p>Do ponto de vista de quem quer comprar algo: nada. Não existe produto no mercado que reproduza esses experimentos.</p>
+<p>Do ponto de vista conceitual, há um deslocamento útil. Se o ambiente ao redor do folículo pesa tanto quanto as células, então inflamação crônica de baixo grau no couro cabeludo deixa de ser apenas incômodo estético e passa a ter relevância teórica. Isso dá uma razão a mais para levar irritação persistente a sério — sem transformar isso em promessa.</p>
+<p>E convém preparar o filtro: os termos <em>exossomos</em>, <em>COL17A1</em> e <em>senolíticos</em> vão aparecer em rótulo nos próximos meses. Palavra na embalagem não significa que o produto reproduz o experimento. A pergunta a fazer é sempre a mesma: que evidência existe em pessoas?</p>
+<p>Quanto ao Head Spa, vale a honestidade: ele não atua sobre rede de colágeno nem reverte miniaturização. O que ele faz é bem delimitado — limpeza, conforto, relaxamento — e não precisa de justificativa científica emprestada de biologia molecular.</p>
+
+<h2>Onde buscar resposta de verdade</h2>
+<p>Perda progressiva de densidade, recuo da linha frontal ou afinamento visível dos fios são assunto de dermatologista. Existem tratamentos com evidência em humanos, e existem distinções diagnósticas — androgenética, eflúvio telógeno, causas autoimunes, alopecias cicatriciais — que mudam completamente a conduta. Nenhuma delas se resolve por artigo de blog.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "protecao-solar-couro-cabeludo",
+ "cat": "dicas",
+ "title": "Sol no couro cabeludo: o dano que fica escondido debaixo do cabelo",
+ "excerpt": "O cabelo protege menos do que se imagina, e lesão nessa região demora a ser vista. O que dermatologistas recomendam e por que quem trabalha com couro cabeludo tem papel nisso.",
+ "date": "30 de julho de 2026",
+ "sources": [("CNN Brasil / Agência Einstein - Câncer de pele no couro cabeludo", "https://www.cnnbrasil.com.br/saude/cancer-de-pele-no-couro-cabeludo-conheca-os-cuidados-para-se-proteger/"), ("GoodRx Health - Protect your scalp from the sun (rev. Mandy Armitage, MD)", "https://www.goodrx.com/health-topic/dermatology/how-to-protect-scalp-from-sun")],
+ "body": """
+<p>Passa protetor no rosto, no colo, nos braços. E na cabeça? A maioria das pessoas nunca pensou nisso — e a lógica parece razoável: o cabelo cobre. Cobre em parte. O suficiente para criar uma falsa sensação de segurança numa região que, além de exposta, é das mais difíceis de examinar.</p>
+
+<h2>O cabelo protege, mas menos do que se imagina</h2>
+<p>A camada superficial do couro cabeludo é pele, ainda que um pouco mais espessa. Queima como qualquer outra.</p>
+<p>Os fios funcionam como um escudo parcial, e essa proteção varia muito. Ela é bem menor em quem tem cabelo ralo, em quem é calvo e em quem tem fios claros. E mesmo com cabelo abundante existe um ponto vulnerável que quase ninguém protege: <strong>a linha da repartição</strong>. Ali a pele fica diretamente exposta.</p>
+<p>Some a isso a posição anatômica. O topo da cabeça recebe sol mais perpendicular do que quase qualquer outra parte do corpo ao longo do dia.</p>
+
+<h2>Por que essa região merece atenção específica</h2>
+<p>O problema maior não é a queimadura em si, e sim o atraso. Uma mancha no braço é notada quando muda de tamanho, forma ou cor. Escondida por fios, pode passar muito tempo sem ser vista — e tumores de pele no couro cabeludo costumam ser diagnosticados tarde, o que reduz a perspectiva de cura.</p>
+<p>Para dimensionar: o câncer de pele não melanoma é o de maior incidência no Brasil, com 31,3% dos novos casos estimados para o triênio 2023–2025, segundo o Instituto Nacional do Câncer.</p>
+<p>Dermatologistas apontam outros dois fatores nessa região. Ela é bastante vascularizada, o que facilita disseminação. E as pintas ali sofrem atrito constante ao lavar, escovar e manipular o cabelo — atrito que, segundo observação clínica, pode favorecer a transformação em lesões pré-cancerosas. Vale registrar que esse último ponto é leitura de especialistas, não número saído de estudo controlado.</p>
+
+<h2>Como se proteger, na prática</h2>
+<p>Chapéu ou boné resolve boa parte, e melhor ainda se o tecido tiver proteção UV. Tramas frouxas — palha, tela de boné trucker — protegem menos; tecidos sintéticos e cores escuras protegem mais.</p>
+<p>Para quem tem pouco ou nenhum cabelo, a recomendação é protetor solar em spray com <strong>FPS 30 no mínimo e PPD 10</strong>, reaplicado a cada duas horas. Pele e olhos claros se beneficiam de FPS 50 ou mais.</p>
+<p>Para quem tem cabelo abundante, existem loções e leave-ins com proteção solar. Bastão de protetor funciona bem especificamente na repartição e na linha do cabelo. Protetor em pó é prático pelo aplicador, mas costuma dar cobertura fraca e não resiste à água — serve para retoque, não como proteção principal.</p>
+<p>Sobre frequência: quem trabalha ao ar livre, dirige muito ou passa o dia na rua precisa desse cuidado diariamente. Quem fica em ambiente fechado e tem cabelo grosso cobrindo todo o couro cabeludo só precisa se preocupar em exposição intensa.</p>
+<p>Duas medidas simples fecham a conta: evitar sol entre 10h e 16h e escolher penteados que não deixem uma repartição exposta.</p>
+
+<h2>Queimou. O que esperar</h2>
+<p>Os sintomas aparecem em 4 a 6 horas: formigamento, dor, vermelhidão, calor. Pioram por 1 a 3 dias e melhoram ao longo de uma a duas semanas.</p>
+<p>Um detalhe que confunde muita gente: ao cicatrizar, a pele queimada descama e produz escamas parecidas com caspa. <strong>Xampu anticaspa não ajuda nesse caso e pode piorar a descamação.</strong> É queimadura resolvendo, não fungo.</p>
+<p>Sinais que pedem atendimento médico imediato: bolhas, inchaço do couro cabeludo, náusea ou vômito, dor de cabeça, febre e calafrios.</p>
+<p>Existem relatos de queda temporária de cabelo após queimadura solar grave no couro cabeludo, mas é preciso ser honesto sobre o peso disso: são relatos antigos, em contexto específico de pessoas em uso de tratamento tópico na região. Não é base para dizer que sol causa queda de cabelo de forma geral.</p>
+
+<h2>Quem trabalha com couro cabeludo tem um papel aqui</h2>
+<p>Este é o ponto que interessa a quem atua na área. Dermatologistas sugerem explicitamente que o cabeleireiro pode ajudar: ele olha aquela região com regularidade que ninguém mais tem, nem o próprio cliente.</p>
+<p>Num Head Spa isso vale ainda mais. O profissional passa quase uma hora com as mãos e os olhos no couro cabeludo, muitas vezes com microcâmera. Não é papel dele diagnosticar nada — mas é perfeitamente cabível dizer: <em>isso aqui mudou desde a última vez, vale mostrar a um dermatologista</em>.</p>
+<p>O que observar: ferida que não cicatriza, área áspera e avermelhada com crosta, pinta que mudou de tamanho, forma ou cor, e sangramento sem causa clara.</p>
+<p>E o limite do serviço, dito sem rodeio: Head Spa não desfaz dano solar acumulado. Não existe protocolo estético que reverta o que a radiação já fez. Vender isso como recuperação de dano solar é promessa vazia.</p>
+
+<h2>Uma rotina de checagem</h2>
+<p>Para a maioria das pessoas, a avaliação do dermatologista na consulta anual dá conta. Quem tem pele e olhos claros, histórico pessoal ou familiar de câncer de pele, ou já teve queratose actínica — aquelas lesões áspera e avermelhadas — deve ir com mais frequência, na periodicidade que o médico indicar.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Qualquer lesão nova ou em mudança no couro cabeludo pede consulta com dermatologista.</em></p>
+"""
+},
+{
  "slug": "caspa-dermatite-seborreica-limites-head-spa",
  "cat": "beneficios",
  "title": "Caspa e dermatite seborreica: o que o Head Spa resolve e o que exige dermatologista",
