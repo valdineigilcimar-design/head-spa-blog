@@ -5,6 +5,185 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "alopecia-areata-inibidores-jak-2026",
+ "cat": "noticias",
+ "title": "Alopecia areata em 2026: o que mudou no tratamento e por que isso não é assunto de salão",
+ "excerpt": "Pela primeira vez existem medicamentos aprovados especificamente para a doença, e um quarto está em análise. Os números reais, as ressalvas e o limite de quem trabalha com couro cabeludo.",
+ "date": "5 de agosto de 2026",
+ "sources": [("Anais Brasileiros de Dermatologia - II Consenso da SBD para tratamento da alopecia areata", "https://www.anaisdedermatologia.org.br/en-ii-consenso-da-sociedade-brasileira-articulo-S2666275224002601"), ("National Alopecia Areata Foundation - FDA-Approved JAK Inhibitors", "https://www.naaf.org/navigation-toolkit/fda-approved-jak-inhibitors/"), ("AbbVie - Submissão do upadacitinibe ao FDA para alopecia areata grave (28/04/2026)", "https://news.abbvie.com/2026-04-28-AbbVie-Submits-Application-to-FDA-for-Upadacitinib-RINVOQ-R-for-Adults-and-Adolescents-with-Severe-Alopecia-Areata")],
+ "body": """
+<p>A alopecia areata é uma das poucas formas de queda de cabelo que hoje tem medicamento aprovado especificamente para ela. Isso é recente: até 2022 não existia nenhum. Em 2026 o cenário já é outro, e vale entender o que mudou — inclusive para deixar claro o que está definitivamente fora do alcance de qualquer serviço estético.</p>
+
+<h2>O que é alopecia areata</h2>
+<p>É uma doença autoimune. O sistema imunológico passa a atacar o folículo piloso, e o resultado clássico são falhas arredondadas, de bordas bem definidas, geralmente sem vermelhidão, sem descamação e sem dor. Pode atingir só o couro cabeludo, mas também barba, sobrancelhas e cílios; nas formas mais extensas — <em>totalis</em> e <em>universalis</em> — acomete toda a cabeça ou todo o corpo.</p>
+<p>O curso é imprevisível, e essa imprevisibilidade é parte central do problema. O II Consenso da Sociedade Brasileira de Dermatologia registra que cerca de <strong>50% dos pacientes com placa única apresentam repilação espontânea nos primeiros seis meses</strong>, e 70% ao longo do primeiro ano — com possibilidade de recidiva depois. Esse dado explica muita coisa: boa parte dos casos leves melhora sozinha, o que faz praticamente qualquer intervenção parecer eficaz quando não é.</p>
+
+<h2>A virada dos inibidores de JAK</h2>
+<p>Os medicamentos que mudaram o campo são os inibidores da Janus quinase, os I-JAK. Eles bloqueiam vias de sinalização — de IFN-γ e IL-15 — que ativam e perpetuam as células T citotóxicas responsáveis pelo ataque ao folículo. Interrompida essa sinalização, o ciclo capilar normal pode voltar a funcionar.</p>
+<p>No Brasil, duas substâncias estão aprovadas pela Anvisa para alopecia areata grave: <strong>baricitinibe</strong>, a partir dos 18 anos, e <strong>ritlecitinibe</strong>, a partir dos 12. O ritlecitinibe é atualmente o único com aprovação em bula para tratamento sistêmico na população pediátrica.</p>
+<p>Nos Estados Unidos existe um terceiro, o deuruxolitinibe, aprovado pelo FDA em julho de 2024 para adultos. E em abril de 2026 a AbbVie protocolou pedido ao FDA para o upadacitinibe em alopecia areata grave, com base no programa de fase 3 UP-AA. Esse uso <strong>ainda não está aprovado</strong> — está sob análise regulatória nos Estados Unidos e na Europa.</p>
+
+<h2>Os números, e o que eles não dizem</h2>
+<p>Nos ensaios do baricitinibe, entre 32% e 35% dos pacientes com doença extensa que usaram a dose de 4 mg alcançaram repilação de 80% ou mais do couro cabeludo em 36 semanas. Para o deuruxolitinibe, cerca de um terço dos participantes atingiu esse mesmo patamar em 24 semanas, contra menos de 1% no placebo. Nos dois estudos de fase 3 do upadacitinibe, que reuniram 1.399 participantes de 12 a 63 anos com doença grave, a proporção que atingiu 80% ou mais de cobertura em 24 semanas ficou entre 44,6% e 55%, dependendo da dose e do estudo, contra 1,5% e 3,4% nos grupos placebo.</p>
+<p>São resultados expressivos para o padrão da área. Cabem três ressalvas.</p>
+<ul>
+<li>São <strong>taxas de resposta, não de cura</strong>. Em vários desses braços, a maioria dos participantes não atingiu o desfecho.</li>
+<li>O tratamento é <strong>contínuo</strong>. Suspender costuma significar recidiva, e o consenso brasileiro descreve a doença como crônica e de curso imprevisível.</li>
+<li>São imunomoduladores sistêmicos, com necessidade de exames prévios, monitoramento e avaliação individual de risco. O deuruxolitinibe, por exemplo, exige teste genético de CYP2C9 antes da prescrição.</li>
+</ul>
+<p>Nada disso é decisão de balcão. É conduta médica, com acompanhamento.</p>
+
+<h2>O que mais entra no manejo</h2>
+<p>O consenso brasileiro descreve um leque bem mais amplo que os I-JAK, escalonado pela gravidade: corticosteroides tópicos e intralesionais, antralina, minoxidil tópico, corticoterapia sistêmica em casos de evolução rápida, metotrexato e minoxidil oral como adjuvante. O minoxidil oral isolado tem pouca evidência na alopecia areata, mas há relato de efeito aditivo quando associado aos I-JAK — o que pode beneficiar respondedores parciais.</p>
+<p>A escolha depende de extensão, tempo de doença, idade, comorbidades e expectativa do paciente. Não existe protocolo único.</p>
+
+<h2>Onde entra — e onde não entra — quem trabalha com couro cabeludo</h2>
+<p>Head Spa não trata alopecia areata. Não é questão de protocolo melhor ou pior: a doença é autoimune, e limpeza, esfoliação e massagem não interferem no ataque imunológico ao folículo. Qualquer promessa nesse sentido é falsa e atrasa o tratamento de quem precisa dele.</p>
+<p>Existe, porém, um papel legítimo e nada pequeno. Quem examina couro cabeludo com regularidade é quem tem mais chance de notar cedo uma falha arredondada, de bordas nítidas, com pele de aspecto normal. Dizer "isso aqui apareceu desde a última vez, vale procurar um dermatologista" é útil e está inteiramente dentro do que cabe fazer.</p>
+<p>Vale registrar também o peso emocional. O consenso aponta impacto significativo na qualidade de vida, sobretudo nas formas moderadas e graves, e a doença ainda é tratada com frequência como problema meramente cosmético — o que alimenta estigma. Acolher sem minimizar e sem prometer solução é a postura adequada. Quando o sofrimento é grande, orientar a busca por um profissional de saúde mental faz parte do cuidado.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Falhas de cabelo de surgimento súbito pedem consulta com dermatologista.</em></p>
+"""
+},
+{
+ "slug": "agua-dura-couro-cabeludo-evidencia",
+ "cat": "dicas",
+ "title": "Água dura e cabelo: o que a evidência dermatológica realmente mostra",
+ "excerpt": "Filtros e ablandadores vendem a ideia de que a água da torneira destrói seu cabelo. Os estudos disponíveis são poucos, pequenos e contraditórios — e vale saber exatamente o que eles testaram.",
+ "date": "5 de agosto de 2026",
+ "sources": [("International Journal of Trichology - Effects of hard water on hair (2013)", "https://pubmed.ncbi.nlm.nih.gov/24574692/"), ("Indian Journal of Dermatology, Venereology and Leprology - Scanning electron microscopy study of hair shaft changes related to hardness of water (2017)", "https://ijdvl.com/scanning-electron-microscopy-study-of-hair-shaft-changes-related-to-hardness-of-water/")],
+ "body": """
+<p>"A água daqui estraga meu cabelo" é uma das explicações mais populares para fio quebradiço, ressecamento e couro cabeludo irritado. É também um bom argumento de venda: filtros de chuveiro, ablandadores e xampus "antirresíduo mineral" formam um mercado que cresce apoiado nessa ideia. Vale olhar o que a pesquisa dermatológica de fato mostra — e o resultado é bem menos conclusivo do que o marketing sugere.</p>
+
+<h2>O que é água dura</h2>
+<p>Dureza é a quantidade de sais dissolvidos na água, principalmente carbonato de cálcio e sulfato de magnésio. Bicarbonatos respondem pela dureza temporária, que sai com fervura; sulfatos, pela permanente, que não sai. Água de poço e de regiões com solo calcário tende a ser mais dura, e a variação entre cidades — às vezes entre bairros — é grande.</p>
+<p>Os efeitos perceptíveis são reais e conhecidos: espuma que custa a formar, sensação de filme na pele, tecido áspero depois de lavado. A pergunta é se isso se traduz em dano ao cabelo e ao couro cabeludo.</p>
+
+<h2>O que os estudos testaram</h2>
+<p>Um trabalho publicado no <em>International Journal of Trichology</em> em 2013 comparou fios imersos em água dura (212,5 ppm de carbonato de cálcio) e em água destilada (10 ppm), dez minutos em dias alternados, durante trinta dias. Depois mediu resistência à tração e elasticidade em equipamento de teste de materiais. O resultado: <strong>nenhuma diferença estatisticamente significativa</strong> em nenhum dos dois parâmetros. A conclusão dos autores é literal — a dureza da água não interfere na resistência à tração nem na elasticidade do cabelo.</p>
+<p>Um segundo estudo, de 2017, no <em>Indian Journal of Dermatology, Venereology and Leprology</em>, foi feito na Arábia Saudita, onde a água de torneira é bastante dura (287 a 533 ppm) e a queixa de quebra é comum no ambulatório. Vinte voluntários, três semanas de lavagem simulando uso real, análise por microscopia eletrônica de varredura. Os achados: a deposição de magnésio foi significativamente maior no grupo da água dura (P = 0,001); a de cálcio, não (P = 0,28); e <strong>não houve diferença significativa nas alterações estruturais da superfície do fio</strong>.</p>
+<p>A conclusão desses autores é o resumo mais honesto disponível hoje: água dura pode estar associada a mais depósitos na superfície do fio, mas isso não se traduz necessariamente em dano estrutural visível.</p>
+
+<h2>Onde a evidência conflita</h2>
+<p>Não há consenso. O próprio artigo de 2017 cita um estudo paquistanês de 2016, com 76 voluntários, que encontrou redução significativa da resistência à tração em cabelo tratado com água dura. Resultados opostos, metodologias diferentes, nenhum deles definitivo.</p>
+<p>E as limitações são grandes dos dois lados. Amostras pequenas. Duração curta — trinta dias e três semanas não representam anos de exposição. Ausência de análise antes do tratamento. E, o ponto mais importante: todos esses trabalhos usaram <strong>fios cortados, fora da cabeça</strong>. Nenhum avaliou o couro cabeludo vivo, que é justamente onde ficam a barreira lipídica, a inflamação e o microbioma.</p>
+<p>Ou seja, a pergunta "água dura irrita o couro cabeludo?" segue praticamente sem resposta experimental direta, ainda que exista literatura relacionando água dura ao agravamento de eczema.</p>
+
+<h2>O que a evidência não sustenta</h2>
+<p>Dois pontos merecem ser ditos sem rodeio.</p>
+<p>Água dura <strong>não é causa demonstrada de queda de cabelo</strong>. Queda se origina no folículo, e nenhum dos estudos citados avaliou o folículo, muito menos mostrou efeito sobre ele. Material comercial que liga água dura a calvície está muito além dos dados.</p>
+<p>E números do tipo "a água dura afina seu fio em 30%" não têm respaldo nos trabalhos disponíveis. Quando a estatística aparece sem o estudo, o tamanho da amostra e o desfecho medido, ela não vale nada — independentemente de quem esteja repetindo.</p>
+
+<h2>O que fazer se você desconfia da sua água</h2>
+<p>Mesmo com evidência fraca, algumas medidas são baratas, inofensivas e resolvem a sensação de resíduo.</p>
+<ul>
+<li>Usar um xampu de limpeza profunda ou quelante uma vez por semana, se você percebe filme ou aspereza depois da lavagem.</li>
+<li>Enxaguar mais e por mais tempo. Resíduo de xampu mal removido é causa banal de coceira e costuma ser confundido com efeito da água.</li>
+<li>Baixar a temperatura da água, variável com impacto bem mais estabelecido sobre ressecamento do que a dureza.</li>
+<li>Testar mudanças simples por algumas semanas antes de investir em equipamento. Filtro de chuveiro pode melhorar sua percepção, mas não há ensaio clínico robusto demonstrando benefício capilar mensurável.</li>
+</ul>
+<p>Um teste caseiro e gratuito: observe se o problema muda quando você passa uma temporada em outra cidade. Não é prova de nada, mas é informação.</p>
+
+<h2>Quando o problema não é a água</h2>
+<p>Vale desconfiar da explicação hídrica quando há vermelhidão persistente, placas bem delimitadas, feridas, descamação que não cede em quatro semanas ou aumento visível de queda. Esses sinais apontam para dermatite seborreica, psoríase, dermatite de contato a algum produto da rotina ou outras causas que exigem exame clínico. Trocar a água não resolve nenhuma delas, e atribuir tudo ao chuveiro só adia o diagnóstico.</p>
+<p>E, no caso específico de fio quebradiço, o suspeito mais provável continua sendo o de sempre: química, calor e atrito mecânico — variáveis com evidência muito mais sólida do que a dureza da água.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "esfoliante-couro-cabeludo-como-avaliar",
+ "cat": "produtos",
+ "title": "Esfoliante de couro cabeludo: os critérios que importam antes de comprar",
+ "excerpt": "Físico ou químico, qual ativo, com que frequência. Um guia de avaliação sem indicação de marca — e com os limites do que esse tipo de produto resolve.",
+ "date": "5 de agosto de 2026",
+ "sources": [("DRMTLGY - Physical vs. chemical exfoliation", "https://www.drmtlgy.com/blogs/ask-a-dermatologist/physical-vs-chemical-exfoliation"), ("Hims Health - Scalp exfoliation guide", "https://www.hims.com/blog/scalp-exfoliation"), ("Dermaclub - Shampoo anticaspa: como escolher", "https://www.dermaclub.com.br/blog/cabelo/dicas-shampoo-anticaspa.html")],
+ "body": """
+<p>Esfoliante de couro cabeludo virou categoria própria na prateleira nos últimos anos, com preços que vão de dez a mais de duzentos reais. A diferença entre eles raramente está onde a embalagem sugere. Este texto não indica marca — indica o que olhar antes de decidir.</p>
+
+<h2>O que esse tipo de produto faz</h2>
+<p>A proposta é remover o que se acumula na superfície do couro cabeludo: células mortas, sebo já oxidado, resíduo de finalizadores, silicones e protetores térmicos. Esse acúmulo é real e a lavagem comum nem sempre dá conta dele, sobretudo em quem usa muito produto de finalização ou espaça bastante as lavagens.</p>
+<p>O que ele <strong>não</strong> faz, apesar do que muitos rótulos insinuam: não faz cabelo nascer, não trata alopecia e não cura dermatite seborreica. Descamação que volta toda semana, vermelhidão persistente ou queda associada não são problemas de limpeza — são quadros que pedem diagnóstico. Comprar esfoliante para resolver isso costuma adiar o tratamento certo.</p>
+
+<h2>Físico ou químico: a primeira bifurcação</h2>
+<p>Esfoliantes <strong>físicos</strong> usam partículas — açúcar, sal, carvão, pó de semente — que removem o acúmulo por atrito mecânico. Funcionam bem em cabelo grosso, com bastante resíduo e couro cabeludo sem sensibilidade. O ponto fraco é justamente o atrito: aplicados com força, em couro cabeludo já irritado, machucam.</p>
+<p>Esfoliantes <strong>químicos</strong> dissolvem o acúmulo com ácidos — os AHAs, como o glicólico e o lático, e os BHAs, principalmente o salicílico. Ficam alguns minutos agindo e saem no enxágue. Tendem a ser mais adequados a cabelo fino, couro cabeludo sensível e a quem não confia na própria mão para dosar pressão.</p>
+<p>Uma diferença prática que pesa em cabelo com curvatura: o esfoliante físico exige movimentação que embaraça o fio. O químico dispensa esse trabalho quase inteiro.</p>
+
+<h2>Os ativos que aparecem no rótulo</h2>
+<p>Vale saber o que cada um se propõe a fazer, porque a mesma palavra aparece em produtos com finalidades diferentes.</p>
+<ul>
+<li><strong>Ácido salicílico:</strong> lipossolúvel, o que significa que penetra em ambiente oleoso. É o mais associado a couro cabeludo com sebo e descamação.</li>
+<li><strong>AHAs (glicólico, lático):</strong> atuam mais na superfície, com efeito de renovação da camada mais externa.</li>
+<li><strong>Piritionato de zinco e sulfeto de selênio:</strong> não são esfoliantes — são antifúngicos, voltados ao controle da <em>Malassezia</em>. Aparecem combinados com esfoliantes em muitas fórmulas anticaspa.</li>
+<li><strong>Argilas e carvão:</strong> absorvem oleosidade. Efeito de superfície, agradável para quem tem raiz muito oleosa.</li>
+</ul>
+<p>Se a queixa é descamação, uma fórmula que combina esfoliação e antifúngico faz mais sentido do que esfoliação isolada. Se a queixa é só acúmulo de produto, esfoliação basta.</p>
+
+<h2>Critérios de avaliação</h2>
+<p><strong>A queixa que você quer resolver.</strong> Óbvio e ignorado com frequência. Acúmulo de finalizador, oleosidade de raiz e descamação são problemas distintos e pedem fórmulas distintas.</p>
+<p><strong>A concentração, quando declarada.</strong> Muitos rótulos não informam. Um produto que declara a porcentagem do ativo dá mais controle do que um que só estampa o nome do ácido em destaque.</p>
+<p><strong>Formato e o resto da rotina.</strong> Alguns esfoliantes já são o shampoo; outros são pré-shampoo, e nesse caso você continuará precisando lavar depois. Isso muda o tempo total do procedimento e o custo real por uso.</p>
+<p><strong>Presença de fragrância e álcool.</strong> Em couro cabeludo reativo, os dois são fontes comuns de irritação. Fórmulas sem fragrância costumam ser a escolha mais segura para pele sensível.</p>
+<p><strong>Custo por aplicação, não preço do frasco.</strong> Um produto usado uma vez por semana rende bem mais do que o preço sugere. Divida.</p>
+
+<h2>Frequência e os erros mais comuns</h2>
+<p>A recomendação que aparece com mais consistência entre profissionais é <strong>uma a duas vezes por semana</strong>, e há orientação de começar em duas a três vezes semanais em quadros de descamação e reduzir para manutenção semanal assim que melhorar. Uso acima disso é onde mora o problema: esfoliar demais irrita, compromete a barreira e provoca produção compensatória de sebo — exatamente o oposto do objetivo.</p>
+<p>Outros erros frequentes: aplicar esfoliante físico com as unhas ou com força, esfoliar couro cabeludo com ferida, crosta ou dor, estender o produto por todo o comprimento do cabelo, e trocar de produto a cada semana sem dar tempo de avaliar. Duas a quatro semanas é um prazo razoável para julgar se algo funcionou.</p>
+<p>Cuidado também com a soma: usar esfoliante, xampu antirresíduo e tônico com álcool na mesma rotina é agressão acumulada, mesmo que cada item isolado seja adequado.</p>
+
+<h2>Quando o produto não é a resposta</h2>
+<p>Se a descamação não melhora depois de quatro semanas de uso adequado, se há vermelhidão intensa, placas bem delimitadas, feridas, sangramento ou queda de cabelo associada, o caminho é dermatologista, não prateleira. Psoríase, dermatite de contato a algum produto da própria rotina e infecções fúngicas se parecem com caspa e não respondem a esfoliante.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "rotina-couro-cabeludo-entre-sessoes",
+ "cat": "dicas",
+ "title": "A rotina entre as sessões: o básico que sustenta o resultado do Head Spa",
+ "excerpt": "Uma sessão dura uma hora; a rotina dura o mês inteiro. Frequência de lavagem, temperatura da água, técnica e os hábitos que desfazem o trabalho feito.",
+ "date": "5 de agosto de 2026",
+ "sources": [("American Academy of Dermatology - Tips for healthy hair", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"), ("American Academy of Dermatology - Hairstyles that pull can lead to hair loss", "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles"), ("Cleveland Clinic - How often should you really wash your hair?", "https://health.clevelandclinic.org/the-dirty-truth-about-washing-your-hair")],
+ "body": """
+<p>Uma sessão de Head Spa ocupa uma hora do mês. As outras setecentas e poucas horas são a rotina de casa — e é ela que determina em que estado o couro cabeludo chega na sessão seguinte. Nada do que vem abaixo é sofisticado. É exatamente por isso que costuma ser ignorado.</p>
+
+<h2>Frequência de lavagem: não existe número universal</h2>
+<p>A orientação da Academia Americana de Dermatologia é direta e pouco satisfatória para quem quer uma regra: a frequência depende de quanta oleosidade o seu couro cabeludo produz. Para a maior parte das pessoas, duas a três lavagens por semana equilibram limpeza e preservação dos óleos naturais. Cabelo liso e raiz oleosa podem pedir lavagem diária. Cabelo seco, com curvatura acentuada ou muito volumoso costuma tolerar intervalos bem maiores.</p>
+<p>Idade, ambiente e nível de atividade física também mexem nessa conta — a produção de sebo diminui com o passar dos anos, e quem sua muito ou trabalha em ambiente com poeira precisa lavar mais.</p>
+<p>O parâmetro útil não é o calendário: é o couro cabeludo. Lave quando houver oleosidade ou resíduo acumulado, não porque "hoje é dia".</p>
+
+<h2>Temperatura da água</h2>
+<p>Água morna, na faixa da temperatura corporal, é o que a maioria dos profissionais recomenda. Ela dissolve sebo e remove produto sem arrasar a barreira lipídica.</p>
+<p>Água muito quente é confortável no momento e cobra depois: remove óleo em excesso, resseca e favorece produção compensatória de sebo. Se você lava com água quente e reclama que a raiz fica oleosa no dia seguinte, essa é a primeira variável a mexer. Um enxágue final mais frio ajuda a fechar a etapa, mas o ponto principal é evitar o calor excessivo ao longo da lavagem inteira.</p>
+
+<h2>Como lavar — a parte que quase ninguém acerta</h2>
+<p>Três correções resolvem a maioria dos problemas.</p>
+<p><strong>Xampu vai no couro cabeludo, não no comprimento.</strong> Aplique na raiz e deixe a espuma escorrer pelo resto durante o enxágue. Isso basta para limpar o comprimento e evita ressecá-lo.</p>
+<p><strong>Massageie com as polpas dos dedos, nunca com as unhas.</strong> Unha corta microscopicamente a pele e abre caminho para irritação e inflamação. A pele deve se mover junto com os dedos — se você está deslizando sobre o cabelo, está só embaraçando o fio.</p>
+<p><strong>Enxágue mais do que parece necessário.</strong> Resíduo de xampu mal removido é uma das causas mais banais e mais comuns de coceira, e passa despercebida porque ninguém suspeita do enxágue.</p>
+<p>O condicionador segue a lógica inversa: do meio para as pontas, evitando a raiz.</p>
+
+<h2>Secagem, calor e escovação</h2>
+<p>Secar naturalmente é o ideal, segundo orientação dermatológica. Quando usar secador, mantenha temperatura média e distância de pelo menos vinte centímetros do couro cabeludo. Chapinha, babyliss e pente quente enfraquecem o fio e merecem ser reservados para ocasiões, não para a rotina.</p>
+<p>Remova o excesso de água pressionando a toalha, sem esfregar. Esfregar levanta a cutícula e gera frizz e quebra.</p>
+<p>Para desembaraçar, escova de cerdas macias ou pente de dentes largos, das pontas para a raiz. Ferramentas que puxam são a fonte mais evitável de quebra do dia a dia.</p>
+
+<h2>Penteados que puxam</h2>
+<p>Este é o item da lista com consequência mais séria e menos comentada. Penteados sob tração constante — rabo muito apertado, tranças e apliques pesados, coques puxados — podem levar a alopecia por tração, um tipo de queda de cabelo que, se não for interrompida a tempo, se torna definitiva.</p>
+<p>A regra prática que dermatologistas repetem é simples: <strong>se dói, está apertado demais</strong>. Sinais que pedem atenção são fios quebrados na linha da testa, recuo da linha frontal, falhas nas áreas de maior tração, ardência, crostas e a pele do couro cabeludo parecendo "levantada" em pontos de tensão. Diante de qualquer um deles, o passo é afrouxar o penteado e procurar um dermatologista.</p>
+
+<h2>Produtos e o efeito acúmulo</h2>
+<p>Fragrância e álcool em concentração alta são fontes frequentes de irritação em couro cabeludo sensível. Óleo, creme e leave-in vão no comprimento — a raiz não precisa deles, e ali eles viram parte do acúmulo que a próxima limpeza vai ter que resolver.</p>
+<p>Se você usa muito finalizador, uma limpeza mais profunda semanal faz sentido. Se usa pouco, provavelmente não faz.</p>
+
+<h2>O que observar entre uma sessão e outra</h2>
+<p>Vale ter no radar: coceira que atrapalha o sono, descamação que não cede em quatro semanas, feridas ou crostas que não cicatrizam, aumento visível de queda, e qualquer pinta no couro cabeludo que mude de tamanho, forma ou cor. Nenhum desses itens é assunto de salão — todos são de dermatologista.</p>
+<p>E a leitura honesta sobre o Head Spa: ele é manutenção agradável e limpeza bem feita, não tratamento clínico. O que sustenta o couro cabeludo saudável é o que você faz nos outros vinte e nove dias do mês.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "envelhecimento-foliculo-pesquisa-2026",
  "cat": "noticias",
  "title": "Envelhecimento do folículo: o que a pesquisa de 2026 mudou no entendimento da queda",
@@ -442,74 +621,6 @@ ARTICLES = [
 
 <h2>Um lembrete sobre formação</h2>
 <p>Equipamento não substitui técnica. O diferencial competitivo de um espaço de Head Spa está muito mais na mão e no protocolo do profissional do que na marca da aparelhagem. Vale reservar parte do orçamento de implantação para formação — o retorno é maior do que em qualquer upgrade de equipamento.</p>
-"""
-},
-{
- "slug": "head-spa-oportunidade-wellness-global",
- "cat": "noticias",
- "title": "Head Spa e o mercado de wellness de US$ 5 trilhões: onde está a oportunidade",
- "excerpt": "O turismo de bem-estar deve alcançar US$ 1,2 trilhão em 2026, e o Head Spa virou o tratamento mais pedido em spas de luxo. Análise do cenário.",
- "date": "29 de julho de 2026",
- "sources": [("Forbes - The Japanese Head Spa and the $5 Trillion Wellness Opportunity", "https://www.forbes.com/sites/katehardcastle/2026/03/23/the-japanese-head-spa-and-the-5-trillion-wellness-opportunity/")],
- "body": """
-<p>O setor global de wellness movimenta cerca de US$ 5 trilhões, e dentro dele o turismo de bem-estar deve chegar a US$ 1,2 trilhão em 2026. É nesse contexto que o Head Spa deixou de ser curiosidade cultural para se tornar, segundo levantamentos do setor, o tratamento mais requisitado em spas de luxo no mundo.</p>
-<p>Entender por que isso aconteceu ajuda a identificar onde estão as oportunidades reais — e onde há mais ruído do que substância.</p>
-
-<h2>O que torna o Head Spa comercialmente atraente</h2>
-<p>Três características explicam a força do serviço do ponto de vista de negócio.</p>
-<p><strong>Ticket médio elevado com custo de insumo baixo.</strong> O valor percebido está no tempo, na técnica e no ambiente, não em produtos caros consumidos por atendimento. A margem tende a ser boa.</p>
-<p><strong>Recorrência natural.</strong> Diferente de tratamentos pontuais, o Head Spa se encaixa em rotina de manutenção — mensal ou quinzenal. Isso muda completamente a matemática de aquisição de cliente.</p>
-<p><strong>Público amplo.</strong> Não é serviço segmentado por gênero, tipo de cabelo ou faixa etária. Homens representam parcela relevante e crescente da demanda, o que é incomum em serviços de salão.</p>
-
-<h2>Onde está a demanda não atendida</h2>
-<p>O padrão observado em vários mercados é o mesmo: a demanda apareceu antes da oferta qualificada. Cidades grandes viram listas de espera de semanas em espaços especializados, enquanto salões tradicionais passaram a oferecer versões simplificadas do serviço para capturar parte do movimento.</p>
-<p>Isso cria duas oportunidades distintas. A primeira é a especialização — espaços dedicados, com protocolo completo e preço premium, atendendo quem busca a experiência integral. A segunda é a formação: há escassez de profissionais tecnicamente preparados, e quem forma pessoas nesse mercado tem demanda garantida por um bom tempo.</p>
-
-<h2>O risco de banalização</h2>
-<p>Vale registrar o principal risco do momento. Quando um termo ganha tração comercial rápida, ele tende a ser aplicado a serviços que não correspondem ao que prometem. Já se vê "Head Spa" usado para descrever lavagem com massagem de dez minutos.</p>
-<p>O problema não é apenas ético. Um cliente que experimenta uma versão empobrecida do serviço e não percebe valor dificilmente vai pagar preço premium por um atendimento completo depois. A diluição do conceito prejudica o mercado inteiro, inclusive quem faz bem feito.</p>
-
-<h2>Sinais de para onde o setor caminha</h2>
-<p>Alguns movimentos já são visíveis. <strong>Integração com saúde</strong>: parcerias entre espaços de Head Spa e dermatologistas, com encaminhamento nos dois sentidos. <strong>Diagnóstico como serviço</strong>: análise de couro cabeludo cobrada separadamente, gerando plano de tratamento. <strong>Assinaturas</strong>: pacotes mensais que garantem previsibilidade de receita. <strong>Head Spa corporativo</strong>: sessões curtas oferecidas como benefício de bem-estar em empresas.</p>
-
-<h2>Para quem está avaliando entrar</h2>
-<p>A janela ainda está aberta, mas não indefinidamente. O fator decisivo não é quem chega primeiro, e sim quem consegue entregar consistentemente uma experiência que justifique o preço — o que depende muito mais de formação técnica e cuidado com o ambiente do que de investimento em equipamento de ponta.</p>
-<p>Vale também um alerta sobre projeções: números de mercado dessa magnitude descrevem o setor de wellness como um todo, não o faturamento disponível para o Head Spa especificamente. Servem para indicar direção e apetite do consumidor, não como base de projeção de receita de um negócio individual.</p>
-"""
-},
-{
- "slug": "head-spa-saude-mental-estresse",
- "cat": "beneficios",
- "title": "Head Spa e saúde mental: o que a redução do cortisol realmente significa",
- "excerpt": "Dez minutos de massagem podem baixar o cortisol em até 30%. Onde termina o benefício real e onde começa o exagero de marketing.",
- "date": "29 de julho de 2026",
- "sources": [("Head Spa Tokyo - A ciência por trás", "https://www.headspatokyo.com/post/japanese-head-spa-science-guide")],
- "body": """
-<p>Entre os benefícios atribuídos ao Head Spa, o efeito sobre o estresse é o mais falado — e também o mais sujeito a exageros. Vale separar com cuidado o que se sustenta do que é licença poética de material publicitário.</p>
-
-<h2>O dado que sustenta a conversa</h2>
-<p>Cerca de dez minutos de massagem no couro cabeludo podem reduzir os níveis de cortisol em até 30%. O cortisol é o principal hormônio associado à resposta ao estresse, e sua elevação sustentada tem efeitos bem descritos: prejudica o sono, aumenta a inflamação sistêmica, interfere na digestão e — relevante aqui — está ligada a um padrão específico de queda de cabelo, o eflúvio telógeno.</p>
-<p>Ou seja: existe um mecanismo fisiológico concreto por trás da sensação de relaxamento. Não é apenas impressão subjetiva.</p>
-
-<h2>Por que a cabeça, especificamente</h2>
-<p>O couro cabeludo e a região cervical concentram uma densidade alta de terminações nervosas. Além disso, é uma das áreas onde a tensão emocional se manifesta fisicamente com mais frequência — mandíbula travada, trapézio contraído, dor de cabeça tensional.</p>
-<p>A pressão sustentada nessas regiões ativa o sistema nervoso parassimpático, o ramo responsável pelos estados de repouso e recuperação. É o oposto fisiológico do estado de alerta em que muita gente passa o dia inteiro.</p>
-<p>Há também um componente que a literatura sobre toque terapêutico descreve bem: o contato humano cuidadoso, prolongado e sem exigência de contrapartida tem efeito próprio sobre o estado emocional. Para pessoas que vivem sozinhas ou têm pouco contato físico afetivo, esse aspecto pode ser mais relevante do que a técnica em si.</p>
-
-<h2>O que o Head Spa não é</h2>
-<p>Aqui é preciso ser direto, porque há material circulando que sugere mais do que se pode sustentar.</p>
-<p>O Head Spa <strong>não é tratamento para depressão, ansiedade clínica ou qualquer transtorno mental</strong>. Não substitui psicoterapia nem medicação. Uma pessoa em sofrimento psíquico significativo precisa de acompanhamento profissional em saúde mental, e nenhum protocolo de spa muda isso.</p>
-<p>O que ele oferece é uma intervenção pontual sobre o estado fisiológico de tensão — valiosa como parte de um repertório de autocuidado, insuficiente como resposta a um quadro clínico.</p>
-<p>Se você está enfrentando ansiedade persistente, tristeza que não passa, alterações importantes de sono ou apetite, ou pensamentos que assustam, vale procurar um profissional de saúde mental. É um assunto delicado e, se for o seu caso, posso ajudar a encontrar orientação e recursos adequados.</p>
-
-<h2>Como aproveitar melhor o efeito</h2>
-<p>Para quem quer usar o Head Spa como ferramenta de manejo de estresse, alguns pontos aumentam o retorno.</p>
-<p><strong>Regularidade importa mais que intensidade.</strong> Uma sessão isolada dá alívio momentâneo. O efeito consistente sobre o padrão de tensão vem da repetição — mensal, idealmente.</p>
-<p><strong>Proteja o momento.</strong> Chegar correndo, atender mensagens antes e sair direto para um compromisso reduz muito o benefício. O intervalo antes e depois faz parte do tratamento.</p>
-<p><strong>Combine com o resto.</strong> Sono, movimento e vínculos sociais têm impacto muito maior sobre estresse crônico do que qualquer tratamento estético. O Head Spa funciona bem como complemento, não como substituto dessas bases.</p>
-
-<h2>Em resumo</h2>
-<p>O Head Spa tem efeito fisiológico mensurável sobre marcadores de estresse, e isso é uma boa notícia — poucos serviços estéticos podem dizer o mesmo. Tratado como o que é, uma prática de bem-estar com base plausível, entrega valor real. Tratado como terapia, decepciona e ocupa o lugar de algo que a pessoa talvez precise de verdade.</p>
 """
 },
 ]
