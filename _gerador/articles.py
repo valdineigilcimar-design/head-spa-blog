@@ -5,6 +5,161 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "massagem-couro-cabeludo-tecnica-evidencia",
+ "cat": "dicas",
+ "title": "Massagem do couro cabeludo: a técnica certa e o que a ciência realmente mostra",
+ "excerpt": "Quatro minutos por dia aumentaram a espessura do fio em um estudo — com nove participantes. Como fazer do jeito certo, os erros que machucam e o limite honesto da evidência.",
+ "date": "8 de agosto de 2026",
+ "sources": [("Healthline - Scalp Massage for Hair Growth: Does It Really Work?", "https://www.healthline.com/health/scalp-massage-for-hair-growth"), ("GoodRx - The Benefits of a Scalp Massage for Hair Growth", "https://www.goodrx.com/well-being/alternative-treatments/scalp-massage-for-hair-growth"), ("Vichy - Massagem capilar: o que é, benefícios e como fazer", "https://www.vichy.pt/conselhos-de-especialista/couro-cabeludo/massagem-capilar")],
+ "body": """
+<p>A massagem é o coração de qualquer protocolo de Head Spa — e é também a parte que qualquer pessoa pode fazer em casa, todos os dias, sem gastar nada. Justamente por isso, ela acumulou promessas que a evidência não sustenta. Este texto separa as duas coisas: como executar a técnica corretamente e o que os estudos disponíveis de fato mostram.</p>
+
+<h2>O que a massagem faz no couro cabeludo</h2>
+<p>Três efeitos são bem estabelecidos e imediatos: aumento da circulação local, distribuição do sebo natural ao longo da raiz e relaxamento da musculatura que recobre o crânio — testa, têmporas e nuca concentram tensão que a maioria das pessoas nem percebe carregar. É esse conjunto que explica a sensação de alívio quase instantânea.</p>
+<p>O quarto efeito, o mais anunciado, é o estímulo ao crescimento do cabelo. Esse merece um exame mais cuidadoso, feito adiante.</p>
+
+<h2>A técnica, passo a passo</h2>
+<p>O princípio central: quem se move é a <strong>pele</strong>, não os dedos sobre o cabelo. Deslizar os dedos pelos fios embaraça, causa atrito e não massageia nada.</p>
+<ul>
+<li>Apoie as <strong>pontas dos dedos</strong> — nunca as unhas — firmemente no couro cabeludo.</li>
+<li>Faça movimentos circulares pequenos, com pressão moderada, movendo a pele contra o crânio. Se os dedos escorregam pelo cabelo, a pressão está errada.</li>
+<li>Comece na linha da testa, avance pelo topo, desça pelas laterais e termine na nuca. Trabalhe cada região por 20 a 30 segundos.</li>
+<li>Nas têmporas e na base da nuca, vale acrescentar pressão estática: pressione, segure cinco segundos, solte.</li>
+<li>Duração total: <strong>4 a 5 minutos</strong> já produzem efeito. Pode ser no cabelo seco ou durante a lavagem, com o shampoo aplicado.</li>
+</ul>
+<p>Frequência diária é segura para couro cabeludo saudável. A massagem em si não tem contraindicação para a maioria das pessoas — os problemas vêm dos erros de execução.</p>
+
+<h2>O que a evidência mostra — e o tamanho dela</h2>
+<p>O estudo mais citado da área foi publicado em 2016: nove homens fizeram quatro minutos diários de massagem padronizada, com aparelho, durante 24 semanas. Ao final, houve aumento mensurável da <strong>espessura</strong> do fio na região massageada. A hipótese dos autores é mecânica: o estiramento repetido das células da papila dérmica alteraria a expressão de genes ligados ao ciclo capilar.</p>
+<p>É um resultado interessante — e um estudo com <strong>nove participantes</strong>, sem grupo controle robusto, medindo espessura, não crescimento de fios novos. Ele sugere um caminho; não prova um tratamento.</p>
+<p>Um levantamento de 2019 acompanhou mais de 300 pessoas que praticavam massagem padronizada por 11 a 20 minutos diários: 68,9% relataram estabilização da queda ou alguma recuperação. O problema é a palavra "relataram" — são dados <strong>autorrelatados</strong>, sem verificação clínica, vindos de pessoas motivadas que frequentemente usavam outros tratamentos ao mesmo tempo. Isso não anula o achado, mas o rebaixa consideravelmente.</p>
+<p>O resumo honesto: a massagem melhora circulação e tensão de forma comprovada, e pode ter um efeito pequeno e aditivo sobre a qualidade do fio. Ela <strong>não é tratamento para queda de cabelo</strong>, e quem promete isso está muito à frente dos dados.</p>
+
+<h2>Os erros que transformam cuidado em dano</h2>
+<p><strong>Unhas.</strong> O erro mais comum e o pior. Arranhões microscópicos inflamam e podem infeccionar.</p>
+<p><strong>Força demais.</strong> Massagem não é para doer. Pressão que causa desconforto agride o folículo em vez de estimulá-lo.</p>
+<p><strong>Esfregar o comprimento.</strong> Atrito repetido no fio, especialmente molhado, é causa direta de quebra.</p>
+<p><strong>Cabelo embaraçado.</strong> Em cabelo seco, desembarace antes. Massagear sobre nós puxa fios pela raiz.</p>
+
+<h2>Quando a massagem não é o caminho</h2>
+<p>Queda acentuada ou repentina, falhas localizadas, descamação persistente, feridas, dor ou vermelhidão no couro cabeludo não se resolvem com massagem — e alguns desses quadros pioram com manipulação. São situações de consulta com dermatologista, e quanto antes, melhor: as causas mais comuns de queda têm tratamento clínico com evidência muito superior à de qualquer técnica manual.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "shampoo-a-seco-como-avaliar",
+ "cat": "produtos",
+ "title": "Shampoo a seco: o que ele realmente faz e como avaliar antes de comprar",
+ "excerpt": "Ele não lava nada — absorve oleosidade e ganha tempo. Os critérios que importam na escolha, a frequência que os dermatologistas consideram segura e os sinais de que o produto virou problema.",
+ "date": "8 de agosto de 2026",
+ "sources": [("American Academy of Dermatology - Dry shampoo: dermatologists' tips for best results", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/dry-shampoo-best-results"), ("Nebraska Medicine - Is dry shampoo safe?", "https://www.nebraskamed.com/health/healthy-lifestyle/dermatology/is-dry-shampoo-safe"), ("Today.com - Is dry shampoo bad for your hair? We asked dermatologists", "https://www.today.com/health/skin-beauty/should-you-use-dry-shampoo-rcna80826")],
+ "body": """
+<p>O shampoo a seco é um dos produtos mais mal compreendidos da prateleira capilar — a começar pelo nome. Ele não é shampoo e não lava nada: é um absorvente de oleosidade que ganha tempo entre uma lavagem e outra. Entendido assim, é uma ferramenta útil. Entendido como substituto da lavagem, vira fonte de problema. Este guia não indica marca — indica o que avaliar.</p>
+
+<h2>O que ele faz, em termos práticos</h2>
+<p>A base da maioria das fórmulas é um amido (arroz, milho, tapioca) ou argila, que absorve o sebo da raiz e devolve aspecto e toque de cabelo limpo. O efeito é <strong>cosmético e temporário</strong>: o sebo, as células mortas e o resíduo continuam lá, agora misturados ao pó do produto. Nada foi removido — foi disfarçado.</p>
+<p>Isso não é defeito, é a natureza do produto. O problema aparece quando o acúmulo fica dias sem sair.</p>
+
+<h2>Spray ou pó: a primeira escolha</h2>
+<p>O <strong>spray aerossol</strong> é o formato dominante: aplicação rápida, distribuição uniforme, secagem imediata. Em contrapartida, leva propelentes e álcool na fórmula, e exige distância correta de aplicação — perto demais, concentra produto num ponto só e resseca.</p>
+<p>O <strong>pó solto</strong> tem fórmula mais curta, geralmente sem propelente, e rende mais controle sobre a quantidade. Exige mais trabalho para distribuir e pode esbranquiçar se a dose passar do ponto — questão relevante em cabelos escuros, para os quais existem versões pigmentadas.</p>
+
+<h2>O que olhar no rótulo</h2>
+<ul>
+<li><strong>O absorvente principal:</strong> amidos e argilas são a base honesta do produto. Fórmulas em que o perfume parece ser o protagonista tendem a mascarar cheiro em vez de absorver oleosidade.</li>
+<li><strong>Álcool na lista:</strong> quanto mais alto na composição, maior o potencial de ressecamento — ponto de atenção para couro cabeludo sensível ou já ressecado.</li>
+<li><strong>Talco:</strong> ainda aparece em algumas fórmulas. Não é proibido, mas quem prefere evitá-lo deve conferir a lista, porque a embalagem raramente destaca.</li>
+<li><strong>Promessas de tratamento:</strong> shampoo a seco que alega fortalecer, nutrir ou estimular crescimento está prometendo o que o formato não entrega. Ele fica na superfície e sai — ou deveria sair — na próxima lavagem.</li>
+</ul>
+
+<h2>Frequência: onde mora o risco</h2>
+<p>Aqui os dermatologistas convergem: uso <strong>moderado</strong> — uma a duas vezes por semana, no máximo, entre lavagens normais. Há recomendação de remover o produto na lavagem seguinte, sem deixá-lo acumular por vários dias.</p>
+<p>O motivo é o acúmulo. Resíduo que permanece sobre o couro cabeludo pode obstruir a saída dos folículos, irritar a pele e favorecer descamação. Relatos de queda associada a uso intenso existem, mas a evidência aqui é fraca e indireta — casos clínicos e observação, não estudos controlados. A ideia popular de "efeito rebote" na produção de sebo também circula mais em material comercial do que em literatura sólida. O que é seguro afirmar: couro cabeludo coberto de resíduo por dias não é situação saudável, seja qual for o mecanismo.</p>
+
+<h2>Como usar do jeito certo</h2>
+<ul>
+<li>Aplique <strong>apenas na raiz</strong>, em cabelo totalmente seco, com o cabelo dividido em seções.</li>
+<li>No spray, mantenha 15 a 30 centímetros de distância do couro cabeludo.</li>
+<li>Espere o produto agir um ou dois minutos, depois massageie com as pontas dos dedos e retire o excesso com escova.</li>
+<li>Menos é mais: se ficou visível, passou da dose.</li>
+</ul>
+
+<h2>Sinais de que o produto virou problema</h2>
+<p>Coceira persistente, descamação nova, vermelhidão, espinhas na linha do couro cabeludo ou aumento perceptível de queda são sinais para suspender o uso e lavar normalmente por algumas semanas. Se o quadro não melhorar com a suspensão, a causa provavelmente é outra — dermatite seborreica, psoríase e outras condições comuns não têm relação com o produto e pedem diagnóstico. Nesse caso, procure um dermatologista em vez de trocar de marca.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "ozempic-glp1-queda-de-cabelo-estudo-bmj",
+ "cat": "noticias",
+ "title": "Ozempic, Mounjaro e queda de cabelo: o que o grande estudo do BMJ realmente mostrou",
+ "excerpt": "O maior estudo já feito sobre o tema encontrou risco 37% a 68% maior de alopecia entre usuários de GLP-1. Os números absolutos, porém, contam uma história bem menos alarmante.",
+ "date": "8 de agosto de 2026",
+ "sources": [("ScienceDaily / BMJ Group - Ozempic and Mounjaro linked to a surprising hair loss risk (23/07/2026)", "https://www.sciencedaily.com/releases/2026/07/260723084047.htm"), ("The BMJ - Risk of hair loss associated with GLP-1 receptor agonists: target trial emulation (2026)", "https://dx.doi.org/10.1136/bmj-2026-100077")],
+ "body": """
+<p>Os medicamentos da classe GLP-1 — a semaglutida, vendida como Ozempic e Wegovy, e a tirzepatida, vendida como Mounjaro e Zepbound — viraram fenômeno mundial no tratamento do diabetes tipo 2 e da obesidade. Junto com a popularidade vieram relatos dispersos de um efeito inesperado: aumento da queda de cabelo. Até pouco tempo atrás eram só relatos. Em 22 de julho de 2026, o <em>The BMJ</em>, uma das principais revistas médicas do mundo, publicou o maior estudo já feito sobre a questão. Os resultados merecem leitura cuidadosa — sem alarme e sem minimização.</p>
+
+<h2>O que o estudo fez</h2>
+<p>Pesquisadores analisaram prontuários eletrônicos do sistema de saúde da Universidade da Pensilvânia, nos Estados Unidos, cobrindo adultos com diabetes tipo 2 tratados entre janeiro de 2019 e setembro de 2024. A comparação foi entre quem iniciou um agonista de GLP-1 e quem iniciou duas outras classes comuns de medicamento para diabetes: os inibidores de SGLT-2 e os inibidores de DPP-4.</p>
+<p>As amostras são grandes: 12.004 usuários de GLP-1 comparados a 15.221 usuários de SGLT-2, e 11.964 usuários de GLP-1 comparados a 11.233 usuários de DPP-4. Os grupos eram diferentes entre si — quem usava GLP-1 era em média mais jovem e tinha índice de massa corporal maior —, e os autores ajustaram os resultados para idade, sexo, etnia, doenças preexistentes, uso de outros medicamentos e IMC.</p>
+
+<h2>Os números, e como lê-los</h2>
+<p>Após os ajustes, o uso de GLP-1 foi associado a um risco de alopecia <strong>37% maior</strong> na comparação com os inibidores de SGLT-2 e <strong>68% maior</strong> na comparação com os de DPP-4.</p>
+<p>Percentuais relativos assustam mais do que deveriam. Em números absolutos, foram 6,91 casos de alopecia por 1.000 pessoas-ano entre usuários de GLP-1, contra 5,04 no grupo SGLT-2 — menos de 1% dos usuários por ano, e uma diferença de cerca de dois casos a cada mil pessoas acompanhadas por um ano. Os próprios autores enfatizam que o risco absoluto permanece baixo.</p>
+<p>Um detalhe importante: a associação se limitou à alopecia <strong>não cicatricial</strong>, aquela em que o folículo permanece intacto e o cabelo tem potencial de voltar a crescer. Não houve sinal de dano permanente ao folículo nos dados analisados.</p>
+
+<h2>Por que isso aconteceria</h2>
+<p>O estudo não estabeleceu o mecanismo, mas os autores apontam candidatos plausíveis. O principal é o emagrecimento rápido, causa bem estabelecida de aumento de queda — o quadro conhecido como eflúvio telógeno, em que uma fração anormal dos fios entra em fase de repouso ao mesmo tempo. A perda de peso acelerada também pode contribuir para deficiências de ferro e zinco, que interferem no ciclo capilar, e alterações hormonais ligadas ao emagrecimento podem ter algum papel.</p>
+<p>Em outras palavras: talvez o problema não seja a molécula em si, e sim a velocidade do emagrecimento que ela produz. Com o desenho atual, o estudo não consegue separar essas hipóteses.</p>
+
+<h2>O que o estudo não mostra</h2>
+<p>As limitações são reais e estão listadas pelos próprios pesquisadores. É um estudo observacional: mostra associação, não prova causa. Os prontuários não permitiram avaliar gravidade, extensão ou duração da queda, nem verificar se o cabelo voltou a crescer depois da suspensão do medicamento. E a população estudada era de pessoas com diabetes tipo 2 — estender a conclusão para quem usa essas drogas apenas para emagrecer é razoável como hipótese, mas não foi isso que se mediu.</p>
+
+<h2>O que fazer com essa informação</h2>
+<p>Se você usa um desses medicamentos e notou aumento de queda, dois pontos práticos. Primeiro: <strong>não suspenda a medicação por conta própria</strong>. Ela foi prescrita por uma razão médica que não desaparece por causa do cabelo, e a decisão de ajustar dose ou trocar de classe é do prescritor. Segundo: leve a queixa ao médico que prescreveu e, se a queda for intensa ou prolongada, a um dermatologista — que pode investigar ferro, zinco e outras causas que se somam ao quadro, e diferenciar um eflúvio passageiro de outros tipos de alopecia.</p>
+<p>Vale lembrar que o tipo de queda associado ao emagrecimento rápido tende a ser difuso e temporário. Não é garantia individual, mas é o padrão descrito.</p>
+
+<h2>E o Head Spa nessa história</h2>
+<p>Nenhum protocolo estético trata queda de cabelo induzida por medicamento ou por emagrecimento rápido — o gatilho é sistêmico, e limpeza ou massagem no couro cabeludo não mudam isso. Quem atende com regularidade pode, isso sim, notar o aumento de queda, perguntar sobre mudanças recentes de peso ou de medicação e orientar a procurar o médico. É contribuição pequena e honesta — e mais útil do que qualquer promessa de reversão.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Decisões sobre medicamentos devem ser tomadas sempre com o profissional que os prescreveu.</em></p>
+"""
+},
+{
+ "slug": "estresse-queda-de-cabelo-o-que-a-ciencia-mostra",
+ "cat": "noticias",
+ "title": "Estresse e queda de cabelo: o que a ciência demonstrou e o que ainda é extrapolação",
+ "excerpt": "Um estudo de Harvard mapeou o mecanismo que liga o hormônio do estresse ao folículo — em camundongos. O que isso explica, o que ainda não explica e onde entram os limites do bem-estar.",
+ "date": "8 de agosto de 2026",
+ "sources": [("Harvard Stem Cell Institute - How chronic stress leads to hair loss", "https://www.hsci.harvard.edu/news/how-chronic-stress-leads-to-hair-loss"), ("Nature - Corticosterone inhibits GAS6 to govern hair follicle stem-cell quiescence (2021)", "https://dx.doi.org/10.1038/s41586-021-03417-2")],
+ "body": """
+<p>"Perdi cabelo de estresse" é uma das explicações mais repetidas em qualquer conversa sobre queda capilar. Por muito tempo foi observação sem mecanismo: todo mundo conhecia um caso, ninguém sabia dizer como exatamente a tensão mental chegava ao fio. Isso mudou com uma linha de pesquisa do Harvard Stem Cell Institute que mapeou o caminho biológico completo — com uma ressalva central que este texto vai repetir mais de uma vez: os experimentos foram feitos em camundongos.</p>
+
+<h2>Como o fio cresce e descansa</h2>
+<p>O folículo piloso é um dos poucos tecidos do corpo que se regenera em ciclos ao longo da vida inteira. Ele alterna fases de crescimento, em que as células-tronco do folículo se ativam e o fio cresce todos os dias, e fases de repouso, em que as células-tronco ficam quiescentes e o fio se desprende com mais facilidade. A queda vira problema quando os fios caem e as células-tronco permanecem em repouso, sem regenerar tecido novo.</p>
+
+<h2>O experimento que mapeou o mecanismo</h2>
+<p>No estudo publicado na <em>Nature</em>, a equipe da pesquisadora Ya-Chieh Hsu submeteu camundongos a um modelo de estresse crônico e observou que as células-tronco do folículo ficavam presas na fase de repouso por períodos muito longos, sem regenerar o folículo. O elo era a <strong>corticosterona</strong>, hormônio de estresse produzido pelas glândulas adrenais dos roedores — o equivalente ao cortisol humano. O estresse crônico elevava a corticosterona, e administrar o hormônio diretamente reproduzia o efeito sobre as células-tronco.</p>
+<p>O achado inverso é igualmente interessante: quando os pesquisadores removeram a fonte dos hormônios de estresse, a fase de repouso ficou curtíssima e as células-tronco passaram a regenerar folículos constantemente, mesmo em animais velhos. Ou seja, até o nível basal do hormônio, presente em qualquer organismo sem estresse nenhum, já funciona como freio do ciclo capilar. O estresse não cria esse freio — aperta um que já existia.</p>
+
+<h2>A surpresa: o hormônio não age na célula-tronco</h2>
+<p>A hipótese óbvia era que o hormônio agisse diretamente sobre as células-tronco. A equipe testou removendo o receptor de corticosterona delas — e nada mudou. O alvo real é outro: a <strong>papila dérmica</strong>, um aglomerado de células logo abaixo do folículo. Sob hormônio elevado, a papila deixa de secretar uma molécula chamada <strong>Gas6</strong>, que é justamente o sinal que acorda as células-tronco.</p>
+<p>E aqui o dado mais promissor do trabalho: adicionar Gas6 foi suficiente para reativar as células-tronco e promover crescimento de pelo, inclusive nos animais sob estresse. Como as células-tronco não são destruídas — apenas ficam adormecidas —, o caminho para reativá-las existe, ao menos em tese.</p>
+
+<h2>De camundongo para gente: o salto que exige cautela</h2>
+<p>Aqui entra a honestidade que costuma faltar quando esse estudo é citado por aí. Os próprios autores afirmam que os achados precisam de mais pesquisa antes de qualquer aplicação segura em humanos. Não existe tratamento baseado em Gas6 disponível, e resultado em roedor não é garantia de resultado em pessoa — a história da pesquisa capilar está cheia de exemplos do contrário.</p>
+<p>O que existe em humanos é o quadro clínico reconhecido há décadas pela dermatologia: o <strong>eflúvio telógeno</strong>, queda difusa que costuma aparecer semanas a meses depois de um estressor importante — doença, cirurgia, luto, parto — e que na maioria dos casos se resolve quando o gatilho passa. O estudo de Harvard oferece um mecanismo plausível para parte dessa relação; não é ele que a comprova em pessoas, nem toda queda atribuída a estresse é de fato causada por ele. Quadros hormonais, genéticos e autoimunes são frequentemente confundidos com "estresse".</p>
+
+<h2>E os cabelos brancos?</h2>
+<p>Um trabalho anterior do mesmo laboratório encontrou outro caminho para outro fenômeno: no embranquecimento precoce por estresse, o sistema nervoso simpático esgota diretamente as células-tronco de melanócitos, responsáveis pelo pigmento. A diferença importa: essas células são destruídas, enquanto as do folículo apenas adormecem. É por isso que, em tese, a queda por estresse é mais recuperável do que o fio que embranqueceu.</p>
+
+<h2>Onde o Head Spa entra — e onde não entra</h2>
+<p>A massagem e o relaxamento de uma sessão são bem-estar real, e reduzir tensão nunca é perda de tempo. Mas não existe demonstração de que Head Spa trate queda de cabelo relacionada a estresse, e o mecanismo descrito acima é sistêmico — não se resolve pela superfície do couro cabeludo. Se o estresse é crônico, com impacto no sono, no humor ou no trabalho, o profissional certo é da saúde mental, não do salão. E se a queda é visível e persistente, o caminho é o dermatologista, que pode diferenciar eflúvio telógeno de outras alopecias com tratamento próprio.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica ou psicológica. Queda intensa, súbita ou prolongada pede consulta com dermatologista.</em></p>
+"""
+},
+{
  "slug": "alopecia-areata-inibidores-jak-2026",
  "cat": "noticias",
  "title": "Alopecia areata em 2026: o que mudou no tratamento e por que isso não é assunto de salão",
@@ -464,163 +619,6 @@ ARTICLES = [
 <p>Head Spa cuida do couro cabeludo e proporciona relaxamento. Ele não altera a curvatura, não define cacho de forma duradoura e não recupera fio danificado por química ou calor — dano na fibra capilar não se reverte, se maneja até crescer. Quem tem couro cabeludo saudável e quer mantê-lo assim, além de relaxar, encontra valor real. Só não é tratamento reconstrutor.</p>
 
 <p><em>Este texto é informativo e não substitui avaliação médica. Queda acentuada, descamação persistente ou feridas no couro cabeludo pedem consulta com dermatologista.</em></p>
-"""
-},
-{
- "slug": "head-spa-conquista-o-mundo-2026",
- "cat": "noticias",
- "title": "Head Spa conquista o mundo em 2026: por que todos falam do ritual japonês",
- "excerpt": "As buscas por scalp spa cresceram 349% em 2026 e o tratamento se tornou o mais pedido em spas de luxo. Entenda o que está por trás do fenômeno.",
- "date": "29 de julho de 2026",
- "sources": [("Power Your Curls - Estatísticas 2026", "https://www.poweryourcurls.com/japanese-head-spa-statistics-2026/")],
- "body": """
-<p>Se você acompanha o universo da beleza e do bem-estar, provavelmente já ouviu falar do Head Spa. O que começou como um serviço de nicho em salões japoneses virou, em 2026, um dos movimentos mais fortes do setor de cuidados capilares no mundo inteiro. Os números explicam o tamanho do fenômeno: as buscas relacionadas a <em>scalp spa</em> cresceram 349% ao longo do ano, e o termo "japanese head spa" registrou alta de 233% em comparação com o ano anterior.</p>
-
-<h2>De onde vem o Head Spa</h2>
-<p>O Head Spa nasceu no Japão nos anos 1980, dentro de uma tradição estética que sempre tratou o couro cabeludo como extensão da pele do rosto — e não como um detalhe secundário do cabelo. A lógica é simples e, ao mesmo tempo, revolucionária para o mercado ocidental: se o fio nasce do couro cabeludo, cuidar da raiz é cuidar do cabelo inteiro.</p>
-<p>Enquanto no Ocidente a indústria passou décadas concentrada em produtos que agem no comprimento do fio — máscaras, óleos, finalizadores —, os salões japoneses desenvolveram protocolos completos de diagnóstico, limpeza profunda, esfoliação, vapor e massagem terapêutica. Um atendimento típico dura de 60 a 90 minutos e segue uma sequência cuidadosamente desenhada.</p>
-
-<h2>Por que agora?</h2>
-<p>A explosão do Head Spa em 2026 não é acidente. Três fatores se somaram.</p>
-<p><strong>Primeiro, o estresse.</strong> A pandemia e os anos seguintes deixaram como herança uma população mais atenta a sintomas físicos da tensão mental — e a queda de cabelo por estresse entrou definitivamente no radar do consumidor. O Head Spa se apresenta como resposta a esse problema específico, o que é muito mais persuasivo do que uma promessa genérica de "cabelo bonito".</p>
-<p><strong>Segundo, o vídeo curto.</strong> O formato do tratamento é visualmente hipnótico: água corrente, espuma, luz baixa, movimentos lentos. É conteúdo perfeito para as redes sociais, e a exposição orgânica fez pelo Head Spa o que nenhuma campanha publicitária conseguiria.</p>
-<p><strong>Terceiro, o turismo de bem-estar.</strong> Viajantes que passaram pelo Japão voltaram procurando o serviço em seus países. Onde não havia oferta, criou-se demanda reprimida — e listas de espera de semanas em cidades como Nova York, Londres e Toronto.</p>
-
-<h2>O que isso significa para o Brasil</h2>
-<p>O Brasil chega a esse movimento com uma vantagem e um desafio. A vantagem é cultural: o brasileiro já tem intimidade com salão, com cuidado capilar frequente e com serviços de beleza como hábito, não como luxo ocasional. O terreno está preparado.</p>
-<p>O desafio é técnico. Head Spa de verdade exige formação específica, equipamento adequado e protocolo — não é apenas lavar o cabelo com uma massagem mais longa. Parte do que se vende hoje no mercado sob esse nome está longe do padrão japonês, e isso cria um risco real de banalização do termo antes que o público entenda o que é a experiência completa.</p>
-
-<h2>O que esperar dos próximos meses</h2>
-<p>A tendência aponta para três direções. Especialização: espaços dedicados exclusivamente ao Head Spa, sem serviço de corte ou coloração. Tecnologia: equipamentos com controle preciso de temperatura, microscopia de couro cabeludo e diagnóstico digital. E integração com saúde: parcerias entre esteticistas, dermatologistas e profissionais de saúde mental.</p>
-<p>Para quem trabalha no setor, a leitura é clara. O Head Spa deixou de ser uma novidade passageira e está se firmando como categoria própria dentro do mercado de beleza e bem-estar. Quem se preparar tecnicamente agora vai colher os resultados nos próximos anos.</p>
-"""
-},
-{
- "slug": "7-beneficios-head-spa-couro-cabeludo",
- "cat": "beneficios",
- "title": "7 benefícios comprovados do Head Spa para o couro cabeludo",
- "excerpt": "Quatro minutos de massagem aumentam a circulação no couro cabeludo em 54%. Veja o que a evidência mostra sobre cada benefício atribuído ao tratamento.",
- "date": "29 de julho de 2026",
- "sources": [("Head Spa Tokyo - A ciência por trás", "https://www.headspatokyo.com/post/japanese-head-spa-science-guide"), ("Vichy - Massagem capilar", "https://www.vichy.pt/conselhos-de-especialista/couro-cabeludo/massagem-capilar")],
- "body": """
-<p>O Head Spa acumula promessas — algumas bem fundamentadas, outras exageradas pelo marketing. Separamos sete benefícios e o que se sabe sobre cada um deles, com honestidade sobre o que ainda carece de evidência mais robusta.</p>
-
-<h2>1. Aumento da circulação sanguínea</h2>
-<p>Este é o efeito mais bem documentado. Cerca de quatro minutos de massagem no couro cabeludo elevam a circulação local em aproximadamente 54%. Mais sangue circulando significa mais oxigênio e nutrientes chegando ao folículo piloso — a estrutura responsável por produzir o fio.</p>
-<p>Vale a ressalva: circulação melhor é condição favorável ao crescimento saudável, não uma garantia de cabelo novo. Folículo que já cessou a atividade não volta a funcionar por massagem.</p>
-
-<h2>2. Redução do cortisol</h2>
-<p>Dez minutos de massagem no couro cabeludo podem reduzir os níveis de cortisol — o principal hormônio do estresse — em até 30%. Esse dado importa mais do que parece, porque o cortisol cronicamente elevado está associado a um tipo específico de queda capilar, o eflúvio telógeno, em que uma quantidade anormal de fios entra na fase de repouso simultaneamente.</p>
-
-<h2>3. Limpeza profunda e remoção de resíduos</h2>
-<p>O couro cabeludo acumula sebo oxidado, células mortas, poluição e resíduo de produtos — especialmente de finalizadores, silicones e protetores térmicos. A esfoliação e a limpeza profunda do protocolo removem esse acúmulo de forma mais eficaz do que a lavagem doméstica comum.</p>
-<p>Um couro cabeludo obstruído tende a apresentar mais coceira, descamação e oleosidade de rebote, num ciclo que se autoalimenta.</p>
-
-<h2>4. Equilíbrio da oleosidade</h2>
-<p>Parece contraintuitivo, mas quem tem couro cabeludo muito oleoso frequentemente o agride demais — lavagens excessivas com produtos agressivos que provocam produção compensatória de sebo. O Head Spa trabalha no sentido oposto: limpeza eficaz sem remoção total da barreira lipídica, o que ao longo de algumas sessões tende a normalizar a produção.</p>
-
-<h2>5. Alívio de tensão muscular</h2>
-<p>O protocolo não se limita à cabeça. Cervical, trapézio e nuca costumam entrar no atendimento, e é aí que muita gente descobre quanta tensão carregava sem perceber. Para quem passa o dia diante de uma tela, o efeito é imediato e perceptível.</p>
-
-<h2>6. Melhora da qualidade do sono</h2>
-<p>Relato frequente entre quem faz o tratamento com regularidade. A explicação plausível combina a queda do cortisol com a ativação do sistema nervoso parassimpático — o estado fisiológico de repouso e digestão. A evidência aqui é mais indireta do que nos itens anteriores, baseada sobretudo em relatos e no que se sabe sobre massagem terapêutica em geral.</p>
-
-<h2>7. Melhor absorção de ativos</h2>
-<p>Couro cabeludo limpo, com circulação estimulada e poros desobstruídos absorve melhor os ativos aplicados em seguida — tônicos, séruns, tratamentos com minoxidil ou peptídeos. Por isso a ordem do protocolo importa: o tratamento entra depois da limpeza e da massagem, nunca antes.</p>
-
-<h2>Uma observação necessária</h2>
-<p>O Head Spa é um tratamento estético e de bem-estar. Ele não substitui avaliação médica. Queda de cabelo intensa ou repentina, feridas, descamação persistente, dor ou alteração visível na pele do couro cabeludo pedem consulta com dermatologista. Alopecias com causa hormonal, autoimune ou genética exigem tratamento clínico — e nenhum protocolo de spa resolve isso.</p>
-<p>Dito isso, para quem tem couro cabeludo saudável e busca mantê-lo assim, além de aliviar tensão acumulada, o Head Spa entrega o que promete.</p>
-"""
-},
-{
- "slug": "head-spa-em-casa-passo-a-passo",
- "cat": "dicas",
- "title": "Head Spa em casa: passo a passo completo em 7 etapas",
- "excerpt": "Não substitui o profissional, mas dá para chegar perto. Guia detalhado com tempos, movimentos e os erros mais comuns de quem tenta em casa.",
- "date": "29 de julho de 2026",
- "sources": [("Vichy - Como fazer massagem capilar", "https://www.vichy.pt/conselhos-de-especialista/couro-cabeludo/massagem-capilar")],
- "body": """
-<p>Um Head Spa profissional envolve diagnóstico, equipamento e mãos treinadas. Nada disso se replica integralmente em casa. Mas boa parte do benefício vem da massagem e da limpeza bem feitas — e isso você consegue fazer sozinho, com resultado real, em cerca de 40 minutos.</p>
-<p>Abaixo, o protocolo doméstico etapa por etapa.</p>
-
-<h2>Antes de começar: o que separar</h2>
-<p>Um óleo vegetal leve (jojoba, coco fracionado ou amêndoas), seu shampoo habitual, um shampoo de limpeza profunda ou esfoliante de couro cabeludo, um condicionador ou máscara, duas toalhas e uma tigela com água quente. Se tiver um pente de dentes largos, separe também.</p>
-<p>Reserve o tempo de verdade. Fazer correndo derrota o propósito.</p>
-
-<h2>Etapa 1 — Escovação a seco (2 minutos)</h2>
-<p>Desembarace o cabelo seco com cuidado, começando pelas pontas e subindo. Isso solta células mortas e resíduo superficial, além de evitar a formação de nós durante a lavagem. Use as pontas dos dedos, não as unhas.</p>
-
-<h2>Etapa 2 — Óleo pré-lavagem e primeira massagem (8 minutos)</h2>
-<p>Aqueça uma colher de sopa do óleo entre as mãos e aplique diretamente no couro cabeludo, dividindo o cabelo em seções. Não é para untar o comprimento — o foco é a raiz.</p>
-<p>Agora a massagem. Apoie as pontas dos dedos no couro cabeludo e faça movimentos circulares firmes, sem deslizar sobre o cabelo: a pele deve se mover junto com os dedos. Comece na linha da testa, avance pelo topo, laterais e termine na nuca. Trabalhe cada região por cerca de 30 segundos.</p>
-<p>Depois, faça uma pressão estática: pressione com os dedos, mantenha cinco segundos, solte. Repita ao longo de todo o couro cabeludo. É nessa etapa que a tensão realmente cede.</p>
-
-<h2>Etapa 3 — Vapor caseiro (5 minutos)</h2>
-<p>Mergulhe uma toalha em água quente, torça bem e envolva a cabeça. Deixe agir cinco minutos. O calor úmido dilata os poros e amolece o sebo endurecido, o que faz a limpeza seguinte funcionar muito melhor. Cuidado com a temperatura — deve ser confortável, nunca escaldante.</p>
-
-<h2>Etapa 4 — Limpeza profunda (5 minutos)</h2>
-<p>Enxágue com água morna e aplique o shampoo de limpeza profunda ou esfoliante somente no couro cabeludo. Massageie por dois a três minutos com a mesma técnica circular. Enxágue bem. Se o cabelo estiver muito oleoso ou com muito resíduo, repita com o shampoo comum.</p>
-<p>Enxágue mais do que você acha necessário. Resíduo de shampoo é uma das causas mais banais de coceira.</p>
-
-<h2>Etapa 5 — Hidratação do comprimento (5 minutos)</h2>
-<p>Aplique condicionador ou máscara do meio para as pontas, evitando a raiz. Enquanto age, use o pente de dentes largos para distribuir. Enxágue com água morna e finalize com um jato de água fria — ajuda a selar a cutícula e dá mais brilho.</p>
-
-<h2>Etapa 6 — Tônico ou sérum (2 minutos)</h2>
-<p>Com o couro cabeludo limpo e ainda úmido, é o melhor momento para aplicar qualquer tratamento tópico. Aplique e massageie levemente para distribuir.</p>
-
-<h2>Etapa 7 — Secagem e finalização</h2>
-<p>Remova o excesso de água pressionando a toalha, sem esfregar. Se usar secador, mantenha temperatura média e distância de pelo menos 20 centímetros do couro cabeludo.</p>
-
-<h2>Os cinco erros mais comuns</h2>
-<p><strong>Usar as unhas.</strong> Machuca e pode inflamar. Só pontas dos dedos.</p>
-<p><strong>Água muito quente.</strong> Estimula produção de sebo e agride a barreira do couro cabeludo.</p>
-<p><strong>Óleo no comprimento inteiro.</strong> Dificulta o enxágue e não traz benefício adicional para a raiz.</p>
-<p><strong>Pressa na massagem.</strong> Abaixo de cinco minutos, o efeito circulatório e de redução de tensão praticamente não acontece.</p>
-<p><strong>Fazer todo dia.</strong> Uma vez por semana é suficiente. Excesso de limpeza profunda desequilibra o couro cabeludo.</p>
-
-<h2>Quando procurar um profissional</h2>
-<p>Se houver descamação intensa, feridas, dor, queda acentuada ou qualquer alteração que não melhora, pare e procure um dermatologista. O ritual doméstico é manutenção e bem-estar, não tratamento clínico.</p>
-"""
-},
-{
- "slug": "equipamentos-head-spa-2026",
- "cat": "produtos",
- "title": "Equipamentos de Head Spa em 2026: o que avaliar antes de investir",
- "excerpt": "Bacia dupla, controle de temperatura, microcâmera de diagnóstico. Guia prático para quem vai montar ou equipar um espaço de Head Spa.",
- "date": "29 de julho de 2026",
- "sources": [("Japan Head Spa - Tratamento em salões", "https://japan-headspa.com/en/blogs/infos/head-spa-cheveux")],
- "body": """
-<p>Montar um espaço de Head Spa exige decisões de equipamento que impactam diretamente a qualidade do atendimento e o custo da operação. Este guia organiza o que realmente importa avaliar, separando o essencial do acessório.</p>
-
-<h2>A bacia: o item central</h2>
-<p>É a peça que define a experiência. O padrão japonês trabalha com bacia que permite ao cliente ficar em decúbito dorsal completo, com apoio cervical adequado — diferente da cadeira de lavagem tradicional, em que a pessoa fica sentada com o pescoço flexionado para trás.</p>
-<p>Pontos a verificar: <strong>apoio cervical ajustável</strong> (fundamental — pescoço mal apoiado arruína qualquer massagem), <strong>reclinação</strong> próxima da horizontal, e <strong>altura de trabalho</strong> compatível com a estatura de quem vai atender, para evitar lesão por esforço repetitivo no profissional.</p>
-<p>Modelos com bacia dupla — uma para limpeza, outra para tratamento — apareceram como tendência em 2026. Ganham tempo no protocolo, mas custam consideravelmente mais e só se justificam em volume alto de atendimentos.</p>
-
-<h2>Controle de temperatura da água</h2>
-<p>Aqui não há espaço para improviso. O protocolo alterna temperaturas, e variação descontrolada além de desconfortável pode agredir o couro cabeludo. Procure sistemas com controle termostático e leitura visível da temperatura, não apenas misturador manual.</p>
-
-<h2>Chuveirinho e pressão</h2>
-<p>Vazão regulável e jato difuso fazem diferença real na sensação de conforto e na eficiência do enxágue. Alguns modelos oferecem função de micro-bolhas, que ajuda a soltar resíduo com menos atrito mecânico. É um bom recurso, embora não indispensável.</p>
-
-<h2>Vaporizador</h2>
-<p>O vapor abre os poros e amolece o sebo antes da limpeza. Equipamentos dedicados oferecem controle de temperatura e tempo, além de distribuição mais uniforme do que a alternativa da toalha quente. Para operação profissional, vale o investimento.</p>
-
-<h2>Microcâmera de diagnóstico</h2>
-<p>Câmera com ampliação de 50x a 200x conectada a uma tela permite mostrar ao cliente o estado real do couro cabeludo dele — antes e depois. O valor aqui é duplo: orienta tecnicamente a escolha do protocolo e funciona como ferramenta comercial poderosa, porque a pessoa vê o resultado em vez de apenas ouvir sobre ele.</p>
-<p>É um dos itens com melhor retorno em conversão e fidelização.</p>
-
-<h2>Ambiente: o equipamento invisível</h2>
-<p>Fácil de subestimar e determinante para a percepção de valor. Iluminação regulável e indireta, isolamento acústico razoável, temperatura ambiente confortável — quem está deitado com a cabeça na água sente frio mais rápido — e som ambiente em volume baixo.</p>
-<p>Um espaço tecnicamente bem equipado mas barulhento e com luz fria entrega uma experiência muito inferior ao que o equipamento permitiria.</p>
-
-<h2>Como priorizar o investimento</h2>
-<p>Se o orçamento é limitado, a ordem que faz mais sentido é: bacia de qualidade com bom apoio cervical, controle de temperatura confiável, ambiente bem resolvido, vaporizador e, por último, microcâmera e recursos avançados.</p>
-<p>O erro mais comum é o inverso — investir em tecnologia visível e economizar na bacia. Cliente com pescoço desconfortável não volta, por mais moderna que seja a câmera.</p>
-
-<h2>Um lembrete sobre formação</h2>
-<p>Equipamento não substitui técnica. O diferencial competitivo de um espaço de Head Spa está muito mais na mão e no protocolo do profissional do que na marca da aparelhagem. Vale reservar parte do orçamento de implantação para formação — o retorno é maior do que em qualquer upgrade de equipamento.</p>
 """
 },
 ]
