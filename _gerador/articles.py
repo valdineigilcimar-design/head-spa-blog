@@ -5,6 +5,52 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "skinification-couro-cabeludo-ativos-evidencia",
+ "cat": "noticias",
+ "title": "Skinification do couro cabeludo: o que cada ativo de skincare realmente entrega",
+ "excerpt": "Niacinamida, ácido salicílico, cafeína e alecrim migraram da prateleira de rosto para a de cabelo, e os tratamentos de couro cabeludo cresceram 9% em um ano. Fomos atrás do que a evidência sustenta em cada um desses ativos — e onde ela é bem mais fina do que o rótulo sugere.",
+ "date": "9 de agosto de 2026",
+ "sources": [("Kline + Company - The Scalp Care Boom: Are Brands Unlocking Growth from the Root Up? (25/03/2026)", "https://klinegroup.com/beauty-and-wellbeing/professional-hair-care/the-scalp-care-boom-are-brands-unlocking-growth-from-the-root-up/"), ("International Journal of Cosmetic Science - Topical niacinamide does not stimulate hair growth based on the existing body of evidence (2020)", "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ics.12599"), ("PubMed - Topically Applied Nicotinamide Inhibits Human Hair Follicle Growth Ex Vivo (2018)", "https://pubmed.ncbi.nlm.nih.gov/29287763/"), ("PMC - Caffeine as an Active Ingredient in Cosmetic Preparations Against Hair Loss: A Systematic Review of Available Clinical Evidence", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11855793/"), ("PubMed - Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial (2015)", "https://pubmed.ncbi.nlm.nih.gov/25842469/")],
+ "body": """
+<p>Os rótulos de cuidado capilar passaram a parecer prateleira de skincare: niacinamida, ácido salicílico, cafeína, peptídeos, ceramidas. O mercado batizou o movimento de <em>skinification</em> — tratar o couro cabeludo como pele do rosto. A premissa está certa. O problema é que o vocabulário do skincare chegou junto com as promessas do skincare, e nem todo ativo tem, no couro cabeludo, a evidência que acumulou na face.</p>
+
+<h2>O que a palavra quer dizer</h2>
+<p>Couro cabeludo é pele: tem glândulas sebáceas, barreira lipídica, atividade imunológica e microbiota própria. Isso não é descoberta recente — recente é o recorte comercial. Durante décadas o cuidado capilar tratou o couro cabeludo como suporte do fio, e a única categoria dedicada a ele era a anticaspa. A skinification inverte a ordem: limpeza suave, apoio à barreira, esfoliação controlada, ativos anti-inflamatórios.</p>
+<p>Como direção geral, é uma melhora. O deslize está na conclusão implícita que vem junto: a de que um ativo bom para a <strong>pele</strong> do couro cabeludo é, por extensão, tratamento para <strong>queda de cabelo</strong>. São duas perguntas diferentes, e quase toda confusão de rótulo nasce de embaralhar as duas.</p>
+
+<h2>Os números por trás da tendência</h2>
+<p>A consultoria Kline + Company publicou em março de 2026 uma análise do mercado profissional americano que dimensiona o movimento. Os serviços de tratamento de couro cabeludo em salões cresceram <strong>9%</strong> nos três primeiros trimestres de 2025 ante o mesmo período de 2024, e os produtos vendidos no varejo de salão subiram 6%. O ticket é premium: pouco mais de US$ 40 por serviço, contra quase US$ 36 nos demais tratamentos capilares.</p>
+<p>Vale a outra metade do dado, que some das manchetes: esses tratamentos são cerca de <strong>0,1% do total de serviços de salão</strong> nos Estados Unidos. É uma categoria que cresce rápido a partir de uma base pequena.</p>
+
+<h2>Ácido salicílico: o mais antigo da lista</h2>
+<p>É o ativo com trajetória mais longa por aqui, e por isso o menos polêmico. Queratolítico, lipossolúvel, usado há décadas em formulações para caspa e dermatite seborreica, com a função de soltar a descamação aderida e lidar com o sebo acumulado. Nesse ponto a skinification não inventou nada: colocou nome novo em algo que a dermatologia já fazia.</p>
+<p>O limite também é antigo: ele atua na superfície, sobre descamação e oleosidade, não no folículo. Quando aparece num rótulo que promete densidade, quem entrega essa promessa é outra coisa da fórmula — ou ninguém.</p>
+
+<h2>Niacinamida: barreira sim, crescimento não</h2>
+<p>Aqui o marketing e a literatura vão em direções opostas. Um artigo de 2020 no <em>International Journal of Cosmetic Science</em> tem o título mais direto que um texto científico consegue ter: a niacinamida tópica não estimula o crescimento capilar com base no conjunto de evidências existente. Um trabalho de 2018 foi além — em folículos humanos mantidos em cultura fora do corpo, a nicotinamida aplicada topicamente <strong>inibiu</strong> o crescimento.</p>
+<p>Cabe a ressalva de sempre, e ela é grande: folículo em cultura não é cabeça de pessoa, e isso não significa que quem usa niacinamida esteja se prejudicando. Significa que a hipótese de estímulo, tão repetida em embalagem, não se sustenta nos dados. O que sobra para a niacinamida é o território de conforto e barreira — hidratação, menos irritação —, proposta legítima e bem menos vendável.</p>
+
+<h2>Cafeína: muitos estudos, pouca qualidade</h2>
+<p>A cafeína tópica é uma aposta antiga da indústria e tem base racional plausível: penetra bem no folículo e mostra efeito sobre crescimento celular em laboratório. O problema aparece na qualidade dos estudos em pessoas.</p>
+<p>Uma revisão sistemática da evidência clínica disponível chega a uma conclusão desconfortável para o setor: a maioria dos estudos sobre produtos capilares com cafeína oferece <strong>nível de evidência muito baixo</strong>, por falhas consideráveis de desenho. Um dos números mais citados a favor — 84,8% de satisfação entre usuários contra 36,4% no placebo — é <em>satisfação relatada</em>, não medida de fio. A leitura honesta é a de risco baixo e retorno baixo: cafeína raramente causa problema e raramente entrega muito sozinha.</p>
+
+<h2>Óleo de alecrim: o estudo que todo mundo cita</h2>
+<p>Nenhum ingrediente natural viralizou tanto. A origem é um ensaio randomizado de 2015, com 100 pessoas com alopecia androgenética, que comparou óleo de alecrim ao minoxidil 2% por seis meses. Aos três meses, nenhum dos grupos tinha mudança significativa na contagem de fios; aos seis, os dois tinham — de forma semelhante entre si. Coceira foi mais frequente no grupo do minoxidil.</p>
+<p>É um resultado real, e merece três ressalvas que nunca acompanham o print. A comparação foi com minoxidil <strong>2%</strong>, não com 5%, que costuma render mais. É um único ensaio, com cem participantes, encerrado em seis meses. E empatar com um medicamento na dose mais fraca, em um estudo, não é o mesmo que substituí-lo.</p>
+
+<h2>Como ler o rótulo — e quando o problema não é o produto</h2>
+<p>Três perguntas resolvem a maior parte das decisões de prateleira.</p>
+<ul>
+<li><strong>Esse ativo é para a pele ou para o fio?</strong> Salicílico, niacinamida, argilas e ceramidas atuam sobre o couro cabeludo — nenhum tem obrigação de mexer no folículo.</li>
+<li><strong>A promessa cabe no formato?</strong> Um shampoo fica dois minutos na cabeça e sai no enxágue.</li>
+<li><strong>Existe evidência em pessoas?</strong> Resultado em cultura de células ou em camundongo é ponto de partida, não prova de eficácia. Vale para exossomos, peptídeos e para o próximo termo da moda.</li>
+</ul>
+<p>E o ponto que nenhum produto resolve: queda progressiva, falhas localizadas, recuo da linha frontal, descamação que não cede em quatro semanas, vermelhidão persistente, feridas ou dor no couro cabeludo são assunto de <strong>dermatologista</strong>. Alopecia androgenética, eflúvio telógeno, psoríase e causas autoimunes se parecem entre si para quem olha de fora e têm condutas bem diferentes. Trocar de sérum enquanto o quadro avança custa tempo — e em alguns tipos de alopecia, tempo é a variável que não volta.</p>
+<p>A skinification é uma boa ideia esticada demais no departamento de marketing. Cuidar do couro cabeludo como pele faz sentido; esperar que um cosmético faça o trabalho de um tratamento médico, não.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "massagem-couro-cabeludo-tecnica-evidencia",
  "cat": "dicas",
  "title": "Massagem do couro cabeludo: a técnica certa e o que a ciência realmente mostra",
