@@ -12,7 +12,7 @@ ARTICLES = [
  "date": "9 de agosto de 2026",
  "sources": [("Kline + Company - The Scalp Care Boom: Are Brands Unlocking Growth from the Root Up? (25/03/2026)", "https://klinegroup.com/beauty-and-wellbeing/professional-hair-care/the-scalp-care-boom-are-brands-unlocking-growth-from-the-root-up/"), ("International Journal of Cosmetic Science - Topical niacinamide does not stimulate hair growth based on the existing body of evidence (2020)", "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ics.12599"), ("PubMed - Topically Applied Nicotinamide Inhibits Human Hair Follicle Growth Ex Vivo (2018)", "https://pubmed.ncbi.nlm.nih.gov/29287763/"), ("PMC - Caffeine as an Active Ingredient in Cosmetic Preparations Against Hair Loss: A Systematic Review of Available Clinical Evidence", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11855793/"), ("PubMed - Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial (2015)", "https://pubmed.ncbi.nlm.nih.gov/25842469/")],
  "body": """
-<p>Os rótulos de cuidado capilar passaram a parecer prateleira de skincare: niacinamida, ácido salicílico, cafeína, peptídeos, ceramidas. O mercado batizou o movimento de <em>skinification</em> — tratar o couro cabeludo como pele do rosto. A premissa está certa. O problema é que o vocabulário do skincare chegou junto com as promessas do skincare, e nem todo ativo tem, no couro cabeludo, a evidência que acumulou na face.</p>
+<p>Os rótulos de cuidado capilar passaram a parecer prateleira de skincare: niacinamida, ácido salicílico, cafeína, peptídeos, ceramidas. O mercado batizou o movimento de <em>skinification</em> — tratar o couro cabeludo como pele do rosto. A premissa está certa. O problema é que o vocabulário do skincare chegou junto com suas promessas, e nem todo ativo tem, no couro cabeludo, a evidência que acumulou na face.</p>
 
 <h2>O que a palavra quer dizer</h2>
 <p>Couro cabeludo é pele: tem glândulas sebáceas, barreira lipídica, atividade imunológica e microbiota própria. Isso não é descoberta recente — recente é o recorte comercial. Durante décadas o cuidado capilar tratou o couro cabeludo como suporte do fio, e a única categoria dedicada a ele era a anticaspa. A skinification inverte a ordem: limpeza suave, apoio à barreira, esfoliação controlada, ativos anti-inflamatórios.</p>
@@ -28,7 +28,7 @@ ARTICLES = [
 
 <h2>Niacinamida: barreira sim, crescimento não</h2>
 <p>Aqui o marketing e a literatura vão em direções opostas. Um artigo de 2020 no <em>International Journal of Cosmetic Science</em> tem o título mais direto que um texto científico consegue ter: a niacinamida tópica não estimula o crescimento capilar com base no conjunto de evidências existente. Um trabalho de 2018 foi além — em folículos humanos mantidos em cultura fora do corpo, a nicotinamida aplicada topicamente <strong>inibiu</strong> o crescimento.</p>
-<p>Cabe a ressalva de sempre, e ela é grande: folículo em cultura não é cabeça de pessoa, e isso não significa que quem usa niacinamida esteja se prejudicando. Significa que a hipótese de estímulo, tão repetida em embalagem, não se sustenta nos dados. O que sobra para a niacinamida é o território de conforto e barreira — hidratação, menos irritação —, proposta legítima e bem menos vendável.</p>
+<p>Cabe a ressalva de sempre: folículo em cultura não é cabeça de pessoa, e isso não significa que quem usa niacinamida esteja se prejudicando. Significa que a hipótese de estímulo, tão repetida em embalagem, não se sustenta nos dados. O que sobra para a niacinamida é o território de conforto e barreira — hidratação, menos irritação —, proposta legítima e bem menos vendável.</p>
 
 <h2>Cafeína: muitos estudos, pouca qualidade</h2>
 <p>A cafeína tópica é uma aposta antiga da indústria e tem base racional plausível: penetra bem no folículo e mostra efeito sobre crescimento celular em laboratório. O problema aparece na qualidade dos estudos em pessoas.</p>
@@ -39,13 +39,13 @@ ARTICLES = [
 <p>É um resultado real, e merece três ressalvas que nunca acompanham o print. A comparação foi com minoxidil <strong>2%</strong>, não com 5%, que costuma render mais. É um único ensaio, com cem participantes, encerrado em seis meses. E empatar com um medicamento na dose mais fraca, em um estudo, não é o mesmo que substituí-lo.</p>
 
 <h2>Como ler o rótulo — e quando o problema não é o produto</h2>
-<p>Três perguntas resolvem a maior parte das decisões de prateleira.</p>
+<p>Três perguntas resolvem quase toda decisão de prateleira.</p>
 <ul>
 <li><strong>Esse ativo é para a pele ou para o fio?</strong> Salicílico, niacinamida, argilas e ceramidas atuam sobre o couro cabeludo — nenhum tem obrigação de mexer no folículo.</li>
 <li><strong>A promessa cabe no formato?</strong> Um shampoo fica dois minutos na cabeça e sai no enxágue.</li>
 <li><strong>Existe evidência em pessoas?</strong> Resultado em cultura de células ou em camundongo é ponto de partida, não prova de eficácia. Vale para exossomos, peptídeos e para o próximo termo da moda.</li>
 </ul>
-<p>E o ponto que nenhum produto resolve: queda progressiva, falhas localizadas, recuo da linha frontal, descamação que não cede em quatro semanas, vermelhidão persistente, feridas ou dor no couro cabeludo são assunto de <strong>dermatologista</strong>. Alopecia androgenética, eflúvio telógeno, psoríase e causas autoimunes se parecem entre si para quem olha de fora e têm condutas bem diferentes. Trocar de sérum enquanto o quadro avança custa tempo — e em alguns tipos de alopecia, tempo é a variável que não volta.</p>
+<p>E o ponto que nenhum produto resolve: queda progressiva, falhas localizadas, recuo da linha frontal, descamação que não cede em quatro semanas, vermelhidão persistente ou dor são assunto de <strong>dermatologista</strong>. Alopecia androgenética, eflúvio telógeno, psoríase e causas autoimunes se parecem entre si para quem olha de fora e têm condutas bem diferentes. Trocar de sérum enquanto o quadro avança custa tempo — e em alguns tipos de alopecia, tempo é a variável que não volta.</p>
 <p>A skinification é uma boa ideia esticada demais no departamento de marketing. Cuidar do couro cabeludo como pele faz sentido; esperar que um cosmético faça o trabalho de um tratamento médico, não.</p>
 <p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
 """
