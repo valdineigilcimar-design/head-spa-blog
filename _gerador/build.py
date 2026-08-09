@@ -5,7 +5,15 @@ from articles import ARTICLES, PUB
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "site")
 if os.path.isdir(OUT):
-    shutil.rmtree(OUT)
+    try:
+        shutil.rmtree(OUT)
+    except OSError:
+        # Em ambientes que nao permitem apagar arquivos na pasta montada
+        # (o sandbox das tarefas agendadas do Cowork, por exemplo), apaga o
+        # que der e segue: o build reescreve todos os arquivos por cima.
+        # Efeito colateral: paginas de artigos removidos da lista podem
+        # sobrar na pasta. Rodar o build no Mac limpa tudo de novo.
+        shutil.rmtree(OUT, ignore_errors=True)
 os.makedirs(os.path.join(OUT, "artigos"), exist_ok=True)
 
 LABELS = {"noticias": "Noticias", "dicas": "Dicas", "beneficios": "Saude Capilar", "produtos": "Produtos"}
