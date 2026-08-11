@@ -5,6 +5,62 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "escova-massageador-couro-cabeludo-criterios",
+ "cat": "produtos",
+ "title": "Escovas e massageadores de couro cabeludo: os critérios que importam antes de comprar",
+ "excerpt": "Escova de silicone, pente de madeira, massageador elétrico: nenhum ensaio clínico comparou essas ferramentas entre si — nem com os próprios dedos. O que dá para decidir com segurança são os critérios de cerda, material e uso, e é disso que trata o texto.",
+ "date": "9 de agosto de 2026",
+ "sources": [("American Academy of Dermatology - How to safely exfoliate at home (atualizado em 06/02/2026)", "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/safely-exfoliate-at-home"), ("WebMD - What to Know About Scalp Exfoliation (revisão médica de Stephanie S. Gardner, MD)", "https://www.webmd.com/skin-problems-and-treatments/what-to-know-scalp-exfoliation"), ("TODAY - Do scalp massagers work for hair growth? Trichologists explain", "https://www.today.com/shop/scalp-massagers-hair-growth-rcna195829"), ("Estado de Minas - Escova massageadora de silicone: acessório de luxo ou item essencial para combater a caspa? (21/02/2026)", "https://www.em.com.br/emfoco/2026/02/21/escova-massageadora-de-silicone-acessorio-de-luxo-ou-item-essencial-para-combater-a-caspa/")],
+ "body": """
+<p>Escova de silicone, pente de madeira, massageador de pedra, aparelho elétrico. A prateleira de ferramentas para couro cabeludo cresceu rápido, com preços de vinte reais a algumas centenas. A pergunta que nunca aparece na embalagem: alguma delas funciona melhor do que as próprias pontas dos dedos? Este texto não indica marca — indica critérios.</p>
+
+<h2>O que a evidência diz sobre a ferramenta em si</h2>
+<p>Convém começar pelo desconforto. Não há ensaio clínico comparando escova de silicone com pente de madeira, com massageador elétrico ou com os dedos. O estudo mais citado da área — quatro minutos diários de massagem padronizada, em nove homens, por 24 semanas — usou um aparelho de laboratório, não uma escova de banho, e mediu espessura do fio, não fio novo.</p>
+<p>O que a pesquisa sugere é que <strong>pressão moderada e constante sobre o couro cabeludo, por alguns minutos</strong>, pode ter algum efeito pequeno. A ferramenta que aplica essa pressão nunca foi a variável testada, e boa parte do que circula sobre o assunto vem de matérias de compras — opinião profissional, útil, mas que não é evidência.</p>
+<p>O que elas de fato entregam não é pouco: distribuem o shampoo na raiz, alcançam áreas que os dedos limpam mal, soltam resíduo de finalizador e poupam a mão de quem tem cabelo longo. É ferramenta de limpeza e conforto — vendida como tratamento de queda, é exagero.</p>
+
+<h2>Material: silicone, borracha, madeira ou pedra</h2>
+<p><strong>Silicone e borracha</strong> dominam a categoria: baratos, flexíveis e em geral os mais suaves, o que faz deles a escolha mais sensata para pele sensível e para quem está começando. A desvantagem é a durabilidade — cerdas baratas deformam e endurecem com o tempo.</p>
+<p><strong>Madeira e pedra</strong> (pentes de ebano, massageadores de jade) custam mais e duram mais, mas são rígidos, e a margem de erro na pressão é menor. Tabitha Osman, tricologista holística ouvida pelo TODAY, observa que muitos modelos de jade têm pontas finas capazes de machucar sob pressão excessiva; dentes mais largos perdoam mais.</p>
+<p>Sobre os <strong>elétricos</strong>: não existe comparação direta entre vibração e massagem manual. Podem ser mais confortáveis para quem tem dor ou limitação nas mãos — razão legítima para escolhê-los. A vibração em si não tem eficácia demonstrada.</p>
+
+<h2>Os critérios que decidem a compra</h2>
+<ul>
+<li><strong>As cerdas — o item mais importante.</strong> A tricologista Penny James resume bem: procure pontas de borracha arredondadas e macias, não dentes duros de plástico, que arranham em vez de massagear. Se der para tocar o produto, pressione as cerdas contra a parte interna do antebraço: se incomoda ali, incomoda mais na cabeça.</li>
+<li><strong>Encaixe na mão.</strong> A ferramenta é usada com a mão molhada e ensaboada, e modelo que escorrega vira fonte de movimento brusco — justamente o que se quer evitar.</li>
+<li><strong>Secagem e higiene.</strong> A escova acumula sebo e resto de shampoo. Sem lavagem com sabonete neutro após o uso e secagem em local arejado, ela devolve à cabeça o que deveria remover — e deixá-la no box fechado é o pior cenário.</li>
+<li><strong>Custo por uso, não preço de etiqueta.</strong> Uma escova de silicone de vida curta pode sair mais cara no ano do que um pente de madeira durável.</li>
+<li><strong>Promessas de crescimento.</strong> Rótulo que fala em estimular o folículo promete o que a categoria não entrega.</li>
+</ul>
+
+<h2>Como usar sem machucar</h2>
+<p>A técnica pesa mais que o produto:</p>
+<ul>
+<li>Círculos pequenos, com <strong>pressão leve a moderada</strong>. Se dói ou arde, está errado.</li>
+<li>Comece pela nuca, onde se concentra tensão, e suba pelas laterais até o topo.</li>
+<li>Em cabelo comprido, troque os círculos por movimentos verticais e horizontais — círculo em fio longo é receita de nó. Levante a escova de tempos em tempos, em vez de arrastá-la.</li>
+<li>Cabelo molhado é <strong>mais frágil</strong> que seco: não impede o uso no banho, mas justifica mão leve.</li>
+<li>Água morna, não quente, no enxágue.</li>
+</ul>
+<p>A Academia Americana de Dermatologia acrescenta duas ressalvas sobre esfoliação em casa — ainda que se refira à pele em geral, não ao couro cabeludo. Pele seca, sensível ou com tendência a acne pode achar a esfoliação mecânica irritante demais e se dar melhor com um esfoliante químico suave. E, ponto importante no Brasil: em peles mais escuras, formas agressivas de esfoliação podem <strong>aumentar a pigmentação</strong>. A AAD também é direta: não se esfolia pele com corte, ferida ou queimadura de sol.</p>
+
+<h2>Frequência e os erros mais comuns</h2>
+<p>Não existe número consagrado: as recomendações vêm de prática profissional, não de estudo. As profissionais ouvidas pelo TODAY convergem em três a cinco minutos diários de massagem, com um ajuste sensato — quando a escova é usada <em>com shampoo ou produto de tratamento</em>, duas a três vezes por semana bastam. O princípio geral da AAD ajuda a decidir: quanto mais agressiva a esfoliação, menos frequente ela deve ser.</p>
+<p>Os erros que aparecem sempre:</p>
+<ul>
+<li><strong>Força.</strong> A ideia de que apertar mais limpa mais é o erro central. O WebMD registra que escovas de esfoliação podem quebrar ou arrancar fios, deixando o cabelo com aparência mais fina — o oposto do que se buscava.</li>
+<li><strong>Arrastar pelo comprimento.</strong> A ferramenta é para a raiz; descer pelo cabelo embaraça e quebra.</li>
+<li><strong>Usar com couro cabeludo machucado ou inflamado.</strong> Ferida, crosta, dor ou vermelhidão intensa contraindicam o uso naquele momento.</li>
+<li><strong>Somar agressões.</strong> Escova, esfoliante e tônico com álcool na mesma lavagem é irritação somada.</li>
+</ul>
+
+<h2>Quando a ferramenta não é a resposta</h2>
+<p>Em couro cabeludo com inflamação ativa, o uso pode piorar o quadro — vale a advertência da tricologista Jill Lee, de que em condições inflamatórias com feridas abertas há risco real de fazer mais mal do que bem. Descamação que não cede em quatro semanas, vermelhidão persistente, placas bem delimitadas, feridas, dor ou aumento visível de queda são assunto de <strong>dermatologista</strong>, não de prateleira: dermatite seborreica, psoríase e dermatite de contato se parecem entre si e têm condutas diferentes.</p>
+<p>A conclusão desconfortável para o marketing da categoria: uma escova adequada, usada com leveza, é um bom acessório de rotina — não é tratamento, e a mão que a segura importa mais que o preço da etiqueta.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "skinification-couro-cabeludo-ativos-evidencia",
  "cat": "noticias",
  "title": "Skinification do couro cabeludo: o que cada ativo de skincare realmente entrega",
