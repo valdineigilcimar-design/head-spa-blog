@@ -5,6 +5,114 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "oleacao-capilar-hair-oiling-como-fazer",
+ "cat": "dicas",
+ "title": "Oleação capilar: onde o óleo ajuda de verdade e onde a dermatologia pede cautela",
+ "excerpt": "O óleo tem evidência real para reduzir a quebra do fio — e é justamente no couro cabeludo, onde quase todo tutorial manda aplicar, que a recomendação médica muda de tom. Reunimos o que os estudos mostram, o passo a passo seguro e quem deveria pular essa moda.",
+ "date": "12 de agosto de 2026",
+ "sources": [("Cleveland Clinic - Hair Oiling: Should You Try It? (com a dermatologista Shilpi Khetarpal, MD)", "https://health.clevelandclinic.org/oiling-hair"), ("Journal of Cosmetic Science - Effect of mineral oil, sunflower oil, and coconut oil on prevention of hair damage (Rele e Mohile, 2003; PMID 12715094)", "https://pubmed.ncbi.nlm.nih.gov/12715094/"), ("International Journal of Trichology - Hair Oils: Indigenous Knowledge Revisited (2022)", "https://pubmed.ncbi.nlm.nih.gov/35755964/"), ("International Journal of Trichology - Castor Oil: The Culprit of Acute Hair Felting (2017)", "https://pubmed.ncbi.nlm.nih.gov/28932063/"), ("American Academy of Dermatology - 6 curly hair care tips from dermatologists", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/curly-hair-care")],
+ "body": """
+<p>A oleação capilar — <em>hair oiling</em>, nome com que a prática viralizou — tem raízes na medicina ayurvédica e na tradição indiana, e voltou às rotinas de cuidado com uma instrução repetida em quase todo tutorial: aplicar o óleo direto no couro cabeludo. É exatamente nesse ponto que a orientação dermatológica diverge da versão popular. Vale separar o que a pesquisa sustenta do que virou repetição.</p>
+
+<h2>O que a evidência mostra sobre o fio</h2>
+<p>Aqui existe base razoável, e ela é antiga. Um estudo publicado em 2003 no <em>Journal of Cosmetic Science</em> por Aarti Rele e R. B. Mohile comparou óleo mineral, óleo de girassol e óleo de coco na prevenção de dano capilar. Entre os três, apenas o <strong>óleo de coco</strong> reduziu de forma marcante a perda de proteína do fio — em cabelo íntegro e em cabelo danificado, tanto aplicado antes quanto depois da lavagem. A explicação proposta está na composição: o ácido láurico, predominante no óleo de coco, tem cadeia curta e afinidade pela queratina, o que permitiria penetrar na haste em vez de apenas cobri-la.</p>
+<p>Duas ressalvas honestas. É um estudo de bancada, feito em mechas, não um ensaio clínico com pessoas. E, principalmente: <strong>reduzir quebra não é reduzir queda</strong>. Fio que parte no meio do comprimento e fio que sai pela raiz são problemas distintos, com causas distintas. O óleo atua no primeiro; não há por que esperar que atue no segundo.</p>
+<p>Uma revisão de 2022 no <em>International Journal of Trichology</em>, dedicada a óleos capilares, chega a conclusão parecida: há alguma base científica para efeitos além do simples emoliente, mas o mecanismo ainda não está bem definido. A categoria é plausível e pouco pesquisada — não é fraude, e também não é tratamento.</p>
+
+<h2>O couro cabeludo é outra história</h2>
+<p>É aqui que a versão das redes e a orientação médica se separam. A dermatologista Shilpi Khetarpal, da Cleveland Clinic, desaconselha aplicar óleo diretamente no couro cabeludo, porque a prática pode aumentar o risco de <strong>dermatite seborreica</strong> — a caspa. O motivo é conhecido: o fungo <em>Malassezia</em>, que habita normalmente a nossa pele e está associado à caspa, é lipofílico e depende de lipídios externos para crescer. Óleo no couro cabeludo é, do ponto de vista dele, alimento.</p>
+<p>Existe tensão real na literatura, e ignorá-la seria desonesto: há trabalhos sugerindo efeito positivo do óleo de coco sobre o couro cabeludo, inclusive contra caspa. Mas a orientação clínica segue cautelosa, e a síntese razoável é essa: quem tem couro cabeludo seco e cabelo crespo ou muito ressecado pode se beneficiar; quem tem oleosidade, caspa ou dermatite seborreica tende a piorar.</p>
+
+<h2>Como fazer, se for fazer</h2>
+<p>O protocolo mais conservador — e o que a Cleveland Clinic descreve — concentra o óleo no comprimento, não na raiz:</p>
+<ul>
+<li>Desembarace antes. Óleo sobre nó só aperta o nó.</li>
+<li>Aplique em <strong>cabelo seco</strong> e use pouco: uma quantidade do tamanho de uma ervilha já cobre bastante fio.</li>
+<li>Espalhe do meio às pontas com os dedos. Se for tocar o couro cabeludo, use camada fina e massageie com as <strong>pontas dos dedos, nunca com as unhas</strong>.</li>
+<li>Deixe agir de <strong>20 minutos a uma hora</strong> e lave. Uma vez por semana é frequência suficiente.</li>
+<li>Lave até sair de verdade. Resíduo que fica dias no couro cabeludo é exatamente o cenário que se quer evitar.</li>
+<li>Faça teste em pequena área antes da primeira vez, sobretudo com óleos essenciais.</li>
+</ul>
+<p>Sobre a água: <strong>morna, não quente</strong>. Água muito quente resseca a pele e não é necessária para remover óleo — quem remove é o tensoativo do shampoo, não a temperatura.</p>
+
+<h2>Os erros que mais aparecem</h2>
+<ul>
+<li><strong>Dormir com óleo toda noite.</strong> Não há evidência de que mais tempo entregue mais resultado, e o acúmulo prolongado favorece obstrução folicular e irritação.</li>
+<li><strong>Quantidade demais.</strong> O excesso obriga a lavagens agressivas repetidas, que ressecam mais do que o óleo hidratou.</li>
+<li><strong>Óleo essencial puro.</strong> Alecrim, melaleuca, hortelã e afins são concentrados e precisam ser diluídos em um óleo carreador. Puros no couro cabeludo, provocam dermatite de contato com facilidade.</li>
+<li><strong>Insistir apesar da coceira.</strong> Coceira, descamação nova ou espinhas na linha do cabelo depois de iniciar a oleação são sinal de suspender, não de perseverar.</li>
+<li><strong>Óleos muito viscosos em cabelo longo.</strong> Um relato de caso publicado em 2017 no <em>International Journal of Trichology</em> descreve uma jovem de 20 anos, saudável, que desenvolveu emaranhamento agudo — o cabelo virou uma massa dura, impossível de desembaraçar — depois de usar óleo de rícino pela primeira vez. Os autores atribuem o quadro à alta viscosidade do óleo somada ao comprimento do cabelo, e o único desfecho possível foi cortar. É um caso isolado, não um risco corriqueiro, mas serve de alerta.</li>
+</ul>
+
+<h2>Quem deveria pular essa moda</h2>
+<p>Pela avaliação da Cleveland Clinic, cabelo fino e liso tende a ficar pesado e sem movimento, e quem tem tendência a caspa deveria evitar óleos de qualquer tipo. Couro cabeludo com ferida, crosta, pústula ou inflamação ativa também não é lugar para óleo — em pele já comprometida, oclusão costuma piorar o quadro.</p>
+<p>A alternativa dermatológica para cabelo seco e difícil de desembaraçar é menos glamourosa e mais bem estabelecida. A Academia Americana de Dermatologia recomenda condicionar todo o cabelo, não só as pontas, e aplicar óleo ou leave-in <strong>depois</strong> da lavagem e do condicionador. Para quem tem dificuldade de desembaraçar antes do shampoo, a sugestão da AAD é passar condicionador antes de lavar — não óleo.</p>
+
+<h2>Onde isso encosta no Head Spa</h2>
+<p>O óleo tem uso legítimo em protocolo profissional, sobretudo como pré-shampoo em cabelo ressecado. A diferença é que ali ele é aplicado com controle de quantidade e removido na mesma sessão — não fica dias na cabeça. O que não cabe é vender oleação como tratamento de queda: nada na literatura sustenta essa promessa.</p>
+<p>Vale a pergunta antes de qualquer aplicação: a pessoa tem caspa, dermatite seborreica ou couro cabeludo oleoso? Se tiver, o óleo fica no comprimento. E descamação que não cede em quatro semanas, vermelhidão persistente, coceira intensa, pústulas ou aumento visível de queda são assunto de <strong>dermatologista</strong>. Trocar de óleo enquanto um quadro inflamatório avança é tempo perdido.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "alopecia-por-tracao-sinais-precoces",
+ "cat": "dicas",
+ "title": "Alopecia por tração: os avisos que aparecem antes de a falha ficar visível",
+ "excerpt": "Rabo de cavalo apertado, trança justa, coque bem puxado: o dano ao folículo começa muito antes de a falha aparecer, e o couro cabeludo costuma avisar. Reunimos os sinais precoces, o que a evidência sustenta sobre risco e o ponto em que a perda deixa de ter volta.",
+ "date": "12 de agosto de 2026",
+ "sources": [("American Academy of Dermatology - Hairstyles that pull can lead to hair loss (atualizado em 06/11/2024)", "https://www.aad.org/public/diseases/hair-loss/causes/hairstyles"), ("DermNet - Traction alopecia", "https://dermnetnz.org/topics/traction-alopecia"), ("Journal of the American Academy of Dermatology - Determinants of marginal traction alopecia in African girls and women (Khumalo et al., 2008)", "https://pubmed.ncbi.nlm.nih.gov/18694677/"), ("Annals of Dermatology - Braids or Pony-Tail-Associated Traction Alopecia in Female Children (2019)", "https://pmc.ncbi.nlm.nih.gov/articles/PMC7992699/")],
+ "body": """
+<p>Um coque bem puxado, uma trança justa, um rabo de cavalo que segura o dia inteiro. Nenhum desses penteados é problema em si — o problema é a repetição. Tensão constante sobre o mesmo ponto do couro cabeludo, por meses ou anos, danifica o folículo. É a alopecia por tração: a causa de queda mais evitável que existe e, se ignorada por tempo demais, a que deixa de ter volta.</p>
+
+<h2>O que é — e quem corre risco</h2>
+<p>É perda de cabelo adquirida por tensão prolongada ou repetitiva sobre o fio. Não é autoimune, não é hormonal, não é genética: é dano mecânico. A descrição mais antiga é de 1907, na Groenlândia, em pessoas que usavam rabos de cavalo apertados e perderam cabelo ao longo da linha frontal.</p>
+<p>A Academia Americana de Dermatologia (AAD) é direta: qualquer pessoa que use penteados apertados ou submeta o couro cabeludo a estresse repetido pode desenvolvê-la. A lista inclui tranças justas, cornrows, dreads, coques e rabos de cavalo bem puxados, apliques e megahair — especialmente sobre cabelo quimicamente alisado. Bailarinas e militares aparecem muito nos relatos.</p>
+<p>A AAD acrescenta um ponto que costuma ser mal lido: em pessoas de ascendência africana, o formato do folículo torna o fio mais suscetível ao dano por penteados ásperos ou apertados. Não é fragilidade do cabelo — é geometria do folículo somada a práticas que envolvem mais tração. O DermNet registra ainda quadros causados só pelo <strong>peso de cabelo muito longo</strong>.</p>
+
+<h2>Os números — e o que eles de fato medem</h2>
+<p>O maior levantamento populacional vem da África do Sul. Nas pesquisas de Nonhlanhla Khumalo e colegas, publicadas no <em>Journal of the American Academy of Dermatology</em> em 2008, a prevalência foi de <strong>17,1% entre meninas de 6 a 21 anos</strong> e de <strong>31,7% entre mulheres de 18 a 86 anos</strong>. Reunindo 574 meninas e 604 mulheres, o estudo encontrou o maior risco quando a tração era somada a cabelo quimicamente alisado: razão de chances de 3,47 ante cabelo natural.</p>
+<p>Duas ressalvas importam. Esses percentuais descrevem uma população específica, com práticas capilares próprias, e não podem ser transportados para o Brasil — não localizamos levantamento brasileiro comparável. E os autores registram que a escala de gravidade ainda precisava de validação. O que os dados sustentam é a <em>direção</em>: tração somada a processo químico é a combinação de maior risco.</p>
+<p>Há um achado que vale mais que os percentuais. Apenas <strong>18,9% das pessoas com o quadro nunca haviam sentido sintomas ligados ao penteado</strong>. Ou seja, na esmagadora maioria dos casos, o corpo avisou antes.</p>
+
+<h2>Os avisos que vêm antes da falha</h2>
+<p>A AAD lista quatro sinais de dano, todos anteriores à queda visível:</p>
+<ul>
+<li>Dor causada pelo cabelo preso.</li>
+<li>Ardência no couro cabeludo.</li>
+<li>Crostas.</li>
+<li><em>Tenting</em> — trechos de pele puxados para cima, como uma barraca.</li>
+</ul>
+<p>O DermNet acrescenta coceira, vermelhidão, descamação e foliculite com pústulas. Mais tarde surgem fios quebrados ao redor da testa, linha do cabelo recuando e falhas onde o cabelo é mais puxado. Um achado clássico é o <strong>sinal da franja</strong>: uma fileira de fios finos preservada na borda frontal, com a rarefação logo atrás.</p>
+<p>A regra prática mais útil é também a mais simples, e é da própria AAD: <strong>se o penteado dói, está apertado demais</strong>.</p>
+
+<h2>A janela que se fecha</h2>
+<p>Essa é a parte que muda tudo. A alopecia por tração começa <strong>não cicatricial</strong> — o folículo está lesado, mas intacto, e o cabelo pode voltar. Com tensão excessiva e prolongada, os folículos são destruídos e substituídos por tecido fibroso. O que se vê então é pele lisa e brilhante onde antes havia cabelo, e nesse estágio o crescimento não retorna.</p>
+<p>Não existe prazo definido para essa virada, e ela não é anunciada. Daí a insistência dermatológica em avaliar aos primeiros sinais.</p>
+
+<h2>Em crianças, um erro de diagnóstico comum</h2>
+<p>Um estudo nos <em>Annals of Dermatology</em> descreveu 31 lesões em 24 meninas coreanas, idade média de 5,9 anos, associadas a tranças e rabos de cavalo. A maioria das falhas (83,9%) ficava perto das linhas de repartição, e todas tiveram <strong>crescimento espontâneo em cerca de um mês e meio</strong> após a mudança de penteado. O dado mais revelador: <strong>37,5% haviam sido tratadas como alopecia areata</strong> antes do diagnóstico correto.</p>
+<p>É um estudo pequeno, retrospectivo e de população específica — não serve para estimar frequência. Serve para o alerta: falha arredondada em criança que usa o cabelo preso nem sempre é o que parece.</p>
+
+<h2>O que reduz o risco</h2>
+<ul>
+<li><strong>Alternar penteados</strong>, dando folga entre estilos que puxam.</li>
+<li><strong>Afrouxar perto da linha do cabelo</strong> e preferir tranças mais grossas e mais curtas — comprimento significa peso, e peso significa tração.</li>
+<li><strong>Não manter tranças por mais de 6 a 8 semanas</strong>, recomendação explícita da AAD.</li>
+<li>Em apliques, preferir os <strong>costurados aos colados</strong> e retirar na hora se doerem ou irritarem.</li>
+<li>Se cobrir o cabelo, prendê-lo <strong>frouxo por baixo</strong>, de preferência com seda ou cetim.</li>
+<li><strong>Conferir a linha do cabelo uma vez por mês</strong>, procurando fios quebrados ou recuo.</li>
+</ul>
+
+<h2>Onde entra quem trabalha com couro cabeludo</h2>
+<p>Head Spa não trata alopecia por tração. O que trata é <strong>remover a tração</strong>: nenhuma limpeza, esfoliação ou massagem compensa a tensão que continua sendo aplicada toda semana. Prometer recuperação por protocolo estético é especialmente sério aqui — enquanto a pessoa confia no procedimento, a janela reversível segue se fechando.</p>
+<p>Existe, porém, um papel real. Quem examina couro cabeludo de perto e com regularidade pode notar cedo o recuo da linha, o sinal da franja, os fios quebrados na testa — e perguntar se houve dor ou ardência depois do último penteado. Dizer "isso mudou desde a última vez, vale passar num dermatologista" é a contribuição mais útil possível.</p>
+<p>Vermelhidão persistente, crostas, pústulas, dor ou falha nova são motivo de consulta. Aqui, tempo é a variável que decide se o cabelo volta.</p>
+
+<p><em>Este texto é informativo e não substitui avaliação médica. Falhas de cabelo, dor ou feridas no couro cabeludo pedem consulta com dermatologista.</em></p>
+"""
+},
+{
  "slug": "escova-massageador-couro-cabeludo-criterios",
  "cat": "produtos",
  "title": "Escovas e massageadores de couro cabeludo: os critérios que importam antes de comprar",
