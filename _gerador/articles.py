@@ -5,6 +5,56 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "como-escolher-shampoo-tensoativos-rotulo",
+ "cat": "produtos",
+ "title": "Shampoo: como escolher pelo tensoativo, e por que \"sem sulfato\" não quer dizer suave",
+ "excerpt": "O ingrediente que decide se o seu shampoo limpa bem ou irrita está na terceira linha do rótulo, e quase ninguém olha para ele. Explicamos o que cada família de tensoativo faz, o que a pesquisa mostra sobre irritação e por que a promessa mais vendida da prateleira é a mais mal compreendida.",
+ "date": "13 de agosto de 2026",
+ "sources": [("Indian Journal of Dermatology - Shampoo and Conditioners: What a Dermatologist Should Know? (D'Souza e Rathi, 2015; PMID 26120149)", "https://pubmed.ncbi.nlm.nih.gov/26120149/"), ("PubMed - Subclinical, non-erythematous irritation with an open assay model (washing): sodium lauryl sulfate versus sodium laureth sulfate (PMID 11278060)", "https://pubmed.ncbi.nlm.nih.gov/11278060/"), ("PubMed - Profile of irritant patch testing with detergents: sodium lauryl sulfate, sodium laureth sulfate and alkyl polyglucoside (PMID 12641575)", "https://pubmed.ncbi.nlm.nih.gov/12641575/"), ("DermNet - Contact allergy to cocamidopropyl betaine", "https://dermnetnz.org/topics/contact-allergy-to-cocamidopropyl-betaine"), ("American Academy of Dermatology - Tips for healthy hair", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips")],
+ "body": """
+<p>Quase toda decisão de compra de shampoo é tomada pela frente da embalagem: "hidratante", "fortalecedor", "sem sulfato", "com queratina". O ingrediente que de fato determina como o produto se comporta no seu couro cabeludo costuma estar na segunda ou terceira linha da lista de composição, com um nome que ninguém reconhece. É o tensoativo — o detergente do shampoo. Este texto não indica marca: explica o que olhar.</p>
+
+<h2>O que um shampoo faz, e só isso</h2>
+<p>Shampoo é um produto de limpeza. Sua função é remover sebo, células mortas, poeira e resíduo de finalizador do couro cabeludo, com o efeito colateral desejável de deixar o fio com toque e aparência melhores. A revisão de Paschal D'Souza e Sanjay Rathi publicada no <em>Indian Journal of Dermatology</em> em 2015 descreve exatamente esse tripé: limpar a pele do couro cabeludo e o cabelo, condicionar o fio e servir de veículo para o tratamento de algumas condições do couro cabeludo — o caso dos shampoos anticaspa, em que o ativo é medicamentoso.</p>
+<p>Fora dessa terceira situação, o shampoo é cosmético de enxágue: fica um ou dois minutos na cabeça e vai embora. Rótulo que promete crescimento ou reversão de queda vende o que o formato não sustenta.</p>
+
+<h2>As famílias de tensoativo que aparecem no rótulo</h2>
+<p>Praticamente todo shampoo combina duas ou mais famílias. Saber diferenciá-las já resolve boa parte da escolha.</p>
+<ul>
+<li><strong>Aniônicos</strong> — os detergentes principais, responsáveis pela limpeza e por boa parte da espuma. É aqui que ficam os sulfatos: <em>sodium lauryl sulfate</em> (SLS) e <em>sodium laureth sulfate</em> (SLES). Também entram nesse grupo os sulfossuccinatos e os isetionatos, mais suaves.</li>
+<li><strong>Anfotéricos</strong> — trabalham como secundários, suavizando a fórmula e melhorando a espuma. O mais comum de longe é a <em>cocamidopropyl betaine</em>, a betaína de coco.</li>
+<li><strong>Não iônicos</strong> — limpam pouco e servem sobretudo para dar toque e reduzir a agressividade do conjunto. Os alquil poliglicosídeos, derivados de açúcar, entram aqui.</li>
+<li><strong>Catiônicos</strong> — não limpam; aderem ao fio e reduzem o frizz e a eletricidade estática. São a base dos condicionadores e dos shampoos "2 em 1".</li>
+</ul>
+<p>A ordem importa: ingredientes aparecem em concentração decrescente. Um shampoo cujo primeiro tensoativo é um sulfato limpa mais e resseca mais do que um que abre com betaína ou glicosídeo.</p>
+
+<h2>Sulfatos: o que a pesquisa mostra de fato</h2>
+<p>O SLS é o irritante de referência da dermatologia — literalmente. Há décadas ele é usado em estudos de barreira cutânea justamente por provocar irritação de forma previsível, o que lhe deu fama pior do que o uso cosmético real justifica.</p>
+<p>A comparação direta entre os dois sulfatos mais comuns existe. Um estudo com modelo de lavagem, publicado em 2001, avaliou alterações sutis da superfície da pele após poucas lavagens em laboratório e uma semana de uso doméstico: a reação ao SLS foi pronunciada, e a ao SLES, bem mais branda. Um trabalho posterior de teste de contato chegou à mesma hierarquia, com o alquil poliglicosídeo praticamente sem reação detectável, e registrou perda de água transepidérmica ainda elevada com SLS no décimo dia de recuperação.</p>
+<p>Duas ressalvas honestas. Esses estudos foram feitos em antebraço e dorso da mão, não em couro cabeludo, e com aplicação mais agressiva do que a de um shampoo enxaguado. E formulação muda tudo: um SLS diluído numa fórmula bem construída irrita menos que um "suave" mal formulado. A evidência sustenta a ordem — SLS mais irritante que SLES, e ambos mais que glicosídeos — não a ideia de que sulfato seja veneno.</p>
+
+<h2>"Sem sulfato" não é sinônimo de suave</h2>
+<p>Esta é a parte que o marketing omite. Retirar o sulfato obriga a repor a limpeza com outro tensoativo, e o substituto mais usado é a betaína de coco. Ela é mais branda, mas não é inerte: a DermNet registra que a cocamidopropil betaína é causa reconhecida de <strong>dermatite de contato alérgica</strong> — vermelhidão, coceira, inchaço e bolhas —, mais frequente em mulheres e diagnosticada em cerca de 6% de uma população australiana investigada por suspeita de alergia de contato. A sensibilização é atribuída menos à molécula em si e mais a impurezas de fabricação, como a amidoamina.</p>
+<p>O ponto prático: <em>irritação</em> e <em>alergia</em> são coisas diferentes. O sulfato tende a irritar — resseca e arde de forma proporcional à dose, e melhora quando se reduz o uso. A alergia é imunológica, aparece em quem foi sensibilizado e não cede com "usar menos". O diagnóstico se confirma por teste de contato, e a dermatite pode levar semanas para ceder depois que o produto sai da rotina.</p>
+
+<h2>Como decidir, na prática</h2>
+<ul>
+<li><strong>Couro cabeludo oleoso, uso frequente de finalizador ou água muito dura:</strong> uma fórmula com sulfato costuma dar conta melhor. Limpeza insuficiente também tem custo — resíduo acumulado coça.</li>
+<li><strong>Couro cabeludo seco, sensível, com dermatite atópica ou histórico de irritação:</strong> comece por fórmulas em que o sulfato não é o primeiro tensoativo, ou sem ele.</li>
+<li><strong>Cabelo com curvatura acentuada, ressecado ou quimicamente tratado:</strong> o argumento a favor do "sem sulfato" é sobretudo de conforto do fio e de manutenção de cor, não de saúde do couro cabeludo.</li>
+<li><strong>Se algo irrita, leia a lista inteira antes de trocar de marca.</strong> Fragrância, conservantes e a própria betaína são candidatos tão plausíveis quanto o sulfato — e trocar de rótulo mantendo o mesmo ingrediente é o erro mais repetido da prateleira.</li>
+<li><strong>Espuma não é medida de limpeza.</strong> É consequência do tipo de tensoativo, e fórmulas suaves espumam menos fazendo o mesmo trabalho.</li>
+</ul>
+
+<h2>O detalhe que pesa mais que a escolha</h2>
+<p>A técnica pesa mais que o produto. A Academia Americana de Dermatologia orienta aplicar o shampoo <strong>no couro cabeludo</strong>, não no comprimento, deixar a espuma escorrer pelos fios no enxágue, massagear com as polpas dos dedos — <strong>nunca com as unhas</strong> — e enxaguar bem, porque cosmético mal removido irrita a pele por conta própria. A frequência segue a oleosidade, não o calendário. E água <strong>morna</strong>: quem remove sebo é o tensoativo, não a temperatura.</p>
+
+<h2>Quando o shampoo não é a resposta</h2>
+<p>Descamação que não cede em quatro semanas, vermelhidão persistente, placas bem delimitadas, feridas, crostas, pústulas, dor ou aumento visível de queda não se resolvem na prateleira. Dermatite seborreica, psoríase, dermatite de contato e alopecias diferentes se parecem entre si para quem olha de fora e têm condutas distintas — e a única forma de separar alergia de irritação é a avaliação clínica, eventualmente com teste de contato. Trocar de shampoo por meses enquanto um quadro inflamatório avança é tempo perdido.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "oleacao-capilar-hair-oiling-como-fazer",
  "cat": "dicas",
  "title": "Oleação capilar: onde o óleo ajuda de verdade e onde a dermatologia pede cautela",
