@@ -5,6 +5,54 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "secar-cabelo-secador-distancia-temperatura",
+ "cat": "dicas",
+ "title": "Secar o cabelo: a distância, a temperatura e o erro de deixar secar sozinho",
+ "excerpt": "Deixar secar naturalmente parece a escolha mais segura — e foi justamente no grupo sem secador que um estudo de microscopia eletrônica encontrou um tipo de dano. Explicamos o que o calor faz no fio, a distância que muda o resultado e os erros que quebram cabelo de verdade.",
+ "date": "14 de agosto de 2026",
+ "sources": [("PubMed - Hair shaft damage from heat and drying time of hair dryer (Lee et al., Ann Dermatol 2011; PMID 22148012)", "https://pubmed.ncbi.nlm.nih.gov/22148012/"), ("KoreaMed Synapse - texto completo do estudo (Ann Dermatol 2011;23:455-462)", "https://synapse.koreamed.org/articles/1045372"), ("American Academy of Dermatology - How to stop damaging your hair", "https://www.aad.org/public/diseases/hair-loss/insider/stop-damage"), ("PubMed - Bubble hair: a cosmetic abnormality caused by brief, focal heating of damp hair fibres (Gummer, Br J Dermatol 1994; PMID 7857849)", "https://pubmed.ncbi.nlm.nih.gov/7857849/"), ("PubMed - Bubble hair and other acquired hair shaft anomalies due to hot ironing on wet hair (PMID 22223976)", "https://pubmed.ncbi.nlm.nih.gov/22223976/"), ("PubMed - The effect of various cosmetic pretreatments on protecting hair from thermal damage by hot flat ironing (PMID 21635854)", "https://pubmed.ncbi.nlm.nih.gov/21635854/")],
+ "body": """
+<p>Poucas certezas da rotina capilar são tão repetidas e tão pouco conferidas quanto esta: secador faz mal, deixar secar naturalmente é o certo. Quando alguém foi conferir — com microscopia eletrônica, num laboratório coreano —, o resultado não foi o esperado.</p>
+
+<h2>O que o calor faz no fio</h2>
+<p>O fio de cabelo tem três estruturas que importam aqui: a <strong>cutícula</strong>, a superfície escamosa; o <strong>córtex</strong>, o miolo que dá resistência; e o <strong>complexo de membrana celular</strong> (CMC), a camada lipídica que cola as células umas nas outras. Calor em excesso ataca primeiro a cutícula — ela racha, descola, perde brilho. É por isso que cabelo muito submetido a calor fica áspero, poroso e embaraça mais.</p>
+<p>Vale a distinção que quase nunca é feita: nada disso é queda de cabelo. Cutícula danificada quebra o fio ao longo do comprimento. O folículo, que decide se o cabelo nasce ou cai, fica abaixo da pele e não é alcançado pelo ar de um secador usado a distância razoável.</p>
+
+<h2>O estudo que inverteu a intuição — e os limites dele</h2>
+<p>Em 2011, pesquisadores da Universidade Yonsei, na Coreia do Sul, publicaram no <em>Annals of Dermatology</em> um experimento simples e bem desenhado. Lavaram e secaram mechas de cabelo humano 30 vezes, uma vez por dia, em cinco condições: sem tratamento; secagem ao ar, a 20 °C; e secador a <strong>15 cm</strong> (47 °C), a <strong>10 cm</strong> (61 °C) e a <strong>5 cm</strong> (95 °C). Depois examinaram tudo em microscópio eletrônico.</p>
+<p>O previsível se confirmou: quanto mais perto e mais quente, pior a superfície. A 15 cm apareceram rachaduras longitudinais na cutícula; a 5 cm, buracos e bordas desfeitas. Em nenhum grupo houve dano ao córtex.</p>
+<p>O achado inesperado veio do grupo que secou sozinho. O CMC, a camada lipídica interna, foi danificado <strong>somente ali</strong>. A hipótese dos autores é de tempo: a mecha levava mais de duas horas para secar ao ar, e o contato prolongado com água faz essa camada inchar. A conclusão do artigo é literalmente essa — embora o secador cause mais dano de superfície, usá-lo a 15 cm com movimento contínuo causa menos dano do que deixar secar naturalmente.</p>
+<p>Duas ressalvas que o título não carrega. Foi um estudo em <strong>mechas</strong>, não em pessoas, e nenhum couro cabeludo foi avaliado. E "secagem natural", ali, foram duas horas de mecha encharcada presa a uma placa — não é o que acontece com quem sai do banho. O que os dados sustentam com segurança é mais modesto: ficar molhado por muito tempo não é neutro, e secador com distância e movimento não é o desastre que a intuição sugere.</p>
+
+<h2>O couro cabeludo é outra pergunta</h2>
+<p>Nada do que está acima fala da pele. Sobre o couro cabeludo, o que existe é raciocínio clínico, não ensaio. Ar muito quente apontado para um ponto fixo resseca e, no limite, queima. E couro cabeludo que passa horas úmido e abafado, sob touca, toalha enrolada ou travesseiro, cria um ambiente quente e úmido que, em quem já tem tendência, pode agravar coceira e descamação. São precauções plausíveis, não fatos demonstrados.</p>
+
+<h2>Como secar, na prática</h2>
+<ul>
+<li><strong>Tire a água com pressão, não com fricção.</strong> A Academia Americana de Dermatologia é explícita: envolva o cabelo na toalha para absorver a água, em vez de esfregar. Esfregar é atrito puro em fio molhado — que é justamente quando ele está mais frágil. Menos água antes do secador significa menos tempo de calor depois.</li>
+<li><strong>Mantenha 15 a 20 cm de distância</strong>, com o bico em movimento constante. Parar num ponto é o que concentra temperatura.</li>
+<li><strong>Use a menor temperatura que resolva.</strong> A orientação da AAD é a temperatura mais baixa possível, e o estudo coreano mostra por quê: a diferença entre 47 °C e 95 °C é a diferença entre rachaduras e buracos.</li>
+<li><strong>Divida em seções</strong> e alterne entre elas. A mecha que recebe calor duas vezes é a que quebra.</li>
+<li><strong>Se o couro cabeludo esquentar ou arder, afaste na hora.</strong> Desconforto é sinal, não frescura.</li>
+</ul>
+
+<h2>Protetor térmico: o que a evidência sustenta</h2>
+<p>Um trabalho publicado em 2011 avaliou pré-tratamentos cosméticos antes de chapinha quente e encontrou redução do dano térmico — o cabelo tratado ainda se danificava, apenas menos. Esse é o tamanho da promessa razoável: o produto forma um filme que retarda e distribui o calor, não torna o fio à prova de calor. Quem usa fonte de calor todos os dias ganha algo real; quem usa uma vez por semana, muito pouco.</p>
+
+<h2>Os erros que mais quebram cabelo</h2>
+<ul>
+<li><strong>Chapinha ou modelador em cabelo úmido.</strong> É o pior da lista, e tem nome na literatura: <em>bubble hair</em>. Um artigo de 1994 no <em>British Journal of Dermatology</em> mostrou que o aquecimento breve e focal de fios úmidos basta para formar bolhas dentro da haste — a água vira vapor e rompe o fio por dentro, deixando-o quebradiço. Relatos posteriores descrevem o mesmo quadro após chapinha em cabelo molhado.</li>
+<li><strong>Escovar cabelo encharcado.</strong> A AAD orienta deixar secar um pouco antes de pentear, com pente de dentes largos. A exceção é o cabelo cacheado ou crespo, que deve ser desembaraçado ainda úmido — também com dentes largos.</li>
+<li><strong>Dormir com o cabelo encharcado.</strong> Pelo raciocínio do estudo coreano, tempo molhado tem custo, e o atrito no travesseiro soma a ele.</li>
+<li><strong>Confundir cabelo seco ao toque com cabelo seco.</strong> A superfície engana; a raiz costuma seguir úmida.</li>
+</ul>
+
+<h2>Quando o problema não é o secador</h2>
+<p>Fio que parte no comprimento e fio que sai pela raiz são coisas distintas. Ajustar a secagem resolve o primeiro. Se o que aparece é aumento de queda, falhas localizadas, recuo da linha frontal, descamação que não cede em quatro semanas, vermelhidão persistente, feridas ou dor, a causa não está no aparelho. A própria AAD registra o ponto: quando mudar o cuidado com o cabelo não melhora o quadro, a raiz do problema é outra — e quanto antes for avaliada, melhor o resultado.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "como-escolher-shampoo-tensoativos-rotulo",
  "cat": "produtos",
  "title": "Shampoo: como escolher pelo tensoativo, e por que \"sem sulfato\" não quer dizer suave",
