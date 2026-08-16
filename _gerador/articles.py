@@ -5,6 +5,148 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "queda-sazonal-de-cabelo-hemisferio-sul",
+ "cat": "noticias",
+ "title": "Queda sazonal de cabelo: os estudos são reais, mas o calendário deles não é o nosso",
+ "excerpt": "Cinco estudos independentes, ao longo de três décadas, encontraram um pico anual de queda de cabelo — e todos foram feitos no hemisfério norte, onde agosto é fim de verão. Explicamos o que a evidência sustenta, por que esse calendário não se transporta para o Brasil e como distinguir queda sazonal de um problema que precisa de médico.",
+ "date": "16 de agosto de 2026",
+ "sources": [("British Journal of Dermatology - Seasonal changes in human hair growth (Randall e Ebling, 1991;124(2):146-151; PMID 2003996)", "https://pubmed.ncbi.nlm.nih.gov/2003996/"), ("British Journal of Dermatology - Periodicity in the growth and shedding of hair (Courtois et al., 1996;134(1):47-54)", "https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2133.1996.d01-748.x"), ("Dermatology - Seasonality of hair shedding in healthy women complaining of hair loss (Kunz, Seifert e Trueb, 2009; PMID 19407435)", "https://pubmed.ncbi.nlm.nih.gov/19407435/"), ("British Journal of Dermatology - Seasonality of hair loss: a time series analysis of Google Trends data 2004-2016 (Hsiang et al., 2018;178(4):978-979; PMID 29048738)", "https://pubmed.ncbi.nlm.nih.gov/29048738/"), ("Donovan Hair Clinic - Seasonal Shedding of Hair: Five Studies to Know about (Dr. Jeff Donovan, dermatologista)", "https://donovanmedical.com/hair-blog/seasonal-shedding-2"), ("StatPearls / NCBI Bookshelf - Telogen Effluvium (Hughes, Syed e Saleh; atualizado em 01/05/2024)", "https://www.ncbi.nlm.nih.gov/books/NBK430848/"), ("CNN Brasil - Mito ou verdade: cabelos caem mais no outono? (com o dermatologista Lucas Miranda, membro da SBD, 04/04/2025)", "https://www.cnnbrasil.com.br/saude/mito-ou-verdade-cabelos-caem-mais-no-outono/")],
+ "body": """
+<p>Todo ano, em algum momento, a escova sai mais cheia e o ralo do banheiro denuncia. A explicação mais repetida — "é a época do ano" — costuma ser tratada como crendice, mas tem literatura: pelo menos cinco estudos independentes, ao longo de três décadas, encontraram um padrão anual na queda de cabelo. O que nunca acompanha essa informação é a ressalva que mais importa para quem mora no Brasil.</p>
+
+<h2>O que "queda sazonal" quer dizer</h2>
+<p>Cada fio passa alguns anos em <strong>anágena</strong> (crescimento) e alguns meses em <strong>telógena</strong> (repouso), até ser empurrado para fora por um fio novo. Num couro cabeludo saudável, cerca de 85% dos fios estão em anágena e 15% em telógena — por isso perder fios todo dia é esperado.</p>
+<p>Queda sazonal é uma variação dessa proporção ao longo do ano: em certos meses, mais folículos entram em repouso ao mesmo tempo, e a queda aparece um ou dois meses depois. Não é doença, não deixa falha e não é calvície.</p>
+
+<h2>Cinco estudos, um mesmo trecho do ano</h2>
+<p>O trabalho mais citado é de 1991, de Valerie Randall e F. J. Ebling, no <em>British Journal of Dermatology</em>. Catorze homens saudáveis de 18 a 39 anos, em Sheffield, no Reino Unido, foram acompanhados a cada 28 dias por 18 meses, guardando os fios que caíam. A queda foi máxima em agosto e setembro: cerca de <strong>60 fios por dia em agosto</strong>, o dobro do registrado em março.</p>
+<p>Em 1996, um grupo dos laboratórios da L'Oréal, na França, acompanhou 10 pessoas por 8 a 14 anos — seguimento raríssimo — e achou os maiores percentuais de telógena entre agosto e outubro, e os menores de dezembro a fevereiro.</p>
+<p>O maior levantamento é suíço: Michael Kunz, Burkhardt Seifert e Ralph Trüeb analisaram tricogramas de <strong>823 mulheres</strong> e publicaram em 2009 na revista <em>Dermatology</em>. As taxas de telógena foram mínimas no início de fevereiro e máximas em julho. O achado mais útil: o padrão apareceu independentemente de a mulher ter ou não alopecia de padrão feminino, e de estar ou não usando minoxidil.</p>
+<p>Somam-se um estudo belga com 2.857 tricogramas, com mais telógena entre julho e outubro, e um chinês com pico em setembro.</p>
+
+<h2>O detalhe que muda tudo: é outro hemisfério</h2>
+<p>Reino Unido, França, Suíça, Bélgica, China: todos os estudos que conseguimos verificar foram feitos no <strong>hemisfério norte</strong>. Quando eles dizem "queda máxima em agosto e setembro", falam do fim do verão de lá.</p>
+<p>Agosto no Brasil é fim de inverno. Se o mecanismo depende mesmo de fotoperíodo e exposição solar — a hipótese dominante —, o equivalente brasileiro seria o fim do nosso verão e o começo do outono, algo entre <strong>fevereiro e maio</strong>. Isso conversa com o que dermatologistas brasileiros relatam à imprensa sobre aumento de queda no outono. Mas convém ser explícito: <strong>isso é inferência, não medição</strong> — não localizamos nenhum estudo brasileiro que tenha acompanhado tricogramas ao longo do ano por aqui. Copiar o mês exato dos estudos europeus é erro; transportar a lógica do fotoperíodo é hipótese razoável e não testada.</p>
+
+<h2>Por que acontece — a parte que ninguém sabe direito</h2>
+<p>Aqui a honestidade é obrigatória: <strong>não existe explicação estabelecida</strong>. Muitos mamíferos trocam o pelo conforme a luz do dia muda, e a hipótese mais aceita é que algo desse mecanismo tenha sobrado em nós. Temperatura, vitamina D e o estresse da volta à rotina aparecem nas listas de fatores possíveis, todos sem prova causal. No estudo francês houve correlação entre horas de sol e percentual de telógena em 9 dos 10 participantes — indício interessante, não conclusão.</p>
+
+<h2>Como diferenciar do que não é sazonal</h2>
+<ul>
+<li><strong>A queda sazonal é difusa</strong>, espalhada por toda a cabeça. Não cria falhas redondas nem recuo da linha frontal.</li>
+<li><strong>Ela passa.</strong> Um eflúvio telógeno agudo, por definição, dura menos de seis meses. Queda aumentada que atravessa esse prazo deixou de ser explicável pela estação.</li>
+<li><strong>Ela não afina o fio.</strong> Perder mais fios é diferente de ver o cabelo ficar progressivamente mais fino e ralo — este segundo padrão sugere alopecia androgenética, que tem outra conduta.</li>
+</ul>
+<p>Existe um método simples usado na clínica: guardar todos os fios perdidos em 24 horas, sem lavar o cabelo, repetindo por três ou quatro semanas. Mais de 100 fios sugere eflúvio telógeno — mas quem interpreta o resultado deve ser o médico, porque o número sozinho não diz a causa.</p>
+
+<h2>O que fazer, e o que não adianta</h2>
+<p>Se for mesmo sazonal, a resposta é desconfortável: nada específico é necessário. O quadro se resolve sozinho, e não há tratamento demonstrado que encurte esse prazo. Vale desconfiar da corrida ao suplemento — a melhora costuma coincidir com a recuperação natural, que levaria o crédito de qualquer forma.</p>
+<p>O que faz sentido é o básico: continuar lavando e pentear normalmente (a orientação clínica tranquiliza quanto a isso — escovar não causa nem piora o eflúvio), evitar tração excessiva num período em que o fio já sai mais, e não começar três tratamentos ao mesmo tempo, porque depois fica impossível saber o que funcionou.</p>
+<p>Um limite que vale repetir: <strong>Head Spa não trata queda sazonal</strong>, porque não há o que tratar. O que ele pode fazer é cuidar do couro cabeludo e ajudar a notar, de uma sessão para outra, se o que mudou é queda difusa ou outra coisa.</p>
+
+<h2>Quando procurar dermatologista</h2>
+<p>Queda que ultrapassa seis meses, falhas localizadas, recuo da linha frontal, afinamento progressivo, descamação que não cede em quatro semanas, vermelhidão persistente, feridas ou dor não são sazonais. Também merecem investigação quedas com cansaço, alteração de peso, intolerância ao frio ou mudanças no ciclo menstrual — hipotireoidismo e deficiência de ferro são causas comuns e tratáveis, identificadas por exame de sangue, não no espelho.</p>
+<p>A literatura clínica registra ainda o que a conversa popular ignora: perder cabelo tem impacto emocional real. Se estiver pesando demais, isso já é motivo legítimo para procurar apoio profissional.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "com-que-frequencia-lavar-o-cabelo",
+ "cat": "dicas",
+ "title": "Com que frequência lavar o cabelo: o que a evidência mostra e por que não existe número único",
+ "excerpt": "Quando pesquisadores mediram o assunto em vez de opinar, o grupo que lavava quase todo dia se saiu melhor que o grupo que lavava uma vez por semana — e o medo de \"lavar demais\" não se sustentou. Explicamos para quem esse achado vale, por que cabelo cacheado segue outra regra e o que fazer entre lavagens depois do treino.",
+ "date": "16 de agosto de 2026",
+ "sources": [("American Academy of Dermatology - Tips for healthy hair (atualizado em 12/08/2024)", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"), ("American Academy of Dermatology - Black hair: Tips for everyday care", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/care-african-american"), ("Skin Appendage Disorders - The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions (Punyani, Tosti, Hordinsky, Yeomans e Schwartz, 2021;7(3):183-193; PMID 34055906)", "https://karger.com/sad/article-abstract/7/3/183/295193/The-Impact-of-Shampoo-Wash-Frequency-on-Scalp-and"), ("Skin Appendage Disorders - DOI do mesmo estudo (10.1159/000512786)", "https://doi.org/10.1159/000512786"), ("American Academy of Dermatology - 10 hair-care habits that can damage your hair", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/habits-that-damage-hair"), ("Cleveland Clinic - How Often Should You Really Wash Your Hair?", "https://health.clevelandclinic.org/the-dirty-truth-about-washing-your-hair"), ("Mais Saude / Drogasil - Lavar o cabelo apos o treino ou nao? (com o dermatologista Renato Pazzini)", "https://www.drogasil.com.br/blog/beleza/cabelo/lavar-o-cabelo-apos-o-treino"), ("Tribuna de Minas - Suor estraga o cabelo? Especialista explica se e preciso lavar os fios apos o treino (15/01/2026)", "https://tribunademinas.com.br/especiais/saude/15-01-2026/suor-estraga-o-cabelo-especialista-explica-se-e-preciso-lavar-os-fios-apos-o-treino.html")],
+ "body": """
+<p>Poucas perguntas de rotina capilar recebem respostas tão confiantes e tão contraditórias quanto esta. Lavar todo dia estraga? Espaçar as lavagens "ensina" o couro cabeludo a produzir menos oleosidade? Há um número certo? A resposta curta é que o número certo depende do seu couro cabeludo — e a resposta longa tem um estudo que contraria a intuição da maioria.</p>
+
+<h2>Não existe número universal</h2>
+<p>A orientação da Academia Americana de Dermatologia (AAD) não é um intervalo fixo, e sim um critério: lave <strong>conforme o cabelo suja ou fica oleoso</strong>. Na prática, isso abre uma faixa larguíssima. Quem tem cabelo liso e couro cabeludo oleoso pode precisar lavar todo dia. Quem tem cabelo seco, texturizado, cacheado ou grosso pode lavar a cada duas ou três semanas, conforme a necessidade.</p>
+<p>O que decide não é disciplina nem calendário: é quanto sebo o seu couro cabeludo produz, quanto produto você usa e quanto se expõe a suor, poeira e poluição.</p>
+
+<h2>O estudo que desmontou o medo de "lavar demais"</h2>
+<p>Em 2021, um trabalho publicado no <em>Skin Appendage Disorders</em> — com Antonella Tosti e Maria Hordinsky entre os autores — enfrentou a pergunta de frente, reunindo dois estudos em populações asiáticas sem doença de couro cabeludo. No braço epidemiológico, a melhor satisfação com cabelo e couro cabeludo apareceu em quem lavava <strong>5 a 6 vezes por semana</strong>, e o dado bateu tanto nas medidas objetivas quanto nas autoavaliações. No braço controlado, lavar diariamente foi <strong>superior</strong> a lavar uma vez por semana em todos os desfechos, sem dano objetivo mensurável ao fio. A conclusão dos autores é literal: a preocupação com "limpar demais" não se sustentou.</p>
+<p>Três ressalvas que o resumo não carrega, e que mudam o alcance do achado. Foram populações <strong>asiáticas</strong>, com fio predominantemente liso — o resultado não pode ser transportado para cabelo cacheado ou crespo. Foram pessoas <strong>sem patologia de couro cabeludo</strong>, o que exclui quem tem dermatite seborreica ou psoríase. E um dos autores é vinculado a uma fabricante de produtos de higiene, o que não invalida os dados, mas pede leitura atenta. Não localizamos levantamento brasileiro comparável.</p>
+<p>O que sobra de sólido é modesto e útil: em cabelo liso e couro cabeludo saudável, lavar com frequência não é o vilão que a internet descreve. E a ideia de que espaçar lavagens "treina" a glândula a produzir menos sebo não tem sustentação — a produção sebácea é hormonal, não comportamental.</p>
+
+<h2>Por que cabelo cacheado e crespo segue outra regra</h2>
+<p>Aqui a recomendação muda, e por um motivo geométrico. O sebo desce com facilidade por um fio reto, lubrificando o comprimento; em fio muito curvo, ele fica retido perto da raiz. O resultado é couro cabeludo que pode estar oleoso enquanto as pontas seguem ressecadas.</p>
+<p>Para cabelo crespo, a AAD recomenda lavar <strong>uma vez por semana ou a cada duas semanas</strong>, para evitar acúmulo de produto sem ressecar o fio, e usar condicionador em <strong>toda</strong> lavagem, cobrindo bem as pontas — a parte mais velha e mais frágil do cabelo. Não é fragilidade do cabelo: é uma rotina diferente para uma estrutura diferente.</p>
+
+<h2>Suor, academia e o que fazer entre lavagens</h2>
+<p>Quem treina quase todo dia enfrenta a versão prática do problema. O suor deixa sais no fio e umidade prolongada no couro cabeludo, e dermatologistas ouvidos pela imprensa brasileira orientam lavar depois do treino, sobretudo em quem já tem oleosidade ou dermatite seborreica. Vale registrar que isso é <strong>raciocínio clínico</strong>, não ensaio controlado: não há estudo comparando lavar e não lavar depois de exercício.</p>
+<p>Se lavar com shampoo todo dia não cabe na sua rotina, duas saídas são razoáveis. Enxaguar só com água morna e massagear o couro cabeludo com as polpas dos dedos remove boa parte do suor sem detergente. E o shampoo a seco resolve aparência, não higiene — é recurso ocasional, e usado seguidamente acumula resíduo. O que não é boa ideia é passar horas com o couro cabeludo suado sob boné, touca ou capacete.</p>
+
+<h2>A técnica pesa mais que a frequência</h2>
+<ul>
+<li><strong>Shampoo no couro cabeludo</strong>, não no comprimento. A espuma limpa os fios ao escorrer no enxágue.</li>
+<li><strong>Polpas dos dedos, nunca as unhas.</strong> Arranhão microscópico inflama.</li>
+<li><strong>Condicionador em toda lavagem.</strong> Cabelo fino ou liso: só nas pontas. Cabelo seco ou cacheado: em todo o comprimento.</li>
+<li><strong>Água morna.</strong> Quem remove sebo é o tensoativo, não a temperatura.</li>
+<li><strong>Desembarace com pente de dentes largos.</strong> Cabelo molhado é mais frágil; em cabelo grosso e cacheado, o melhor momento é no banho, antes de enxaguar o condicionador.</li>
+<li><strong>Seque envolvendo em toalha ou camiseta</strong>, sem esfregar.</li>
+</ul>
+
+<h2>Os erros mais comuns</h2>
+<p><strong>Trocar de frequência toda semana.</strong> Couro cabeludo leva tempo para responder; dê pelo menos três a quatro semanas antes de julgar.</p>
+<p><strong>Ler qualquer descamação como excesso de lavagem.</strong> A AAD observa o contrário: flocos podem vir de lavar pouco, ou de usar o condicionador errado para o seu tipo de cabelo.</p>
+<p><strong>Espaçar lavagens em couro cabeludo oleoso para "regular a oleosidade".</strong> O que costuma sobrar é resíduo, coceira e mais caspa.</p>
+<p><strong>Água quente e enxágue apressado.</strong> Cosmético mal removido irrita a pele por conta própria.</p>
+
+<h2>Quando não é questão de frequência</h2>
+<p>Descamação que não cede em quatro semanas, vermelhidão persistente, placas bem delimitadas, feridas, pústulas, dor ou aumento visível de queda não se resolvem ajustando o calendário do banho. Dermatite seborreica, psoríase e dermatite de contato se parecem entre si para quem olha de fora e têm condutas distintas. Mudar a frequência por meses enquanto um quadro inflamatório avança é tempo perdido — e a avaliação de um <strong>dermatologista</strong> encurta esse caminho.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
+ "slug": "suplementos-capilares-o-que-a-evidencia-sustenta",
+ "cat": "produtos",
+ "title": "Suplementos para cabelo: o que a maior revisão do tema realmente encontrou",
+ "excerpt": "A revisão mais ampla já feita sobre suplementos capilares achou evidência de benefício para alguns produtos — e o próprio autor sênior suspeita que muitos não passariam de placebo num estudo rigoroso. Explicamos o que os dados sustentam, por que a biotina pode estragar o seu exame de sangue e o que perguntar antes de gastar.",
+ "date": "16 de agosto de 2026",
+ "sources": [("JAMA Dermatology - Evaluation of the Safety and Effectiveness of Nutritional Supplements for Treating Hair Loss: A Systematic Review (Drake et al., 2023;159(1):79-86)", "https://jamanetwork.com/journals/jamadermatology/fullarticle/2798840"), ("Dermatology Times - Nutritional Supplements to Treat Hair Loss (entrevista com Arash Mostaghimi, autor senior da revisao)", "https://www.dermatologytimes.com/view/nutritional-supplements-to-treat-hair-loss"), ("JAMA Dermatology - Nutritional Supplements and Hair Loss: Limitations to the Interpretation of Clinical Studies Before Implementation in Clinical Practice (PMID 37379007)", "https://pubmed.ncbi.nlm.nih.gov/37379007/"), ("ISHRS - Hair Supplements: Are They Worth the Hype? (Sociedade Internacional de Cirurgia de Restauracao Capilar)", "https://ishrs.org/vitamins-to-increase-hair-growth/"), ("ARUP Laboratories - Biotin Interference", "https://www.aruplab.com/biotin"), ("FDA - Update: The FDA Warns that Biotin May Interfere with Lab Tests (Safety Communication)", "https://www.fda.gov/medical-devices/safety-communications/update-fda-warns-biotin-may-interfere-lab-tests-fda-safety-communication")],
+ "body": """
+<p>A prateleira de suplementos capilares — cápsulas, gomas, "nutracêuticos" — é uma das que mais crescem no cuidado com o cabelo. A pergunta que a embalagem nunca responde é direta: existe evidência de que isso funcione em quem <em>não</em> tem deficiência nutricional? A resposta honesta é mais interessante do que o "sim" da propaganda e do que o "não" do ceticismo automático.</p>
+
+<h2>A revisão que virou manchete</h2>
+<p>Em novembro de 2022, pesquisadores da Harvard Medical School e da Tufts publicaram na <em>JAMA Dermatology</em> a revisão sistemática mais ampla do tema: estudos de intervenção nutricional em pessoas com alopecia e <strong>sem deficiência nutricional conhecida</strong> — recorte importante, porque separa "tratar cabelo" de "corrigir carência".</p>
+<p>Sobraram 30 artigos: 17 ensaios randomizados, 11 estudos clínicos não randomizados e 2 séries de casos. Nenhuma intervenção baseada em dieta preencheu os critérios de inclusão. Entre os produtos com evidência de melhor qualidade para benefício potencial aparecem nomes comerciais como Viviscal, Nourkrin, Nutrafol e Pantogar, além de zinco, tocotrienol e óleo de semente de abóbora. Eventos adversos foram raros e leves.</p>
+<h2>As ressalvas que o próprio autor faz</h2>
+<p>Manchete pronta — e é aqui que convém desacelerar. Arash Mostaghimi, autor sênior do trabalho, deu à <em>Dermatology Times</em> uma leitura bem menos entusiasmada do próprio artigo.</p>
+<ul>
+<li>Os estudos avaliaram <strong>tipos diferentes de queda</strong> — parte alopecia androgenética, parte eflúvio telógeno. Não há como comparar os produtos entre si.</li>
+<li>A evidência "de melhor qualidade" da revisão segue muito abaixo do padrão exigido de um medicamento aprovado. Segundo ele, não há dados suficientes nem entre os mais bem colocados para afirmar que um é superior a outro.</li>
+<li>E a frase mais desconfortável: ele suspeita que <strong>muitos desses suplementos não mostrariam vantagem sobre placebo</strong> se fossem estudados com rigor.</li>
+</ul>
+<p>Vale registrar que Mostaghimi declara consultoria para diversas farmacêuticas — o que não invalida a revisão, mas deveria acompanhar qualquer leitura de estudo. A própria <em>JAMA Dermatology</em> publicou depois uma carta cujo título já entrega o tom do debate: "Suplementos nutricionais e queda de cabelo — limitações para a interpretação de estudos clínicos antes da implementação na prática clínica".</p>
+
+<h2>Biotina: o ingrediente mais vendido e o menos sustentado</h2>
+<p>A biotina é onipresente nesses rótulos, e é justamente onde a evidência é mais fina. A Sociedade Internacional de Cirurgia de Restauração Capilar (ISHRS) é explícita: os únicos dados que sustentam a biotina como promotora de crescimento vêm de pacientes com <strong>deficiência de biotina</strong>, adquirida ou hereditária — condição incomum. Em pessoas saudáveis, não há evidência científica de que suplementar biotina faça cabelo crescer.</p>
+
+<h2>O aviso que quase ninguém dá: biotina distorce exame de sangue</h2>
+<p>Este é o ponto que raramente aparece na conversa e é o mais concreto de todos. A ingestão adequada de biotina para adultos gira em torno de <strong>30 microgramas por dia</strong>. Suplementos vendidos para cabelo, pele e unhas costumam trazer de 5 a 10 miligramas — até 650 vezes essa referência.</p>
+<p>Nessas doses, a biotina interfere em <strong>imunoensaios</strong> que usam a tecnologia biotina-estreptavidina, e a interferência pode produzir resultados falsamente altos ou falsamente baixos, sem qualquer sinalização no laudo. O FDA emitiu um alerta de segurança sobre isso em novembro de 2017 e o reforçou em novembro de 2019, com preocupação especial para a <strong>troponina</strong> — o marcador usado no diagnóstico de infarto, em que um resultado falsamente baixo pode custar o diagnóstico. Exames de tireoide e de hormônios também entram na lista.</p>
+<p>Na prática: informe ao médico e ao laboratório os suplementos que você toma. A ISHRS orienta suspender a biotina alguns dias antes da coleta.</p>
+
+<h2>Ferro, vitamina D e zinco: onde a conversa muda — nos dois sentidos</h2>
+<p>Aqui existe base real, com uma condição: <strong>deficiência documentada por exame</strong>. As carências mais associadas a queda são ferro, vitamina D e zinco. O ferro é a mais consistente — existe a deficiência de ferro não anêmica, em que a hemoglobina está normal e a <em>ferritina</em>, que reflete o estoque, está baixa; corrigi-la frequentemente estabiliza a queda.</p>
+<p>A parte que o marketing omite é que <strong>excesso também derruba cabelo</strong>. A dermatologista Sharon Keene, ex-presidente da ISHRS, é direta: se os níveis estão normais, o suplemento não apenas deixa de ajudar como, em uso prolongado, pode atingir concentrações tóxicas e piorar a queda — risco maior nas vitaminas lipossolúveis A, D e E, que o corpo armazena e elimina mal. E a relação não é automática nem no sentido oposto: há muita gente com deficiência significativa de vitamina D que não perde cabelo algum.</p>
+
+<h2>Como ler a embalagem — e a conta</h2>
+<ul>
+<li><strong>"Clinicamente testado" e "recomendado por dermatologistas" não são "aprovado".</strong> Podem significar apenas a opinião de um grupo de médicos, ou de um único. Suplemento não passa pelo escrutínio de eficácia exigido de um medicamento.</li>
+<li><strong>Calcule cinco anos, não um mês.</strong> A ISHRS observa que alguns desses produtos ultrapassam cinco mil dólares em cinco anos, e que comprar as vitaminas isoladas costuma sair bem mais barato. Preço alto é lido como qualidade, o que raramente se confirma.</li>
+<li><strong>Se funcionar, não tem alta.</strong> Todo tratamento eficaz para queda precisa ser mantido; interromper devolve o quadro ao ponto de partida.</li>
+<li><strong>Quem se alimenta bem provavelmente não precisa.</strong> Dietas restritivas são a exceção razoável.</li>
+</ul>
+
+<h2>Quando o problema não é falta de vitamina</h2>
+<p>Suplemento não é diagnóstico. Queda progressiva, falhas localizadas, recuo da linha frontal, descamação que não cede em quatro semanas, vermelhidão persistente ou dor pedem <strong>dermatologista</strong> — e, com frequência, exames de sangue que mostrem se existe deficiência de fato. Alopecia androgenética, eflúvio telógeno, causas hormonais e autoimunes se parecem entre si para quem olha de fora e têm condutas bem diferentes.</p>
+<p>Nada disso torna a categoria inútil — torna-a modesta: pode ajudar quem tem carência real, e não substitui investigação. O caminho que a evidência sustenta é o inverso do que a propaganda sugere — primeiro descobrir a causa, depois decidir o que tomar.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "secar-cabelo-secador-distancia-temperatura",
  "cat": "dicas",
  "title": "Secar o cabelo: a distância, a temperatura e o erro de deixar secar sozinho",
@@ -776,157 +918,6 @@ ARTICLES = [
 
 <h2>A leitura honesta</h2>
 <p>Para quem tem caspa leve e ocasional, o Head Spa somado a uma rotina adequada resolve bem. Para quem tem dermatite seborreica, ele é um complemento agradável e útil a um tratamento que precisa ser conduzido por médico. Confundir os dois cenários é o que faz a pessoa gastar tempo e dinheiro em algo que, sozinho, não vai resolver o problema dela.</p>
-"""
-},
-{
- "slug": "microbioma-couro-cabeludo",
- "cat": "beneficios",
- "title": "Microbioma do couro cabeludo: o ecossistema que decide a saúde do seu cabelo",
- "excerpt": "Bactérias e fungos vivem na sua cabeça e o equilíbrio entre eles importa mais do que a quantidade. O que a pesquisa recente mostra.",
- "date": "29 de julho de 2026",
- "sources": [("Frontiers in Microbiology - Disbiose no couro cabeludo oleoso", "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1595030/full"), ("Comparison of Healthy and Dandruff Scalp Microbiome", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6180232/")],
- "body": """
-<p>Por muito tempo o cuidado capilar tratou micro-organismos como inimigos: fungo é ruim, bactéria é ruim, quanto mais limpo melhor. A pesquisa dos últimos anos mostrou que essa leitura é simplista — e que atacar o ecossistema do couro cabeludo indiscriminadamente pode piorar exatamente o que se queria resolver.</p>
-
-<h2>O que vive na sua cabeça</h2>
-<p>O couro cabeludo é um nicho ecológico peculiar: cobertura densa de fios, muitas glândulas sebáceas e sudoríparas, umidade relativamente alta e ambiente rico em lipídios. Nesse cenário se estabelecem três grupos principais.</p>
-<p><strong>Cutibacterium</strong>, bactéria associada a couro cabeludo saudável. <strong>Staphylococcus</strong>, também bactéria, presente normalmente mas cuja proliferação excessiva acompanha quadros de desequilíbrio. E <strong>Malassezia</strong>, um fungo que se alimenta do sebo e participa da fisiologia normal da pele.</p>
-<p>Nenhum deles é vilão por natureza. Todos estão presentes em pessoas sem queixa nenhuma.</p>
-
-<h2>O que muda quando aparece caspa</h2>
-<p>É aqui que a pesquisa fica interessante. Comparando couros cabeludos saudáveis com couros cabeludos com caspa, o que se observa não é a presença de um micro-organismo ausente no outro grupo — é uma mudança de proporção.</p>
-<p>Couros cabeludos saudáveis tendem a apresentar maior proporção de <em>Cutibacterium</em>. Em quadros de caspa, observa-se queda de <em>Cutibacterium</em> e aumento de <em>Staphylococcus</em>. Do lado fúngico, há alteração no perfil das espécies de <em>Malassezia</em>, com destaque para <em>M. restricta</em> e <em>M. globosa</em>.</p>
-<p>Esse fenômeno tem nome: <strong>disbiose</strong>. Não é infecção, é desarranjo de proporções dentro de uma comunidade que sempre esteve ali.</p>
-
-<h2>O papel do sebo</h2>
-<p>A <em>Malassezia</em> não causa irritação diretamente. Ela metaboliza o sebo, e nesse processo gera subprodutos da oxidação de lipídios que agem sobre as células da epiderme. Em pessoas suscetíveis, esses metabólitos disparam a resposta inflamatória que acelera a descamação.</p>
-<p>Isso explica algo que confunde muita gente: por que duas pessoas com quantidade parecida de <em>Malassezia</em> têm experiências opostas. A variável determinante não é quanto fungo existe, e sim como aquela pele reage aos subprodutos que ele gera.</p>
-
-<h2>Por que "limpar mais" costuma piorar</h2>
-<p>Se o desequilíbrio é de proporções, faz sentido que a solução não seja esterilizar. Lavagens muito frequentes com tensoativos agressivos removem a barreira lipídica, o que provoca produção compensatória de sebo e altera o ambiente em que a comunidade vive. O resultado prático é oleosidade de rebote e, com frequência, mais descamação.</p>
-<p>A lógica que a pesquisa sugere é outra: limpar o suficiente para remover acúmulo, sem arrasar o terreno.</p>
-
-<h2>O que isso significa para o Head Spa</h2>
-<p>É um argumento a favor do protocolo bem conduzido, com uma ressalva importante sobre o que ainda não se sabe.</p>
-<p>A favor: remover sebo oxidado e resíduo acumulado reduz o substrato do ciclo inflamatório. E o protocolo japonês trabalha com limpeza eficaz sem remoção total da barreira lipídica — mais alinhado com a lógica de equilíbrio do que com a de esterilização.</p>
-<p>A ressalva: <strong>não existe, até onde a literatura mostra, demonstração direta de que uma sessão de Head Spa reequilibre o microbioma de forma mensurável e duradoura</strong>. O raciocínio é plausível e coerente com o que se sabe, mas plausibilidade não é evidência. Quem afirma que o tratamento "restaura o microbioma" está indo além do que os dados sustentam hoje.</p>
-
-<h2>Para onde a pesquisa aponta</h2>
-<p>Há linhas de investigação promissoras: probióticos e prebióticos tópicos para couro cabeludo, formulações que preservam a comunidade em vez de eliminá-la, e diagnóstico do perfil microbiano como ferramenta clínica. Estudos recentes também exploram associações entre padrões de microbioma e alopecia androgenética, embora ainda em estágio inicial.</p>
-<p>Nada disso está pronto para virar promessa de balcão. Mas indica que o cuidado capilar está migrando de uma lógica de combate para uma de manejo — o que, para quem cuida do couro cabeludo profissionalmente, é uma mudança de mentalidade que vale acompanhar.</p>
-
-<p><em>Este texto é informativo e não substitui avaliação médica. Descamação persistente, vermelhidão intensa ou queda de cabelo pedem consulta com dermatologista.</em></p>
-"""
-},
-{
- "slug": "como-escolher-espaco-head-spa",
- "cat": "dicas",
- "title": "Como escolher um espaço de Head Spa: 8 sinais de qualidade",
- "excerpt": "Com a procura crescendo, muita coisa é vendida como Head Spa sem ser. O que observar antes de marcar e o que deve acender alerta.",
- "date": "29 de julho de 2026",
- "sources": [("Japan Head Spa - O tratamento em saloes", "https://japan-headspa.com/en/blogs/infos/head-spa-cheveux")],
- "body": """
-<p>Quando um serviço vira tendência, o nome dele passa a ser usado para coisas bem diferentes entre si. Já se vê "Head Spa" descrevendo desde protocolos completos de 90 minutos até uma lavagem com dez minutos de massagem. Os dois custam caro; só um entrega a experiência.</p>
-<p>Abaixo, o que observar antes de marcar.</p>
-
-<h2>1. Existe diagnóstico antes do tratamento</h2>
-<p>Um bom atendimento começa com alguém olhando seu couro cabeludo e perguntando sobre sua rotina, seus produtos, sua frequência de lavagem e suas queixas. Espaços mais equipados usam microcâmera com ampliação e mostram a imagem na tela.</p>
-<p>Se o protocolo é idêntico para todo mundo, não é tratamento — é procedimento padronizado.</p>
-
-<h2>2. A duração é compatível</h2>
-<p>O protocolo japonês completo leva de 60 a 90 minutos. Existem versões curtas legítimas, de 30 a 40 minutos, desde que vendidas como o que são. Desconfie de "Head Spa completo" em 20 minutos: não cabe diagnóstico, limpeza profunda, vapor, massagem e tratamento nesse tempo.</p>
-
-<h2>3. A posição é confortável de verdade</h2>
-<p>Esse é o detalhe que mais separa um espaço bom de um improvisado. O padrão de referência permite ficar deitado, com apoio cervical adequado, e não sentado com o pescoço dobrado para trás na cadeira de lavagem comum.</p>
-<p>Pescoço mal apoiado por uma hora anula o relaxamento que você foi buscar.</p>
-
-<h2>4. A temperatura da água é controlada</h2>
-<p>Pergunte se há controle termostático. O protocolo alterna temperaturas, e variação descontrolada além de desconfortável agride o couro cabeludo. Água muito quente estimula produção de sebo — o oposto do objetivo.</p>
-
-<h2>5. O ambiente foi pensado</h2>
-<p>Iluminação regulável e indireta, isolamento acústico razoável, temperatura ambiente confortável. Quem está deitado com a cabeça na água sente frio rápido.</p>
-<p>Um espaço tecnicamente bem equipado mas barulhento, com luz fria e movimento de gente ao redor, entrega uma experiência muito abaixo do que o equipamento permitiria.</p>
-
-<h2>6. O profissional tem formação específica</h2>
-<p>Pergunte sem constrangimento onde a pessoa se formou e há quanto tempo trabalha com isso. Head Spa exige técnica de massagem, conhecimento de anatomia do couro cabeludo e leitura de condições dermatológicas básicas — para saber, inclusive, quando não atender.</p>
-<p>Um bom profissional sabe reconhecer o que foge da alçada dele.</p>
-
-<h2>7. Sabem dizer o que não fazem</h2>
-<p>Este é, na minha leitura, o sinal mais confiável de todos.</p>
-<p>Um espaço sério diz com clareza que Head Spa não trata alopecia, não cura dermatite seborreica, não reverte calvície e não substitui dermatologista. Quem promete crescimento capilar, cura de caspa ou solução para queda está vendendo além do que o serviço entrega.</p>
-<p>Desconfie especialmente de "antes e depois" mostrando cabelo mais denso após uma sessão. Não existe mecanismo biológico para isso.</p>
-
-<h2>8. O preço é coerente e transparente</h2>
-<p>Head Spa bem feito não é barato: envolve tempo longo de profissional, estrutura e formação. Preço muito abaixo do mercado geralmente significa protocolo encurtado.</p>
-<p>Por outro lado, preço alto não garante qualidade. Peça a descrição do que está incluído, etapa por etapa, e compare com os itens acima.</p>
-
-<h2>Perguntas para fazer ao marcar</h2>
-<ul>
-<li>Quanto tempo dura o atendimento completo?</li>
-<li>Tem avaliação do couro cabeludo antes?</li>
-<li>Fico deitado ou sentado?</li>
-<li>Quais etapas estão incluídas?</li>
-<li>Qual a formação do profissional que vai me atender?</li>
-<li>Com que frequência vocês recomendam repetir?</li>
-</ul>
-<p>Respostas vagas a perguntas objetivas dizem bastante.</p>
-
-<h2>Antes de ir</h2>
-<p>Se você tem alguma condição no couro cabeludo — descamação intensa, feridas, psoríase, dermatite diagnosticada — avise ao marcar e, idealmente, converse antes com seu dermatologista. Em algumas situações o tratamento deve ser adiado ou adaptado, e um profissional responsável vai preferir saber disso antes de você chegar.</p>
-"""
-},
-{
- "slug": "head-spa-cabelos-cacheados-crespos",
- "cat": "dicas",
- "title": "Head Spa em cabelos cacheados e crespos: o que muda no protocolo",
- "excerpt": "Curvatura alta, couro cabeludo mais seco e manipulação diferente. Por que o protocolo padrão precisa de ajustes e quais são eles.",
- "date": "29 de julho de 2026",
- "sources": [("Vichy - Massagem capilar", "https://www.vichy.pt/conselhos-de-especialista/couro-cabeludo/massagem-capilar")],
- "body": """
-<p>O protocolo de Head Spa foi desenvolvido no Japão, num contexto em que o cabelo predominante é liso e de fio fino. Aplicado sem adaptação em cabelos cacheados e crespos, ele funciona de forma parcial e pode até atrapalhar. As diferenças não são cosméticas — são estruturais.</p>
-
-<h2>Por que o cabelo com curvatura muda o cálculo</h2>
-<p>Duas características importam aqui.</p>
-<p><strong>O sebo tem dificuldade para descer pelo fio.</strong> Em cabelo liso, o sebo produzido na raiz percorre o comprimento e lubrifica naturalmente. Quanto maior a curvatura, mais difícil essa distribuição. O resultado é uma combinação frequente: raiz que pode ser oleosa e comprimento ressecado ao mesmo tempo.</p>
-<p><strong>A cutícula fica mais exposta nas curvas.</strong> Nos pontos de dobra do fio, as escamas da cutícula se abrem mais, o que torna o cabelo mais permeável e mais vulnerável ao atrito.</p>
-<p>Some a isso o fato de que muita gente com cabelo cacheado ou crespo espaça as lavagens e usa produtos com maior carga de manteigas, óleos e silicones — o que significa mais resíduo acumulado no couro cabeludo.</p>
-
-<h2>O que precisa mudar</h2>
-
-<h2>Desembaraço antes de tudo</h2>
-<p>No protocolo padrão, a escovação a seco inicial é rápida. Aqui ela é etapa crítica e leva mais tempo. Cabelo com curvatura desembaraçado a seco de forma inadequada quebra.</p>
-<p>O correto é fazer com o cabelo levemente umedecido ou com um creme de desembaraço, sempre das pontas para a raiz, em seções, com pente de dentes largos ou com os dedos. Nunca escova de cerdas finas em cabelo crespo seco.</p>
-
-<h2>Limpeza profunda com mais frequência, mas seletiva</h2>
-<p>O acúmulo de resíduo é maior, então a esfoliação e o shampoo de limpeza profunda são mais necessários — porém restritos ao couro cabeludo. O comprimento não precisa e não deve receber a mesma agressividade.</p>
-<p>Na prática: produto de limpeza profunda só na raiz, massageado com as pontas dos dedos; no enxágue, deixe a espuma escorrer pelo comprimento, o que já é suficiente.</p>
-
-<h2>Massagem sem embaraçar</h2>
-<p>Aqui está o ajuste técnico mais importante. A massagem circular clássica, feita com o cabelo solto, embaraça o cacho e cria nós que só saem com quebra.</p>
-<p>A adaptação é trabalhar em seções, com o cabelo dividido, e usar movimentos que deslocam a pele sem girar o fio: pressão estática mantida por alguns segundos, pinçamento suave da pele, e deslizamento curto no sentido do couro cabeludo. O benefício circulatório se mantém; o dano mecânico não acontece.</p>
-
-<h2>Hidratação e vapor ganham peso</h2>
-<p>Como o comprimento tende a ser mais seco, a etapa de hidratação merece mais tempo e produto. O vapor ajuda bastante nesse tipo de cabelo, favorecendo a penetração dos ativos.</p>
-
-<h2>Finalização faz parte do serviço</h2>
-<p>Num protocolo padrão, secar é detalhe. Em cabelo cacheado ou crespo, finalizar errado desmancha o resultado de uma hora de trabalho. Vale combinar antes: definição com leave-in e creme, difusor em temperatura média, ou secagem natural — mas isso precisa estar previsto no atendimento, não improvisado no fim.</p>
-
-<h2>Erros comuns em espaços não preparados</h2>
-<ul>
-<li>Escovar o cabelo seco com escova de cerdas finas.</li>
-<li>Fazer massagem circular com o cabelo solto.</li>
-<li>Aplicar limpeza profunda em todo o comprimento.</li>
-<li>Enrolar a toalha e esfregar em vez de pressionar.</li>
-<li>Entregar o cabelo molhado sem finalização combinada.</li>
-</ul>
-
-<h2>O que perguntar ao marcar</h2>
-<p>Pergunte diretamente se o espaço atende cabelo com curvatura e como adaptam o protocolo. Uma resposta boa menciona trabalho em seções, cuidado no desembaraço e finalização. Uma resposta genérica do tipo "atendemos todos os tipos" sem detalhar geralmente significa que não há adaptação nenhuma.</p>
-
-<h2>Uma observação sobre expectativa</h2>
-<p>Head Spa cuida do couro cabeludo e proporciona relaxamento. Ele não altera a curvatura, não define cacho de forma duradoura e não recupera fio danificado por química ou calor — dano na fibra capilar não se reverte, se maneja até crescer. Quem tem couro cabeludo saudável e quer mantê-lo assim, além de relaxar, encontra valor real. Só não é tratamento reconstrutor.</p>
-
-<p><em>Este texto é informativo e não substitui avaliação médica. Queda acentuada, descamação persistente ou feridas no couro cabeludo pedem consulta com dermatologista.</em></p>
 """
 },
 ]
