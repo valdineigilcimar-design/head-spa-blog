@@ -5,6 +5,59 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "atrito-cabelo-pentear-dormir-fronha",
+ "cat": "dicas",
+ "title": "Atrito: o dano que quebra o cabelo sem ninguém perceber",
+ "excerpt": "Três homens chegaram ao consultório com fios quebrados e pontas brilhantes, e a causa estava no pente e no hábito de pentear 8 a 10 vezes por dia. Explicamos como o atrito destrói a cutícula, o que muda ao pentear e ao dormir, e por que quase toda a evidência sobre fronha de seda vem de quem vende fronha.",
+ "date": "16 de agosto de 2026",
+ "sources": [("International Journal of Trichology - Localised Acquired Trichorrhexis Nodosa of the Scalp Hair Induced by a Specific Comb and Combing Habit: A Report of Three Cases (Martin e Sugathan, 2011;3(1):34-37; PMID 21769235)", "https://pmc.ncbi.nlm.nih.gov/articles/PMC3129123/"), ("Cutis - Hair Weathering, Part 2: Clinical Features, Diagnosis, Prevention, and Treatment (2017)", "https://cdn.mdedge.com/files/s3fs-public/Document/September-2017/024120555.pdf"), ("PubMed - Cosmetic and medical causes of hair weathering (PMID 17147539)", "https://pubmed.ncbi.nlm.nih.gov/17147539/"), ("ISHRS - The Weathering of Hair: How Hair Damage Makes the Least of What You Have (Sociedade Internacional de Cirurgia de Restauracao Capilar)", "https://ishrs.org/the-weathering-of-hair-how-hair-damage-makes-the-least-of-what-you-have/"), ("ClinicalTrials.gov - Efficacy of Silk-Like Bedding Fabric Pillow Case in the Treatment of Acne Vulgaris (NCT00767104)", "https://clinicaltrials.gov/study/NCT00767104"), ("PMC - Hair Shaft Fracture in a Young Athlete: A Rare Case Report of Acquired Trichorrhexis Nodosa", "https://pmc.ncbi.nlm.nih.gov/articles/PMC11415140/"), ("American Academy of Dermatology - 10 hair-care habits that can damage your hair", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/habits-that-damage-hair")],
+ "body": """
+<p>O cabelo não avisa quando está sendo danificado. Não dói, não sangra. O fio fica áspero, embaraça mais a cada semana e um dia começa a partir no meio do comprimento. A dermatologia chama esse desgaste acumulado de <em>weathering</em>, e boa parte dele vem de uma fonte banal demais para levantar suspeita: o atrito da rotina.</p>
+
+<h2>O que o desgaste faz no fio</h2>
+<p>A <strong>cutícula</strong> é a camada externa do cabelo, escamas sobrepostas como telhas que protegem o <strong>córtex</strong>, o miolo que dá resistência. Conforme o fio cresce, essa cobertura se gasta — a ponta de um cabelo longo é queratina com anos de exposição acumulada.</p>
+<p>A revisão sobre weathering publicada na <em>Cutis</em> em 2017 descreve o que acontece quando esse desgaste é acelerado. A cutícula fica levantada e porosa, o córtex é exposto, e o fio perde brilho, elasticidade e resistência até quebrar. As formas clínicas têm nome próprio — tricorrexe nodosa, tricoptilose (as pontas duplas), <em>bubble hair</em> — e o que as une é o mecanismo: dano físico, químico ou térmico repetido no mesmo ponto.</p>
+
+<h2>Três casos, um pente</h2>
+<p>O exemplo mais concreto que localizamos é um relato de 2011 no <em>International Journal of Trichology</em>, de dermatologistas de Calicut, na Índia. Três homens — de 19, 28 e 35 anos — chegaram ao consultório com a mesma queixa: fios quebrados e pontinhos brancos brilhantes, sempre na mesma região da cabeça.</p>
+<p>Nenhum usava tintura, alisamento ou descoloração, e nenhum tinha doença sistêmica ou histórico familiar. O que os três compartilhavam era o pente — um modelo de plástico de cerdas curtas, verticais e enfileiradas — e o hábito de passá-lo com força da testa para a nuca, <strong>8 a 10 vezes por dia</strong>, para arrumar o cabelo. Ao microscópio, os fios mostravam a fratura clássica da tricorrexe nodosa: cutícula rompida e fibras do córtex se abrindo em leque, como duas escovas encostadas pelas cerdas.</p>
+<p>A conduta foi simples: trocar o pente por um de dentes longos e espaçados e usar condicionador ou óleo para reduzir o atrito. Vale a ressalva — <strong>são três casos, não um estudo</strong>: relato de caso não estabelece frequência nem risco populacional. O que ele demonstra bem, com microscopia, é o mecanismo.</p>
+
+<h2>Atrito quebra fio; não derruba cabelo</h2>
+<p>Essa distinção resolve metade da confusão. O folículo, que decide se o cabelo nasce ou cai, fica abaixo da pele — pente, fronha e toalha não chegam nele. O atrito atinge a haste, a parte já morta.</p>
+<p>Na prática dá para conferir: fio com as duas extremidades cortadas, sem o bulbo esbranquiçado na base, é quebra — e quebra melhora mudando ferramenta e técnica. Queda é outra pergunta, com outras causas.</p>
+
+<h2>Dormir: onde a evidência acaba e o marketing começa</h2>
+<p>A fronha de seda ou cetim virou consenso na internet, e o raciocínio é plausível: menos atrito durante o sono, menos frizz e menos quebra pela manhã. O problema aparece quando se procura o estudo.</p>
+<p>Procuramos, e o resultado é desanimador. Os números que circulam — 34% menos atrito, 47% menos frizz — aparecem quase só em páginas de lojas que vendem fronhas, sem referência rastreável a artigo publicado. O ensaio clínico registrado que encontramos sobre fronha de seda testou <strong>acne</strong>, não cabelo.</p>
+<p>Isso não torna a ideia errada — torna-a uma <strong>hipótese razoável e não testada</strong>. O mecanismo é coerente com o que se sabe sobre atrito, a intervenção é inofensiva e barata, e quem tem cabelo cacheado, crespo, longo ou quimicamente tratado provavelmente ganha algo. Só não é o que a propaganda promete: fronha nova não resolve quebra causada por química, calor ou penteado apertado. Touca de cetim e trança frouxa estão no mesmo patamar.</p>
+
+<h2>Como pentear sem quebrar</h2>
+<ul>
+<li><strong>Comece pelas pontas.</strong> Desembarace os últimos centímetros e vá subindo. Puxar da raiz empurra todos os nós para baixo e transforma vários nós pequenos em um grande.</li>
+<li><strong>Segure a mecha acima do nó.</strong> A tração para na sua mão, não no couro cabeludo.</li>
+<li><strong>Pente de dentes largos e lisos.</strong> Passe o dedo entre os dentes: se raspar em você, raspa no fio.</li>
+<li><strong>Respeite o estado do fio.</strong> Liso e ondulado quebram mais penteados encharcados — deixe secar um pouco. Cacheado e crespo pedem o inverso: desembaraçar úmido, com condicionador, no banho.</li>
+<li><strong>Use deslizante.</strong> Condicionador, leave-in ou um pouco de óleo reduzem o atrito. Foi a orientação dada aos três pacientes indianos.</li>
+<li><strong>Menos vezes.</strong> Pentear não estimula crescimento. Oito a dez passadas diárias foi o que quebrou o cabelo daqueles homens.</li>
+</ul>
+
+<h2>Os erros que mais custam caro</h2>
+<ul>
+<li><strong>Esfregar a toalha no cabelo molhado.</strong> É atrito máximo no momento de maior fragilidade. Envolva e pressione.</li>
+<li><strong>Coçar com a unha.</strong> Trauma mecânico repetido é causa reconhecida de quebra da haste, e a unha machuca a pele. Massageie com a polpa dos dedos.</li>
+<li><strong>Elástico com metal ou costura grossa, sempre na mesma altura.</strong> Concentra o atrito num ponto fixo, que é justamente onde o fio parte.</li>
+<li><strong>Dormir com o cabelo encharcado.</strong> Fio molhado é mais frágil, e o travesseiro soma horas de fricção.</li>
+<li><strong>Água muito quente no banho.</strong> Quem remove sebo é o tensoativo do shampoo, não a temperatura. Água quente resseca pele e fio, e fio ressecado quebra mais.</li>
+</ul>
+
+<h2>Quando não é atrito</h2>
+<p>Trocar pente, fronha e toalha resolve quebra. Não resolve — e não deve atrasar a investigação de — aumento de queda com bulbo na raiz, falhas localizadas, recuo da linha frontal, afinamento progressivo, descamação que não cede em quatro semanas, vermelhidão persistente, feridas ou dor. Fragilidade generalizada do fio também pode ter causa interna: o hipotireoidismo aparece na literatura associado à tricorrexe nodosa, e se diagnostica por exame de sangue, não no espelho.</p>
+<p>Se você ajustou a rotina por dois ou três meses e o cabelo continua partindo, ou se a quebra vem acompanhada de qualquer um dos sinais acima, o caminho é o <strong>dermatologista</strong> — o exame do fio ao microscópio é simples e costuma resolver a dúvida rápido.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "queda-sazonal-de-cabelo-hemisferio-sul",
  "cat": "noticias",
  "title": "Queda sazonal de cabelo: os estudos são reais, mas o calendário deles não é o nosso",
@@ -871,53 +924,6 @@ ARTICLES = [
 <p>Para a maioria das pessoas, a avaliação do dermatologista na consulta anual dá conta. Quem tem pele e olhos claros, histórico pessoal ou familiar de câncer de pele, ou já teve queratose actínica — aquelas lesões áspera e avermelhadas — deve ir com mais frequência, na periodicidade que o médico indicar.</p>
 
 <p><em>Este texto é informativo e não substitui avaliação médica. Qualquer lesão nova ou em mudança no couro cabeludo pede consulta com dermatologista.</em></p>
-"""
-},
-{
- "slug": "caspa-dermatite-seborreica-limites-head-spa",
- "cat": "beneficios",
- "title": "Caspa e dermatite seborreica: o que o Head Spa resolve e o que exige dermatologista",
- "excerpt": "Nem toda descamação é caspa comum. Entenda a diferença, o que o tratamento estético alcança e qual é o momento de procurar um médico.",
- "date": "29 de julho de 2026",
- "sources": [("Manuais MSD - Dermatite seborreica", "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-dermatol%C3%B3gicos/dermatite/dermatite-seborreica"), ("MD.Saude - Caspa", "https://www.mdsaude.com/dermatologia/caspa/")],
- "body": """
-<p>Descamação no couro cabeludo é uma das queixas mais comuns em qualquer salão, e tambem uma das mais mal compreendidas. Boa parte das pessoas trata tudo como "caspa" e parte para o shampoo anticaspa mais forte da prateleira. Às vezes funciona. Outras vezes o problema é outro, e insistir atrasa o tratamento certo.</p>
-
-<h2>Caspa comum e dermatite seborreica não são a mesma coisa</h2>
-<p>A distinção importa e é razoavelmente simples de observar.</p>
-<p><strong>Caspa comum</strong> costuma se limitar ao couro cabeludo, com escamas finas e esbranquiçadas, soltas, sem vermelhidão significativa da pele por baixo. Incomoda pela aparência e por alguma coceira, mas a pele em si parece normal.</p>
-<p><strong>Dermatite seborreica</strong> apresenta descamação mais espessa, muitas vezes amarelada e de aspecto oleoso, sobre placas avermelhadas de contorno definido. E raramente fica só no couro cabeludo: aparece também nas sobrancelhas, nas laterais do nariz, atrás das orelhas. É uma inflamação crônica, com períodos de melhora e piora.</p>
-
-<h2>O que está por trás</h2>
-<p>Nos dois casos há um personagem em comum: o fungo <em>Malassezia</em>, que vive naturalmente na pele de praticamente todo mundo e se alimenta do sebo. Ele não é um invasor — faz parte do ecossistema normal do couro cabeludo.</p>
-<p>O problema surge do metabolismo dele. A <em>Malassezia</em> processa o sebo e gera subprodutos que irritam as células da epiderme em pessoas suscetíveis. Isso acelera a renovação celular, e o resultado visível são as escamas. Por isso a mesma quantidade de fungo causa sintoma em uma pessoa e nenhum em outra: a diferença está na reatividade individual, não na presença do micro-organismo.</p>
-
-<h2>O que o Head Spa pode fazer</h2>
-<p>Dentro do campo estético, o tratamento tem contribuições reais.</p>
-<p><strong>Remover o acúmulo.</strong> Sebo oxidado, células mortas e resíduo de produto formam uma camada que alimenta o ciclo. A limpeza profunda e a esfoliação removem isso melhor do que a lavagem doméstica comum.</p>
-<p><strong>Equilibrar a oleosidade.</strong> Muita gente com couro cabeludo oleoso o agride com lavagens agressivas demais, provocando produção compensatória de sebo. Um protocolo que limpa sem destruir a barreira lipídica tende a normalizar isso ao longo de algumas sessões.</p>
-<p><strong>Melhorar a absorção de ativos.</strong> Com o couro cabeludo limpo, o tônico ou tratamento aplicado em seguida penetra melhor.</p>
-<p><strong>Reduzir o coçar.</strong> Parte do dano em quadros de descamação vem do trauma mecânico de coçar. Aliviar a coceira interrompe esse ciclo.</p>
-
-<h2>O que o Head Spa não faz</h2>
-<p>Aqui é preciso ser direto, porque há muita promessa exagerada circulando.</p>
-<p>Head Spa <strong>não trata dermatite seborreica</strong>. É uma condição inflamatória crônica, e o manejo baseado em evidência envolve medicação tópica: antifúngicos como cetoconazol ou ciclopirox, ceratolíticos como ácido salicílico, e em alguns casos corticoides de baixa potência — sempre com orientação médica. Protocolos indicam que os xampus antifúngicos precisam ser usados com regularidade, no mínimo duas vezes por semana, porque lavagens espaçadas não contêm a proliferação do fungo.</p>
-<p>Um Head Spa mensal não substitui isso. Pode complementar, tornando o couro cabeludo mais receptivo ao tratamento — mas o tratamento é medicamentoso.</p>
-
-<h2>Quando procurar um dermatologista</h2>
-<p>Procure avaliação médica se houver:</p>
-<ul>
-<li>descamação que não melhora após quatro semanas de xampu específico;</li>
-<li>vermelhidão intensa, placas bem delimitadas ou pele espessada;</li>
-<li>feridas, crostas, sangramento ou sinais de infecção;</li>
-<li>queda de cabelo associada à descamação;</li>
-<li>coceira que atrapalha o sono;</li>
-<li>lesões parecidas no rosto, orelhas ou peito.</li>
-</ul>
-<p>Vale dizer que descamação persistente pode ter outras causas além da dermatite seborreica — psoríase do couro cabeludo, dermatite de contato a algum produto, e infecções fúngicas de outro tipo, entre outras. Diferenciar exige exame clínico, e às vezes exame complementar. Não é algo que se resolva por foto ou por descrição.</p>
-
-<h2>A leitura honesta</h2>
-<p>Para quem tem caspa leve e ocasional, o Head Spa somado a uma rotina adequada resolve bem. Para quem tem dermatite seborreica, ele é um complemento agradável e útil a um tratamento que precisa ser conduzido por médico. Confundir os dois cenários é o que faz a pessoa gastar tempo e dinheiro em algo que, sozinho, não vai resolver o problema dela.</p>
 """
 },
 ]
