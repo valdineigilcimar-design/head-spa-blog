@@ -5,6 +5,51 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "microbioma-couro-cabeludo-caspa-evidencia",
+ "cat": "noticias",
+ "title": "Microbioma do couro cabeludo: o que a ciência já mostrou sobre a caspa — e o que os rótulos \"probióticos\" ainda não podem prometer",
+ "excerpt": "A caspa deixou de ser explicada como um fungo isolado e passou a ser lida como um desequilíbrio de comunidade — e a revisão sistemática que consolidou isso encontrou um padrão bacteriano que quase ninguém menciona. Explicamos o que a evidência sustenta, por que o mercado de cosméticos \"para o microbioma\" corre na frente dos dados e o que continua funcionando enquanto isso.",
+ "date": "17 de agosto de 2026",
+ "sources": [("Experimental Dermatology - Skin microbiome alterations in seborrheic dermatitis and dandruff: A systematic review (Tao, Li e Wang, 2021;30(10):1546-1553)", "https://onlinelibrary.wiley.com/doi/10.1111/exd.14450"), ("Scientific Reports - Longitudinal study of the scalp microbiome suggests coconut oil to enrich healthy scalp commensals (Saxena et al., 2021;11:7220)", "https://www.nature.com/articles/s41598-021-86454-1"), ("PLOS One - The diversity and abundance of fungi and bacteria on the healthy and dandruff affected human scalp (2019)", "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0225796"), ("Molecules - Advances in Scalp Microbiome Research: Molecular Insights into the Metabolism-Inflammation-Barrier Axis and Dandruff Pathogenesis (2026;31(12):2093)", "https://www.mdpi.com/1420-3049/31/12/2093"), ("Frontiers in Microbiology - Dysbiosis and genomic plasticity in the oily scalp microbiome: a multi-omics analysis of dandruff pathogenesis (2025)", "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1595030/full"), ("PMC - Topical Probiotics as a Novel Approach in the Treatment of Chronic Dermatoses Associated with Skin Dysbiosis: A Narrative Review", "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12563256/"), ("American Academy of Dermatology - Seborrheic dermatitis: Diagnosis and treatment (atualizado em 14/05/2024)", "https://www.aad.org/public/diseases/a-z/seborrheic-dermatitis-treatment")],
+ "body": """
+<p>Durante décadas a explicação da caspa coube numa frase: existe um fungo no couro cabeludo, ele cresce demais, a pele descama. O nome do fungo — <em>Malassezia</em> — virou sinônimo do problema, e a conduta seguiu a mesma lógica: mate o fungo. A pesquisa recente não derrubou essa história, mas mostrou que ela é curta demais.</p>
+
+<h2>O que vive no seu couro cabeludo</h2>
+<p>O couro cabeludo é uma das regiões mais oleosas do corpo, e isso define quem mora nele. A comunidade é dominada por poucos personagens: entre os fungos, <em>Malassezia restricta</em> e <em>Malassezia globosa</em>; entre as bactérias, <em>Cutibacterium acnes</em> e espécies de <em>Staphylococcus</em>. Nenhum é invasor — todos são moradores permanentes de qualquer cabeça, com ou sem caspa.</p>
+<p>A <em>Malassezia</em> não produz os próprios lipídios e depende do sebo humano. Ela o quebra com enzimas e libera ácidos graxos livres, alguns irritantes. Daí o mecanismo clássico da caspa: não é o fungo que descama, é a reação da pele ao que ele deixa para trás.</p>
+
+<h2>A revisão que mudou a pergunta</h2>
+<p>Em 2021, Ran Tao, Ruoyu Li e Ruojun Wang publicaram na <em>Experimental Dermatology</em> uma revisão sistemática do microbioma na dermatite seborreica e na caspa: <strong>12 estudos, 706 amostras de pele afetada e 379 de pele saudável</strong>. O achado mais citado é o que se esperava — a razão entre <em>M. restricta</em> e <em>M. globosa</em> aumenta em quem tem o quadro.</p>
+<p>O segundo achado quase nunca aparece na conversa popular: também caiu a razão entre <strong>Cutibacterium e Staphylococcus</strong>. Ou seja, quem tem caspa não tem só mais fungo — tem menos de uma bactéria associada ao couro cabeludo saudável e mais de outra. Análises posteriores, com sequenciamento mais fino, apontam na mesma direção e sugerem que a gravidade da descamação acompanha essas proporções.</p>
+<p>Isso deslocou o vocabulário. A literatura recente descreve a caspa menos como "infecção" e mais como <strong>disbiose funcional</strong> — um desequilíbrio de comunidade que envolve metabolismo de lipídios, inflamação e barreira cutânea ao mesmo tempo. Uma revisão publicada este ano na <em>Molecules</em> organiza esse eixo.</p>
+
+<h2>O tamanho honesto dessa evidência</h2>
+<p>Vale frear aqui, porque o entusiasmo com microbioma costuma correr solto. Praticamente tudo o que existe é <strong>observacional e transversal</strong>: comparações entre pessoas com e sem caspa, num momento único. Correlação não diz direção: é plenamente possível que a mudança bacteriana seja consequência da inflamação, não a causa dela.</p>
+<p>Vale registrar também que boa parte dessa pesquisa é financiada por grandes empresas de cosméticos — o que não invalida os dados, mas explica por que a agenda avança mais rápido no marketing do que na clínica.</p>
+
+<h2>Onde existe algo mais próximo de um teste</h2>
+<p>Um estudo longitudinal publicado na <em>Scientific Reports</em> em 2021 chega mais perto de um experimento. Pesquisadores acompanharam <strong>140 mulheres indianas</strong> — 70 com couro cabeludo saudável e 70 com caspa — por 16 semanas, com 12 semanas de aplicação de óleo de coco e formulações derivadas e 4 semanas de acompanhamento, gerando cerca de 900 amostras metagenômicas. Após o tratamento, houve aumento de <em>Cutibacterium acnes</em> e <em>Malassezia globosa</em> no couro cabeludo com caspa, e esse aumento se correlacionou negativamente com os parâmetros da condição.</p>
+<p>É um desenho bem melhor que uma foto única no tempo. Ainda assim: população específica, prática cultural específica, e o desfecho principal é composição microbiana, não cura clínica. Não é base para dizer que óleo de coco resolve caspa — e a orientação dermatológica segue cautelosa quanto a aplicar óleo direto no couro cabeludo de quem já tem oleosidade ou dermatite seborreica.</p>
+
+<h2>Os produtos "para o microbioma" e o que eles ainda não provaram</h2>
+<p>A prateleira já se reorganizou em torno da palavra: shampoos "probióticos", séruns "pré-bióticos", sprays "pós-bióticos". A distância entre a promessa e o dado é grande.</p>
+<ul>
+<li><strong>Probiótico de verdade significa micro-organismo vivo.</strong> Manter bactéria viável num shampoo que fica dois minutos na cabeça e vai embora no enxágue é problema de formulação não resolvido.</li>
+<li><strong>Revisões da área são consistentes no diagnóstico:</strong> amostras pequenas, metodologia heterogênea, ausência de dosagem padronizada e poucos dados de segurança a longo prazo. Promissor não é o mesmo que demonstrado.</li>
+<li><strong>"Equilibrar o microbioma" não tem definição operacional.</strong> Não existe alvo numérico de referência para couro cabeludo saudável — o que torna a frase impossível de verificar, e por isso tão conveniente no rótulo.</li>
+</ul>
+<p>Nada disso torna a linha de pesquisa irrelevante — é provável que daqui a alguns anos existam intervenções microbianas úteis. Só que "provável no futuro" não é o que a embalagem sugere hoje.</p>
+
+<h2>O que continua funcionando enquanto isso</h2>
+<p>Enquanto o campo amadurece, o que tem eficácia estabelecida segue sendo o arsenal antigo. A Academia Americana de Dermatologia registra que shampoos anticaspa tratam quadros leves a moderados de dermatite seborreica no couro cabeludo, e que ingredientes diferentes atuam de formas diferentes — parte controla o crescimento do fungo, parte reduz a escama. Dois detalhes práticos costumam ser ignorados: <strong>deixar o produto agir pelo tempo indicado</strong>, em vez de enxaguar na hora, e ajustar a frequência ao tipo de cabelo — liso ou ondulado tolera duas a três vezes por semana; cacheado ou crespo, em geral uma. E o tratamento não termina quando some a descamação: manter uma lavagem semanal é o que segura a recidiva.</p>
+<p>Sobre o Head Spa, o limite é o de sempre: limpeza cuidadosa e massagem ajudam a remover excesso de sebo e resíduo, mas <strong>não tratam dermatite seborreica</strong> e não "reequilibram" microbioma nenhum. Quem tem quadro ativo precisa do produto medicamentoso, não de sessão.</p>
+
+<h2>Quando procurar dermatologista</h2>
+<p>Descamação que não cede em quatro semanas de shampoo anticaspa, vermelhidão persistente, placas bem delimitadas, feridas, crostas, pústulas, dor, coceira que atrapalha o sono ou queda nas áreas afetadas não são caso de trocar de prateleira. Dermatite seborreica, psoríase, dermatite de contato e infecções fúngicas verdadeiras se parecem entre si para quem olha de fora e têm condutas distintas — e existem opções de prescrição quando o produto de farmácia não resolve.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "atrito-cabelo-pentear-dormir-fronha",
  "cat": "dicas",
  "title": "Atrito: o dano que quebra o cabelo sem ninguém perceber",
@@ -879,51 +924,6 @@ ARTICLES = [
 <p>Perda progressiva de densidade, recuo da linha frontal ou afinamento visível dos fios são assunto de dermatologista. Existem tratamentos com evidência em humanos, e existem distinções diagnósticas — androgenética, eflúvio telógeno, causas autoimunes, alopecias cicatriciais — que mudam completamente a conduta. Nenhuma delas se resolve por artigo de blog.</p>
 
 <p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
-"""
-},
-{
- "slug": "protecao-solar-couro-cabeludo",
- "cat": "dicas",
- "title": "Sol no couro cabeludo: o dano que fica escondido debaixo do cabelo",
- "excerpt": "O cabelo protege menos do que se imagina, e lesão nessa região demora a ser vista. O que dermatologistas recomendam e por que quem trabalha com couro cabeludo tem papel nisso.",
- "date": "30 de julho de 2026",
- "sources": [("CNN Brasil / Agência Einstein - Câncer de pele no couro cabeludo", "https://www.cnnbrasil.com.br/saude/cancer-de-pele-no-couro-cabeludo-conheca-os-cuidados-para-se-proteger/"), ("GoodRx Health - Protect your scalp from the sun (rev. Mandy Armitage, MD)", "https://www.goodrx.com/health-topic/dermatology/how-to-protect-scalp-from-sun")],
- "body": """
-<p>Passa protetor no rosto, no colo, nos braços. E na cabeça? A maioria das pessoas nunca pensou nisso — e a lógica parece razoável: o cabelo cobre. Cobre em parte. O suficiente para criar uma falsa sensação de segurança numa região que, além de exposta, é das mais difíceis de examinar.</p>
-
-<h2>O cabelo protege, mas menos do que se imagina</h2>
-<p>A camada superficial do couro cabeludo é pele, ainda que um pouco mais espessa. Queima como qualquer outra.</p>
-<p>Os fios funcionam como um escudo parcial, e essa proteção varia muito. Ela é bem menor em quem tem cabelo ralo, em quem é calvo e em quem tem fios claros. E mesmo com cabelo abundante existe um ponto vulnerável que quase ninguém protege: <strong>a linha da repartição</strong>. Ali a pele fica diretamente exposta.</p>
-<p>Some a isso a posição anatômica. O topo da cabeça recebe sol mais perpendicular do que quase qualquer outra parte do corpo ao longo do dia.</p>
-
-<h2>Por que essa região merece atenção específica</h2>
-<p>O problema maior não é a queimadura em si, e sim o atraso. Uma mancha no braço é notada quando muda de tamanho, forma ou cor. Escondida por fios, pode passar muito tempo sem ser vista — e tumores de pele no couro cabeludo costumam ser diagnosticados tarde, o que reduz a perspectiva de cura.</p>
-<p>Para dimensionar: o câncer de pele não melanoma é o de maior incidência no Brasil, com 31,3% dos novos casos estimados para o triênio 2023–2025, segundo o Instituto Nacional do Câncer.</p>
-<p>Dermatologistas apontam outros dois fatores nessa região. Ela é bastante vascularizada, o que facilita disseminação. E as pintas ali sofrem atrito constante ao lavar, escovar e manipular o cabelo — atrito que, segundo observação clínica, pode favorecer a transformação em lesões pré-cancerosas. Vale registrar que esse último ponto é leitura de especialistas, não número saído de estudo controlado.</p>
-
-<h2>Como se proteger, na prática</h2>
-<p>Chapéu ou boné resolve boa parte, e melhor ainda se o tecido tiver proteção UV. Tramas frouxas — palha, tela de boné trucker — protegem menos; tecidos sintéticos e cores escuras protegem mais.</p>
-<p>Para quem tem pouco ou nenhum cabelo, a recomendação é protetor solar em spray com <strong>FPS 30 no mínimo e PPD 10</strong>, reaplicado a cada duas horas. Pele e olhos claros se beneficiam de FPS 50 ou mais.</p>
-<p>Para quem tem cabelo abundante, existem loções e leave-ins com proteção solar. Bastão de protetor funciona bem especificamente na repartição e na linha do cabelo. Protetor em pó é prático pelo aplicador, mas costuma dar cobertura fraca e não resiste à água — serve para retoque, não como proteção principal.</p>
-<p>Sobre frequência: quem trabalha ao ar livre, dirige muito ou passa o dia na rua precisa desse cuidado diariamente. Quem fica em ambiente fechado e tem cabelo grosso cobrindo todo o couro cabeludo só precisa se preocupar em exposição intensa.</p>
-<p>Duas medidas simples fecham a conta: evitar sol entre 10h e 16h e escolher penteados que não deixem uma repartição exposta.</p>
-
-<h2>Queimou. O que esperar</h2>
-<p>Os sintomas aparecem em 4 a 6 horas: formigamento, dor, vermelhidão, calor. Pioram por 1 a 3 dias e melhoram ao longo de uma a duas semanas.</p>
-<p>Um detalhe que confunde muita gente: ao cicatrizar, a pele queimada descama e produz escamas parecidas com caspa. <strong>Xampu anticaspa não ajuda nesse caso e pode piorar a descamação.</strong> É queimadura resolvendo, não fungo.</p>
-<p>Sinais que pedem atendimento médico imediato: bolhas, inchaço do couro cabeludo, náusea ou vômito, dor de cabeça, febre e calafrios.</p>
-<p>Existem relatos de queda temporária de cabelo após queimadura solar grave no couro cabeludo, mas é preciso ser honesto sobre o peso disso: são relatos antigos, em contexto específico de pessoas em uso de tratamento tópico na região. Não é base para dizer que sol causa queda de cabelo de forma geral.</p>
-
-<h2>Quem trabalha com couro cabeludo tem um papel aqui</h2>
-<p>Este é o ponto que interessa a quem atua na área. Dermatologistas sugerem explicitamente que o cabeleireiro pode ajudar: ele olha aquela região com regularidade que ninguém mais tem, nem o próprio cliente.</p>
-<p>Num Head Spa isso vale ainda mais. O profissional passa quase uma hora com as mãos e os olhos no couro cabeludo, muitas vezes com microcâmera. Não é papel dele diagnosticar nada — mas é perfeitamente cabível dizer: <em>isso aqui mudou desde a última vez, vale mostrar a um dermatologista</em>.</p>
-<p>O que observar: ferida que não cicatriza, área áspera e avermelhada com crosta, pinta que mudou de tamanho, forma ou cor, e sangramento sem causa clara.</p>
-<p>E o limite do serviço, dito sem rodeio: Head Spa não desfaz dano solar acumulado. Não existe protocolo estético que reverta o que a radiação já fez. Vender isso como recuperação de dano solar é promessa vazia.</p>
-
-<h2>Uma rotina de checagem</h2>
-<p>Para a maioria das pessoas, a avaliação do dermatologista na consulta anual dá conta. Quem tem pele e olhos claros, histórico pessoal ou familiar de câncer de pele, ou já teve queratose actínica — aquelas lesões áspera e avermelhadas — deve ir com mais frequência, na periodicidade que o médico indicar.</p>
-
-<p><em>Este texto é informativo e não substitui avaliação médica. Qualquer lesão nova ou em mudança no couro cabeludo pede consulta com dermatologista.</em></p>
 """
 },
 ]
