@@ -5,6 +5,61 @@ PUB = "ca-pub-1513334089874704"
 
 ARTICLES = [
 {
+ "slug": "protetor-solar-couro-cabeludo-como-aplicar",
+ "cat": "dicas",
+ "title": "Protetor solar no couro cabeludo: onde aplicar, com o quê e os erros que anulam a proteção",
+ "excerpt": "O cabelo funciona mesmo como filtro solar — só que com fator medido entre 5 e 17, e com falhas justamente na risca, nas orelhas e na nuca. Mostramos onde aplicar, como escolher o formato do produto e os erros que fazem a proteção não valer nada.",
+ "date": "17 de agosto de 2026",
+ "sources": [("Photochemistry and Photobiology - Solar Ultraviolet Protection Provided by Human Head Hair (Parisi et al., 2009;85(1):250-254)", "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1751-1097.2008.00428.x"), ("PubMed - Solar ultraviolet protection provided by human head hair (PMID 18764896)", "https://pubmed.ncbi.nlm.nih.gov/18764896/"), ("Journal of Clinical Medicine - Scalp Melanoma: A High-Risk Subset of Cutaneous Head and Neck Melanomas with Distinctive Clinicopathological Features (2023;12(24):7643)", "https://www.mdpi.com/2077-0383/12/24/7643"), ("Skin Cancer Foundation - Ask the Expert: How Can I Protect My Scalp Better? (com a dermatologista Dendy Engelman)", "https://www.skincancer.org/blog/ask-the-expert-how-can-i-protect-my-scalp-better/"), ("American Academy of Dermatology - Must-try summer hair care (com a dermatologista Farah Moustafa)", "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/summer-hair-care"), ("CNN Brasil / Agencia Einstein - Cancer de pele no couro cabeludo: conheca os cuidados para se proteger (com a dermatologista Claudia Marcal, da SBD, 12/12/2024)", "https://www.cnnbrasil.com.br/saude/cancer-de-pele-no-couro-cabeludo-conheca-os-cuidados-para-se-proteger/"), ("INCA - INCA estima 781 mil novos casos de cancer por ano no Brasil entre 2026 e 2028", "https://www.gov.br/inca/pt-br/assuntos/noticias/2026/inca-estima-781-mil-novos-casos-de-cancer-por-ano-no-brasil-entre-2026-e-2028")],
+ "body": """
+<p>Filtro solar no rosto virou hábito. No couro cabeludo, quase ninguém aplica — a justificativa é sempre a mesma: o cabelo já protege. Protege mesmo, só que menos do que a frase sugere e com falhas em lugares bem específicos.</p>
+
+<h2>Quanto o cabelo realmente filtra</h2>
+<p>Um estudo publicado em 2009 na <em>Photochemistry and Photobiology</em> mediu isso com dosimetria: o <strong>fator de proteção ultravioleta (UPF) do cabelo humano ficou entre cerca de 5 e 17</strong> a pleno sol, variando com o ângulo do sol e o comprimento dos fios. Mesmo com densidade capilar média houve exposição significativa do couro cabeludo — o que levou os autores a defender que o cabelo entre nas mensagens de prevenção de câncer de pele, sobretudo em quem tem alopecia.</p>
+<p>Um FPS 30 bem aplicado está em outra ordem de grandeza. E o número do cabelo não é uniforme: despenca onde a pele aparece — <strong>risca, linha frontal, entradas e áreas de rarefação</strong>. Ressalva: isso é medida física de radiação, não estudo clínico mostrando que filtro na cabeça reduz câncer.</p>
+
+<h2>Por que essa região é um ponto cego</h2>
+<p>O couro cabeludo junta três problemas: recebe sol o ano inteiro, fica escondido sob o cabelo e é difícil de examinar sozinho. O efeito aparece no atraso do diagnóstico.</p>
+<p>Um trabalho publicado em 2023 no <em>Journal of Clinical Medicine</em> comparou 152 casos de melanoma cutâneo de cabeça e pescoço em dois hospitais terciários — 35 deles (23%) no couro cabeludo. Os dessa região tinham <strong>espessura de Breslow mediana de 2,1 mm, contra 0,85 mm nos demais</strong>, taxa mitótica maior e mais risco de recidiva e de morte por melanoma. É série retrospectiva de dois centros, não estudo populacional: o que ela sustenta é que esse tumor costuma ser encontrado mais tarde, não que o couro cabeludo seja "mais canceroso".</p>
+<p>Contexto local: pela estimativa do INCA para 2026-2028, o câncer de pele não melanoma segue como o mais frequente no Brasil — alta incidência, baixa letalidade.</p>
+
+<h2>Quem precisa se preocupar mais</h2>
+<ul>
+<li><strong>Rarefação, entradas ou calvície.</strong> Sem a barreira dos fios, a pele fica exposta como qualquer outra — e sem o histórico de proteção que o rosto teve a vida toda.</li>
+<li><strong>Quem usa a mesma risca há anos.</strong> É sempre a mesma faixa de pele recebendo sol.</li>
+<li><strong>Fototipos claros</strong>, histórico de câncer de pele na família ou queratoses actínicas — aquelas lesões ásperas e avermelhadas que também surgem no couro cabeludo.</li>
+<li><strong>Quem trabalha ao ar livre ou dirige muito.</strong> Dermatologistas brasileiros colocam esse grupo na faixa de cuidado diário, não ocasional.</li>
+</ul>
+
+<h2>Como aplicar, na prática</h2>
+<p>A orientação da Skin Cancer Foundation, na voz da dermatologista Dendy Engelman, começa pelo que não é produto: <strong>um chapéu de aba larga com UPF 50+ é provavelmente a melhor proteção para o couro cabeludo</strong>. O filtro entra onde o chapéu não cobre.</p>
+<ul>
+<li><strong>Aplique com o cabelo seco.</strong> Segundo Engelman, filtro borrifado no cabelo úmido antes da escova é menos eficaz do que protetor passado depois de seco.</li>
+<li><strong>Cubra a risca, toda a linha frontal, as áreas de rarefação, as orelhas e a nuca.</strong> Orelha e nuca são as mais esquecidas — e seguem expostas mesmo com boné.</li>
+<li><strong>Escolha o formato pela textura, não pela promessa.</strong> Bastão espalha sem esbranquiçar o fio; spray cobre área grande; fórmulas minerais, com óxido de zinco ou dióxido de titânio, costumam ser mais bem toleradas por pele sensível. Prefira oil-free e resistente à água, para não escorrer nos olhos.</li>
+<li><strong>Quantidade e reaplicação.</strong> A recomendação da Sociedade Brasileira de Dermatologia divulgada na imprensa é spray com FPS mínimo 30 e PPD 10, reaplicado a cada duas horas; fototipos claros se beneficiam de FPS 50+. Camada fina não entrega o número do rótulo.</li>
+<li><strong>Sombra e horário continuam valendo.</strong> A Academia Americana de Dermatologia orienta evitar o pico de sol, em geral entre 10h e 14h.</li>
+</ul>
+
+<h2>Os erros que anulam a proteção</h2>
+<ul>
+<li><strong>Confundir leave-in com FPS e protetor de couro cabeludo.</strong> Um protege o fio, o outro protege a pele. Quem tem cabelo farto pode usar o primeiro; quem tem rarefação precisa do segundo.</li>
+<li><strong>Achar que boné resolve.</strong> Boné cobre o topo e deixa orelhas, nuca e laterais no sol.</li>
+<li><strong>Aplicar uma vez e esquecer.</strong> Suor, mar e piscina removem produto — nenhuma fórmula é à prova de água de verdade.</li>
+<li><strong>Insistir com filtro sobre couro cabeludo inflamado.</strong> Dermatite seborreica ativa, psoríase ou feridas podem piorar com o produto. Aí o chapéu resolve enquanto o quadro é tratado.</li>
+<li><strong>Nunca olhar.</strong> A Skin Cancer Foundation recomenda incluir o couro cabeludo no autoexame mensal: com espelho de mão, dividindo o cabelo em faixas, dá para ver quase tudo. O cabeleireiro também pode avisar quando algo muda.</li>
+</ul>
+
+<h2>O que o sol faz no fio, que é outro problema</h2>
+<p>Proteger a pele e proteger o cabelo são objetivos distintos. A radiação ultravioleta degrada a queratina e a melanina da haste, o que aparece como fio seco, quebradiço, sem brilho e com a cor alterada. Segundo a dermatologista Farah Moustafa, em material da Academia Americana de Dermatologia, cabelos loiros, claros ou grisalhos são mais suscetíveis — têm menos melanina para absorver a radiação. Na piscina o cloro soma outro mecanismo, dissolvendo os lipídios que revestem o fio; a orientação prática é touca, ou óleo e leave-in antes de entrar na água.</p>
+
+<h2>Quando procurar dermatologista</h2>
+<p>Lesão nova no couro cabeludo que cresça, mude de cor ou de forma, sangre, forme crosta ou não cicatrize em algumas semanas merece avaliação — inclusive aquela casquinha áspera que você só percebe pelo toque e que sempre volta. Vale o mesmo para manchas escuras assimétricas. <strong>Nada disso é diagnóstico de câncer</strong>, e a maior parte não é. Mas é aqui que o exame de quem entende resolve rápido o que o espelho não resolve.</p>
+<p>Um limite honesto sobre a nossa área: <strong>sessão de Head Spa não é rastreamento de câncer de pele</strong>. Oferece, no máximo, mais uma chance de alguém olhar de perto uma região que você não enxerga.</p>
+<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
+"""
+},
+{
  "slug": "microbioma-couro-cabeludo-caspa-evidencia",
  "cat": "noticias",
  "title": "Microbioma do couro cabeludo: o que a ciência já mostrou sobre a caspa — e o que os rótulos \"probióticos\" ainda não podem prometer",
@@ -882,46 +937,6 @@ ARTICLES = [
 <h2>O que observar entre uma sessão e outra</h2>
 <p>Vale ter no radar: coceira que atrapalha o sono, descamação que não cede em quatro semanas, feridas ou crostas que não cicatrizam, aumento visível de queda, e qualquer pinta no couro cabeludo que mude de tamanho, forma ou cor. Nenhum desses itens é assunto de salão — todos são de dermatologista.</p>
 <p>E a leitura honesta sobre o Head Spa: ele é manutenção agradável e limpeza bem feita, não tratamento clínico. O que sustenta o couro cabeludo saudável é o que você faz nos outros vinte e nove dias do mês.</p>
-
-<p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
-"""
-},
-{
- "slug": "envelhecimento-foliculo-pesquisa-2026",
- "cat": "noticias",
- "title": "Envelhecimento do folículo: o que a pesquisa de 2026 mudou no entendimento da queda",
- "excerpt": "Dois trabalhos publicados este ano deslocam o foco das células-tronco para o terreno onde elas vivem. Nenhum deles vira produto amanhã — e vale entender por quê.",
- "date": "30 de julho de 2026",
- "sources": [("Frontiers in Cell and Developmental Biology - Redes de colágeno e miniaturização folicular (2026)", "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2026.1824126/full"), ("Frontiers in Cell and Developmental Biology - Exossomos de células-tronco mesenquimais e COL17A1 (2026)", "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2026.1807877/full")],
- "body": """
-<p>A explicação padrão para a queda de cabelo com o tempo é conhecida: os folículos encolhem, produzem fios cada vez mais finos e, em algum ponto, param. O nome técnico disso é <strong>miniaturização folicular</strong>, e é um achado que aparece em várias formas de alopecia, não só na calvície de padrão masculino.</p>
-<p>O que mudou em 2026 não é o fenômeno — é a hipótese sobre a causa. Dois artigos publicados na <em>Frontiers in Cell and Developmental Biology</em> apontam para uma direção que vale acompanhar, com a ressalva importante de que nenhum dos dois muda o que existe na farmácia hoje.</p>
-
-<h2>A leitura que dominou o campo</h2>
-<p>Por muito tempo, a explicação corrente foi centrada nas células-tronco do folículo piloso. A ideia: elas se esgotam ou perdem função, e sem elas o folículo não se regenera.</p>
-<p>Uma peça central desse modelo é uma proteína chamada <strong>colágeno tipo XVII</strong>, ou COL17A1. Ela funciona como uma âncora: mantém as células-tronco fixadas à membrana basal, a estrutura que delimita o compartimento onde elas vivem. Quando o COL17A1 é degradado, as células perdem esse ponto de fixação, saem do folículo e acabam eliminadas pela superfície da pele. O folículo encolhe porque ficou sem quem o reconstrua.</p>
-
-<h2>A virada: do estoque para o terreno</h2>
-<p>Uma revisão publicada em maio deste ano propõe que essa leitura está incompleta. O argumento parte de uma observação incômoda: na alopecia androgenética humana, as populações de células-tronco muitas vezes <em>continuam detectáveis</em> pelos marcadores usuais — o que cai é a produção de células filhas capazes de se multiplicar e formar o fio.</p>
-<p>Ou seja: pode não ser um problema de estoque, mas de conversão. As células estão lá e não conseguem entrar em atividade.</p>
-<p>Os autores propõem então o conceito de <strong>identidade do nicho</strong>: tratar o ambiente ao redor do folículo como um conjunto de restrições estruturais e mecânicas mensuráveis, e não como cenário passivo. A rede de colágeno seria o eixo integrador desse ambiente. Cinco variáveis são listadas — integridade da membrana basal, aparatos de adesão e ancoragem, organização das fibrilas, ajustes mecânicos locais e as janelas de remodelamento ao longo do ciclo capilar.</p>
-<p>Três processos empurrariam essas variáveis na mesma direção ruim: remodelamento fibrótico influenciado por androgênios, inflamação crônica de baixo grau com degradação da matriz, e o endurecimento progressivo associado ao envelhecimento e à glicação. O resultado seria um folículo <em>travado</em> em estado de baixa produção — não morto, mas preso.</p>
-<p>Aqui cabe a ressalva mais importante deste texto: <strong>esse artigo é uma revisão, não um experimento</strong>. Os próprios autores escrevem no condicional — propõem, sugerem, postulam. É um arcabouço para orientar pesquisa futura e escolha de desfechos. Não é achado demonstrado.</p>
-
-<h2>O experimento com exossomos</h2>
-<p>O segundo trabalho, de abril, é pesquisa original e testou uma intervenção: exossomos derivados de células-tronco mesenquimais de cordão umbilical humano.</p>
-<p>Os números chamam atenção. Em células envelhecidas artificialmente, a proporção de células senescentes caiu de 67,5% para 21,4%. A expressão de COL17A1 subiu 2,67 vezes. Em folículos humanos cultivados fora do corpo, o alongamento aumentou 47,4%. E em camundongos, a cobertura de pelos chegou a 92,4%, contra 45,6% nos controles — acima do minoxidil, que ficou em 78,3%.</p>
-<p>O mecanismo proposto envolve um microRNA, o miR-21-5p, que bloqueia um antagonista da via Wnt e, por essa cadeia, aumenta o COL17A1.</p>
-<p>É empolgante e é <strong>cedo</strong>. Os testes foram feitos em cultura de células, em folículos humanos em cultura de órgão e em camundongos. <strong>Não houve ensaio clínico em pessoas.</strong> O dado de "superou o minoxidil" vale para camundongos, não para seres humanos — e a história da pesquisa capilar está cheia de resultados excelentes em roedores que não se sustentaram depois. Os próprios autores descrevem o achado como estratégia promissora, não como tratamento.</p>
-
-<h2>O que isso significa na prática, hoje</h2>
-<p>Do ponto de vista de quem quer comprar algo: nada. Não existe produto no mercado que reproduza esses experimentos.</p>
-<p>Do ponto de vista conceitual, há um deslocamento útil. Se o ambiente ao redor do folículo pesa tanto quanto as células, então inflamação crônica de baixo grau no couro cabeludo deixa de ser apenas incômodo estético e passa a ter relevância teórica. Isso dá uma razão a mais para levar irritação persistente a sério — sem transformar isso em promessa.</p>
-<p>E convém preparar o filtro: os termos <em>exossomos</em>, <em>COL17A1</em> e <em>senolíticos</em> vão aparecer em rótulo nos próximos meses. Palavra na embalagem não significa que o produto reproduz o experimento. A pergunta a fazer é sempre a mesma: que evidência existe em pessoas?</p>
-<p>Quanto ao Head Spa, vale a honestidade: ele não atua sobre rede de colágeno nem reverte miniaturização. O que ele faz é bem delimitado — limpeza, conforto, relaxamento — e não precisa de justificativa científica emprestada de biologia molecular.</p>
-
-<h2>Onde buscar resposta de verdade</h2>
-<p>Perda progressiva de densidade, recuo da linha frontal ou afinamento visível dos fios são assunto de dermatologista. Existem tratamentos com evidência em humanos, e existem distinções diagnósticas — androgenética, eflúvio telógeno, causas autoimunes, alopecias cicatriciais — que mudam completamente a conduta. Nenhuma delas se resolve por artigo de blog.</p>
 
 <p><em>Este texto é informativo e não substitui avaliação médica.</em></p>
 """
